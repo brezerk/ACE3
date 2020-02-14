@@ -5,7 +5,7 @@
             <English>Gunbag</English>
             <German>Waffentasche</German>
             <French>Housse d'arme</French>
-            <Russian>Чехол</Russian>
+            <Russian>Чохол</Russian>
             <Czech>Pouzdro na zbraň</Czech>
             <Japanese>ガンバッグ</Japanese>
             <Polish>Torba na broń</Polish>
@@ -21,7 +21,7 @@
             <English>Gunbag (Tan)</English>
             <German>Waffentasche (Tan)</German>
             <French>Housse d'arme (marron clair)</French>
-            <Russian>Чехол (желтовато-коричневый)</Russian>
+            <Russian>Чохол (світло-коричневий)</Russian>
             <Czech>Pouzdro na zbraň (Žlutohnědá)</Czech>
             <Japanese>ガンバッグ (タン)</Japanese>
             <Polish>Torba na broń (jasnobrązowa)</Polish>
@@ -37,7 +37,7 @@
             <English>Put weapon into gunbag</English>
             <German>Lege Waffe in Waffentasche</German>
             <French>Ranger l'arme dans la housse</French>
-            <Russian>Зачехлить оружие</Russian>
+            <Russian>Зачохлити зброю</Russian>
             <Czech>Vložit zbraň do pouzdra</Czech>
             <Japanese>ガンバッグへ武器を入れる</Japanese>
             <Polish>Włóż broń do torby</Polish>
@@ -53,7 +53,7 @@
             <English>Get weapon out of gunbag</English>
             <German>Hole Waffe aus Waffentasche</German>
             <French>Extraire l'arme de la housse</French>
-            <Russian>Расчехлить оружие</Russian>
+            <Russian>Розчохлити зброю</Russian>
             <Czech>Vytáhnout zbraň z pouzdra</Czech>
             <Japanese>ガンバッグから武器を出す</Japanese>
             <Polish>Wyciągnij broń z torby</Polish>
@@ -85,7 +85,7 @@
             <English>Gunbag Empty</English>
             <German>Waffentasche leer</German>
             <French>Housse d'arme vide</French>
-            <Russian>Чехол пуст</Russian>
+            <Russian>Чохол порожній</Russian>
             <Czech>Prázdné pouzdro na zbraň</Czech>
             <Japanese>ガンバッグは空</Japanese>
             <Polish>Torba jest pusta</Polish>

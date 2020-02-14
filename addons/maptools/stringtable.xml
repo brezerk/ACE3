@@ -11,7 +11,7 @@
             <Italian>Strumenti cartografici</Italian>
             <Portuguese>Ferramentas de Mapa</Portuguese>
             <Hungarian>Térképészeti eszközök</Hungarian>
-            <Russian>Инструменты карты</Russian>
+            <Russian>Інструменти мапи</Russian>
             <Japanese>マップ ツール</Japanese>
             <Korean>독도용 도구</Korean>
             <Chinesesimp>地图工具</Chinesesimp>
@@ -28,7 +28,7 @@
             <Italian>Gli strumenti cartografici ti consentono di misurare distanze ed angoli sulla mappa.</Italian>
             <Portuguese>As Ferramentas de Mapa permitem que você meça distâncias e ângulos no mapa.</Portuguese>
             <Hungarian>A térképészeti eszközökkel távolságokat és szögeket tudsz mérni a térképen.</Hungarian>
-            <Russian>Картографические инструменты позволяют измерять расстояния и углы на карте.</Russian>
+            <Russian>Картографічні інструменти, що дозволяють вимірювати відстані та кути на мапі</Russian>
             <Japanese>マップ ツールは地図上で距離や角度を測れます。</Japanese>
             <Korean>독도용 도구는 지도상에서 거리나 각도를 잴 수 있게 해줍니다.</Korean>
             <Chinesesimp>地图工具能够让你在地图上测量距离与角度</Chinesesimp>
@@ -45,7 +45,7 @@
             <Italian>Strumenti cartografici</Italian>
             <Portuguese>Ferramentas de Mapa</Portuguese>
             <Hungarian>Térképészeti eszközök</Hungarian>
-            <Russian>Инструменты карты</Russian>
+            <Russian>Інструменти мапи</Russian>
             <Japanese>マップ ツール</Japanese>
             <Korean>독도용 도구</Korean>
             <Chinesesimp>地图工具</Chinesesimp>
@@ -62,7 +62,7 @@
             <Hungarian>Térképészeti eszközök elrejtése</Hungarian>
             <Polish>Ukryj narzędzia nawigacyjne</Polish>
             <Czech>Schovat pomůcky k mapě</Czech>
-            <Russian>Скрыть инструменты</Russian>
+            <Russian>Приховати інструменти</Russian>
             <Japanese>マップ ツールを隠す</Japanese>
             <Korean>독도용 도구 숨기기</Korean>
             <Chinesesimp>隐藏地图工具</Chinesesimp>
@@ -79,7 +79,7 @@
             <Hungarian>Térképészeti eszköz megjelenítése (normál méret)</Hungarian>
             <Polish>Pokaż normalne narzędzia nawigacyjne</Polish>
             <Czech>Zobrazit pomůcku k mapě (Velkou)</Czech>
-            <Russian>Показать инструменты (средн. размер)</Russian>
+            <Russian>Показати інструменти (Середн.)</Russian>
             <Japanese>マップ ツールを表示する</Japanese>
             <Korean>보통 독도용 도구로 보기</Korean>
             <Chinesesimp>显示地图工具</Chinesesimp>
@@ -96,7 +96,7 @@
             <Hungarian>Térképészeti eszköz megjelenítése (kicsinyített)</Hungarian>
             <Polish>Pokaż pomniejszone narzędzia nawigacyjne</Polish>
             <Czech>Zobrazit pomůcku k mapě (Malou)</Czech>
-            <Russian>Показать инструменты (малый размер)</Russian>
+            <Russian>Показати інструменти (Мал.)</Russian>
             <Japanese>小さいマップ ツールを表示する</Japanese>
             <Korean>작은 독도용 도구로 보기</Korean>
             <Chinesesimp>显示小的地图工具</Chinesesimp>
@@ -113,7 +113,7 @@
             <Hungarian>Térképészeti eszköz Északhoz állítása</Hungarian>
             <Polish>Wyrównaj linijkę do północy</Polish>
             <Czech>Srovnat pomůcku k mapě na sever</Czech>
-            <Russian>Выровнять инструменты на север</Russian>
+            <Russian>Вирівняти на Північ</Russian>
             <Japanese>マップ ツールを北に合わせる</Japanese>
             <Korean>독도용 도구를 북쪽으로 정렬</Korean>
             <Chinesesimp>地图工具对准北方</Chinesesimp>
@@ -130,7 +130,7 @@
             <Hungarian>Térképészeti eszköz iránytűhöz állítása</Hungarian>
             <Polish>Wyrównaj linijkę do kompasu</Polish>
             <Czech>Srovnat pomůcku k mapě ke kompasu</Czech>
-            <Russian>Выровнять инструменты по компасу</Russian>
+            <Russian>Вирівняти по компасу</Russian>
             <Japanese>マップ ツールを方位磁石に合わせる</Japanese>
             <Korean>독도용 도구를 나침반에 정렬</Korean>
             <Chinesesimp>地图工具对准指北针</Chinesesimp>
@@ -147,7 +147,7 @@
             <Hungarian>GPS megjelenítése a térképen</Hungarian>
             <Polish>Pokaż GPS na mapie</Polish>
             <Czech>Zobrazit GPS na mapě</Czech>
-            <Russian>Показать GPS на карте</Russian>
+            <Russian>Показати GPS на мапі</Russian>
             <Japanese>地図上に GPS を表示する</Japanese>
             <Korean>GPS를 지도상에 꺼내기</Korean>
             <Chinesesimp>在地图上显示GPS</Chinesesimp>
@@ -164,7 +164,7 @@
             <Hungarian>GPS elrejtése a térképről</Hungarian>
             <Polish>Ukryj GPS na mapie</Polish>
             <Czech>Schovat GPS na mapě</Czech>
-            <Russian>Скрыть GPS на карте</Russian>
+            <Russian>Приховати GPS на мапі</Russian>
             <Japanese>地図上から GPS を隠す</Japanese>
             <Korean>GPS를 지도상에서 숨기기</Korean>
             <Chinesesimp>在地图上隐藏GPS</Chinesesimp>
@@ -179,7 +179,7 @@
             <Polish>Kierunek: %1°</Polish>
             <Spanish>Dirección: %1°</Spanish>
             <Hungarian>Irány: %1</Hungarian>
-            <Russian>Направление: %1°</Russian>
+            <Russian>Напрямок: %1°</Russian>
             <Italian>Direzione: %1°</Italian>
             <Portuguese>Direção: %1</Portuguese>
             <Japanese>方位：%1°</Japanese>
@@ -191,7 +191,7 @@
         <Key ID="STR_ACE_MapTools_rotateModifierKey_displayName">
             <English>Rotate Map Tools Key</English>
             <French>Touche de rotation des outils de navigation</French>
-            <Russian>Клавиша поворота инструментов карты</Russian>
+            <Russian>Клавіша повороту інструментів мапи</Russian>
             <Japanese>マップ ツールの回転キー</Japanese>
             <Polish>Klawisz obrotu narzędzi nawigacyjnych</Polish>
             <German>Taste zum Drehen des Kartenwerkzeugs</German>
@@ -206,7 +206,7 @@
         <Key ID="STR_ACE_MapTools_rotateModifierKey_description">
             <English>Modifier key to allow rotating map tools</English>
             <French>Touche modificatrice permettant la rotation des outils de navigation.</French>
-            <Russian>Клавиша-модификатор, позволяющая поворачивать инструменты карты</Russian>
+            <Russian>Клавіша-модіфікатор, що дозволяє повертати інструменти мапи (За замовчуванням - Alt)</Russian>
             <Japanese>マップ ツールを回転させるキーを編集できます。</Japanese>
             <Polish>Modyfikator pozwalający na obracanie narzędzi nawigacyjnych</Polish>
             <German>Steuerungstaste, um Drehung des Kartenwerkzeugs zu ermöglichen.</German>
@@ -227,7 +227,7 @@
             <Italian>Disegna linee dritte con gli strumenti di mappatura</Italian>
             <Chinesesimp>使用地图工具来绘制直线</Chinesesimp>
             <Chinese>使用地圖工具來繪製直線</Chinese>
-            <Russian>Прямые линии с инструментами карты</Russian>
+            <Russian>Малювати прямі лінії з інструментами</Russian>
             <Portuguese>Desenhar linhas retas com as ferramentas de mapa</Portuguese>
             <Czech>Kreslit rovné čáry s pomůckou k mapě</Czech>
         </Key>
@@ -241,7 +241,7 @@
             <Italian>Disegna sul bordo degli strumenti di mappatura per disegnare linee dritte. Nota: Deve spostarsi al centro per essere cancellato.</Italian>
             <Chinesesimp>使用地图工具的边缘来绘制直线。备注: 要删除直线时，请把滑鼠移动到该线条的中央即可删除该线。</Chinesesimp>
             <Chinese>使用地圖工具的邊緣來繪製直線。備註: 要刪除直線時，請把滑鼠移動到該線條的中央即可刪除該線</Chinese>
-            <Russian>Рисуйте по краю инструмента карты, чтобы провести прямые линии. Примечание: при удалении линии размещайте курсор над ее серединой</Russian>
+            <Russian>Малюйте прямі лінії по краю інструментів. Примітка: для видалення лінії наведіть курсор на її середню частину.</Russian>
             <Portuguese>Desenhe no canto da ferramenta de mapa para desenhar linhas retas. Observação: Sobreponha o meio com o mouse para deletar.</Portuguese>
             <Czech>Povolit kreslení rovných čar při kreslení na okraji pomůcky k mapě. Poznámka: Pro smazání musíte mít kurzor nad středem čáry.</Czech>
         </Key>

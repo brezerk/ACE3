@@ -8,7 +8,7 @@
             <Polish>Ogranicznik prędkości włączony</Polish>
             <Czech>Omezovač rychlosti zapnut</Czech>
             <French>Limiteur de vitesse activé</French>
-            <Russian>Ограничение скорости включено</Russian>
+            <Russian>Обмеження швидкості активовано</Russian>
             <Hungarian>Sebességkorlátozó bekapcsolva</Hungarian>
             <Portuguese>Limitador de Velocidade Ativo</Portuguese>
             <Italian>Limitatore Attivo</Italian>
@@ -25,7 +25,7 @@
             <Polish>Ogranicznik prędkości wyłączony</Polish>
             <Czech>Omezovač rychlosti vypnut</Czech>
             <French>Limiteur de vitesse désactivé</French>
-            <Russian>Ограничение скорости выключено</Russian>
+            <Russian>Обмеження швидкості вимкнуто</Russian>
             <Hungarian>Sebességkorlátozó kikapcsolva</Hungarian>
             <Portuguese>Limitador de Velocidade Desativado</Portuguese>
             <Italian>Limitatore Non Attivo</Italian>
@@ -41,7 +41,7 @@
             <Italian>Limite di velocità</Italian>
             <Japanese>速度制限</Japanese>
             <Polish>Ograniczenie prędkości</Polish>
-            <Russian>Ограничение скорости</Russian>
+            <Russian>Обмеження швидкості</Russian>
             <Portuguese>Limite de Velocidade</Portuguese>
             <Spanish>Límite de velocidad</Spanish>
             <Czech>Rychlostní omezení</Czech>
@@ -56,7 +56,7 @@
             <Polish>Ogranicznik prędkości</Polish>
             <Czech>Omezovač rychlosti</Czech>
             <French>Limiteur de vitesse</French>
-            <Russian>Ограничитель скорости</Russian>
+            <Russian>Обмежувач швидкості</Russian>
             <Hungarian>Sebességkorlátozó</Hungarian>
             <Portuguese>Limitador de Velocidade</Portuguese>
             <Italian>Limitatore di Velocità</Italian>
@@ -72,7 +72,7 @@
             <Italian>Aumenta limite di velocità</Italian>
             <Japanese>速度制限を増やす</Japanese>
             <Polish>Zwiększ ograniczenie prędkości</Polish>
-            <Russian>Увеличить ограничение скорости</Russian>
+            <Russian>Збільшити обмеження швидкості</Russian>
             <Portuguese>Aumentar Limite de Velocidade</Portuguese>
             <Spanish>Aumentar límite de velocidad</Spanish>
             <Czech>Zvyš rychlostní limit</Czech>
@@ -86,7 +86,7 @@
             <Italian>Diminuisce limite di velocità</Italian>
             <Japanese>速度制限を減らす</Japanese>
             <Polish>Zmniejsz ograniczenie prędkości</Polish>
-            <Russian>Уменьшить ограничение скорости</Russian>
+            <Russian>Зменшити обмеження швидкості</Russian>
             <Portuguese>Diminuir Limite de Velocidade</Portuguese>
             <Spanish>Disminuir límite de velocidad</Spanish>
             <Czech>Sniž rychlostní limit</Czech>
@@ -98,7 +98,7 @@
             <English>Disable automatic engine shut-off</English>
             <German>Motor nach Verlassen laufen lassen</German>
             <Japanese>エンジン自動停止を無効化</Japanese>
-            <Russian>Убрать автовыключение двигателя</Russian>
+            <Russian>Прибрати автовимкнення двигуна</Russian>
             <Portuguese>Desativar desligamento automático do motor</Portuguese>
             <Spanish>Desactivar apagado automático del motor</Spanish>
             <Czech>Vypni automatické vypnutí motoru</Czech>
@@ -112,7 +112,7 @@
             <English>Prevent the automatic shut-off of the engine when exiting vehicles.</English>
             <German>Verhindere das automatische Abschalten des Motors beim Verlassen des Fahrzeugs.</German>
             <Japanese>車両から降りた時のエンジンの自動停止を防ぎます。</Japanese>
-            <Russian>Запрещает автоматическое выключение двигателя при выходе из транспорта</Russian>
+            <Russian>Забороняє автоматичне вимикання двигуна при виході з техніки</Russian>
             <Portuguese>Previne que o motor do veículo seja desligado automaticamente quando o motorista sair.</Portuguese>
             <Spanish>Desactivar el apagado automático del motor al salir de los vehículos.</Spanish>
             <Czech>Zabraň automatickému vypnutí motoru při opuštění vozidla.</Czech>
@@ -126,7 +126,7 @@
             <English>Hide Eject Action</English>
             <German>Abspringen-Aktion verstecken</German>
             <Polish>Ukryj akcję Wyskocz</Polish>
-            <Russian>Убрать действие 'Выпрыгнуть'</Russian>
+            <Russian>Прибрати дію 'Вистрибнути'</Russian>
             <Japanese>脱出アクションを非表示</Japanese>
             <Portuguese>Ocultar opção de Ejetar</Portuguese>
             <Spanish>Ocultar acción de expulsión</Spanish>
@@ -139,7 +139,7 @@
             <English>Hides the Eject entry from the action menu. Requires a game restart.</English>
             <German>Versteckt den Abspringen-Eintrag aus dem Aktionsmenü. Benötigt Neustart des Spiels.</German>
             <Polish>Usuwa akcję Wyskocz z menu akcji. Wymaga restartu gry.</Polish>
-            <Russian>Убирает действие 'Выпрыгнуть' из меню. (Требует перезагрузки)</Russian>
+            <Russian>Прибирає дію 'Вистрибнути' з меню. (Вимагає перезавантаження)</Russian>
             <Japanese>アクション メニューから脱出アクションを消します。ゲームの再起動が必要です。</Japanese>
             <Portuguese>Oculta a opção de interação para ejetar. Requer que o jogo seja reiniciado.</Portuguese>
             <Spanish>Oculta la entrada Expulsar del menú de acciones. Requiere un reinicio del juego.</Spanish>

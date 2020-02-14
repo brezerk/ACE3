@@ -5,7 +5,7 @@
             <English>Make Inventory Display Bigger</English>
             <German>Erhöhe die angezeigte Inventargröße</German>
             <Spanish>Hacer la pantalla de inventario mas grande</Spanish>
-            <Russian>Изменить размер окна инвентаря</Russian>
+            <Russian>Збільшити розмір вікна інвентарю</Russian>
             <Czech>Zvětšit zobrazení inventáře</Czech>
             <Polish>Powiększ UI ekwipunku</Polish>
             <French>Agrandir l'affichage de l'inventaire</French>
@@ -22,7 +22,7 @@
             <English>Normally inventory display is scaled by UI size. This allows scaling the Inventory UI size up, but doesn't increase font size allowing more rows displayed.</English>
             <German>Im Regelfall wird die Inventargröße durch die Größe der Nutzeroberfläche bestimmt. Diese Einstellung erlaubt es, das Inventar unter Ausschluss der Schriftgröße zu vergrößern. Dadurch können mehr Gegenstände angezeigt werden.</German>
             <Spanish>Normalmente la pantalla de inventario se escala por el tamaño de la interfaz de usuario. Esto permite ampliar el tamaño de la interfaz de usuario de inventario, pero no aumenta el tamaño de fuente, permitiendo mostrar más filas.</Spanish>
-            <Russian>Обычно, размер окна инвентаря зависит от размеров пользовательского интерфейса. Эта настройка позволяет увеличить размер окна инвентаря, не увеличивая размеры шрифтов, так что отображется большее количество строк.</Russian>
+            <Russian>Зазвичай, розміри вікна інвентарю залежить від розмірів користувацького інтерфейсу. Ця установка збільшує розміри інвентарю, не збільшуючи шрифти, що дозволяє відображати більшу кількість рядків.</Russian>
             <Czech>Normálně se velikost invetáře škáluje s velikostí UI. Toto nastavení dovoluje škálování velikost inventáře ale nežvětšuje velikost fontu. To dovoluje zobrazení více řad v inventáři.</Czech>
             <Polish>Ekwipunek skalowany jest poprzez rozmiar UI. Ta opcja pozwala powiększyć rozmiar UI ekwipunku, lecz nie zwiększa rozmiaru fontu pozwalając na wyświetlanie większej ilości wierszy.</Polish>
             <French>En principe, l'affichage de l'inventaire est dimensionné par la taille de l'IU. Cette option permet d'agrandir l'IU de l'inventaire, mais sans augmenter la taille des polices, ce qui permet d'afficher plus de lignes.</French>
@@ -60,7 +60,7 @@
             <Spanish>Cascos</Spanish>
             <French>Couvre-chefs</French>
             <Portuguese>Capacetes</Portuguese>
-            <Russian>Головные уборы</Russian>
+            <Russian>Головні убори</Russian>
             <Japanese>ヘッドギア</Japanese>
             <Korean>헬멧</Korean>
             <Chinesesimp>头盔</Chinesesimp>
@@ -76,7 +76,7 @@
             <Spanish>Gafas</Spanish>
             <French>Lunettes</French>
             <Portuguese>Óculos</Portuguese>
-            <Russian>Очки</Russian>
+            <Russian>Окуляри</Russian>
             <Japanese>メガネ</Japanese>
             <Korean>안경</Korean>
             <Chinesesimp>眼镜</Chinesesimp>
@@ -92,7 +92,7 @@
             <Spanish>Uniformes</Spanish>
             <French>Uniformes</French>
             <Portuguese>Uniformes</Portuguese>
-            <Russian>Униформа</Russian>
+            <Russian>Уніформи</Russian>
             <Japanese>戦闘服</Japanese>
             <Korean>복장</Korean>
             <Chinesesimp>服装</Chinesesimp>
@@ -108,7 +108,7 @@
             <Spanish>Chalecos</Spanish>
             <French>Vestes</French>
             <Portuguese>Coletes</Portuguese>
-            <Russian>Жилеты</Russian>
+            <Russian>Жилети</Russian>
             <Japanese>ベスト</Japanese>
             <Korean>조끼</Korean>
             <Chinesesimp>背心</Chinesesimp>
@@ -124,7 +124,7 @@
             <Spanish>Granadas</Spanish>
             <French>Grenades</French>
             <Portuguese>Granadas</Portuguese>
-            <Russian>Гранаты</Russian>
+            <Russian>Гранати</Russian>
             <Japanese>手榴弾</Japanese>
             <Korean>수류탄</Korean>
             <Chinesesimp>手榴弹</Chinesesimp>

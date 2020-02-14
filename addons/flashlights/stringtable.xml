@@ -6,7 +6,7 @@
             <German>Fulton MX-991</German>
             <Polish>Fulton MX-991</Polish>
             <Portuguese>Fulton MX-991</Portuguese>
-            <Russian>Fulton MX-991</Russian>
+            <Russian>Ліхтар Fulton MX-991</Russian>
             <Czech>Fulton MX-991</Czech>
             <Spanish>Fulton MX-991</Spanish>
             <Italian>Fulton MX-991</Italian>
@@ -22,7 +22,7 @@
             <German>Taschenlampe mit rotem Filter zum Kartenlesen.</German>
             <Polish>Latarka z czerwonym filtrem. Używana do podświetlania mapy.</Polish>
             <Portuguese>Lanterna com filtro vermelho. Para uso no mapa.</Portuguese>
-            <Russian>Фонарь с красным светофильтром. Для использования на карте.</Russian>
+            <Russian>Ліхтар Fulton MX-991 з червоним світлофільтром. Для використання на мапі.</Russian>
             <Czech>Svítilna s červeným filtrem. Pro nahlédnutí do mapy.</Czech>
             <Spanish>Linterna con filtro rojo. Para su uso en el mapa.</Spanish>
             <Italian>Torcia con filtro rosso. Da usare in mappa.</Italian>
@@ -38,7 +38,7 @@
             <German>Maglite XL50</German>
             <Polish>Maglite XL50</Polish>
             <Portuguese>Maglite XL50</Portuguese>
-            <Russian>Maglite XL50</Russian>
+            <Russian>Ліхтар Maglite XL50</Russian>
             <Czech>Maglite XL50</Czech>
             <Spanish>Maglite XL50</Spanish>
             <Italian>Maglite XL50</Italian>
@@ -54,7 +54,7 @@
             <German>Mini-Taschenlampe mit weißem Licht zum Kartenlesen.</German>
             <Polish>Mini latarka. Światło białe. Używana do podświetlania mapy.</Polish>
             <Portuguese>Mini lanterna branca. Para uso no mapa.</Portuguese>
-            <Russian>Небольшой фонарик белого света. Для использования на карте.</Russian>
+            <Russian>Невеликий ліхтарик з білим світлом. Для використання на мапі.</Russian>
             <Czech>Bílá mini svítilna. Pro nahlédnutí do mapy.</Czech>
             <Spanish>Mini linterna blanca. Para su uso en el mapa.</Spanish>
             <Italian>Mini-torcia bianca. Da usare in mappa.</Italian>
@@ -70,7 +70,7 @@
             <German>KSF-1</German>
             <Polish>KSF-1</Polish>
             <Portuguese>KSF-1</Portuguese>
-            <Russian>KSF-1</Russian>
+            <Russian>Ліхтар KSF-1</Russian>
             <Czech>KSF-1</Czech>
             <Spanish>KSF-1</Spanish>
             <Italian>KSF-1</Italian>
@@ -86,7 +86,7 @@
             <German>Taschenlampe mit rotem Filter zum Kartenlesen.</German>
             <Polish>Latarka z czerwonym filtrem. Używana do podświetlania mapy.</Polish>
             <Portuguese>Lanterna com filtro vermelho. Para uso no mapa.</Portuguese>
-            <Russian>Фонарь с красным светофильтром. Для использования на карте.</Russian>
+            <Russian>Ліхтар KSF-1 з червоним світлофільтром. Для використання на мапі.</Russian>
             <Czech>Svítilna s červeným filtrem. Pro nahlédnutí do mapy.</Czech>
             <Spanish>Linterna con filtro rojo. Para su uso en el mapa.</Spanish>
             <Italian>Torcia con filtro rosso. Da usare in mappa.</Italian>
@@ -106,7 +106,7 @@
             <Chinese>地圖上使用手電筒的顏色</Chinese>
             <Italian>Colore della luce sulla mappa</Italian>
             <Polish>Kolor światła na mapie</Polish>
-            <Russian>Цвет подсветки карты</Russian>
+            <Russian>Колір підсвічування карти</Russian>
             <Portuguese>Cor da lanterna no mapa</Portuguese>
             <Czech>Barva svítilny na mapě</Czech>
             <Turkish>Harita ışık rengi</Turkish>
@@ -114,6 +114,7 @@
         </Key>
         <Key ID="STR_ACE_Flashlights_Maglite_ML300L_DisplayName">
             <English>Maglite ML300L</English>
+            <Russian>Ліхтар Maglite ML300L</Russian>
             <German>Maglite ML300L</German>
             <Polish>Maglite ML300L</Polish>
             <Chinese>Maglite ML300L</Chinese>
@@ -126,6 +127,7 @@
         </Key>
         <Key ID="STR_ACE_Flashlights_Maglite_ML300L_Description">
             <English>Powerful LED flashlight.</English>
+            <Russian>Потужний світлодіодний ліхтар Maglite ML300L</Russian>
             <German>Leistungsstarke LED-Taschenlampe.</German>
             <Polish>Mocna latarka LED.</Polish>
             <Chinese>強大的LED手電筒</Chinese>

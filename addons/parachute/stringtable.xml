@@ -9,7 +9,7 @@
             <Polish>Wysokościomierz</Polish>
             <Spanish>Altímetro</Spanish>
             <Hungarian>Magasságmérő</Hungarian>
-            <Russian>Высотомер</Russian>
+            <Russian>Висотомір</Russian>
             <Italian>Altimetro</Italian>
             <Portuguese>Altímetro</Portuguese>
             <Japanese>高度計</Japanese>
@@ -26,7 +26,7 @@
             <Polish>Zegarek z wysokościomierzem</Polish>
             <Spanish>Reloj altímetro</Spanish>
             <Hungarian>Magasságmérős karóra</Hungarian>
-            <Russian>Часы с высотомером</Russian>
+            <Russian>Годинник з висотоміром</Russian>
             <Italian>Controlla l'altimetro</Italian>
             <Portuguese>Relógio Altímetro</Portuguese>
             <Japanese>時計型高度計</Japanese>
@@ -43,7 +43,7 @@
             <Polish>Używany przez spadochroniarzy, pokazuje wysokość, prędkość opadania oraz czas.</Polish>
             <Spanish>Utilizado para mostrar altura, tasa de descenso y hora.</Spanish>
             <Hungarian>Mutatja a magasságot, a zuhanási sebességet, és az időt.</Hungarian>
-            <Russian>Используется для определения высоты, скорости снижения и времени.</Russian>
+            <Russian>Використовується для показу висоти, швидкості спуску та часу</Russian>
             <Italian>Usato per mostrare l'altitudine, la velocità di discesa e l'ora.</Italian>
             <Portuguese>Usado para mostrar altura, taxa de descida e o tempo.</Portuguese>
             <Japanese>高度や降下率、時間を見るのに使います。</Japanese>
@@ -60,7 +60,7 @@
             <Polish>Niesterowalny spadochron</Polish>
             <Czech>Neříditelný padák</Czech>
             <Hungarian>Irányíthatatlan ejtőernyő</Hungarian>
-            <Russian>Неуправляемый парашют</Russian>
+            <Russian>Некерований парашут</Russian>
             <Italian>Paracadute non manovrabile</Italian>
             <Portuguese>Para-querdas não controlável</Portuguese>
             <Japanese>非操作型パラシュート</Japanese>
@@ -76,7 +76,7 @@
             <Polish>Odetnij spadochron</Polish>
             <Hungarian>Ejtőernyő elvágása</Hungarian>
             <Portuguese>Cortar para-quedas</Portuguese>
-            <Russian>Обрезать стропы</Russian>
+            <Russian>Обрізати стропи</Russian>
             <Czech>Odžíznout padák</Czech>
             <Spanish>Cortar paracaídas</Spanish>
             <Italian>Taglia Paracadute</Italian>
@@ -93,7 +93,7 @@
             <Polish>Spadochron awaryjny</Polish>
             <Hungarian>Tartalék ejtőernyő</Hungarian>
             <Portuguese>Para-quedas de reserva</Portuguese>
-            <Russian>Запасной парашют</Russian>
+            <Russian>Запасний парашут</Russian>
             <Czech>Záložní padák</Czech>
             <Spanish>Paracaídas de reserva</Spanish>
             <Italian>Paracadute di Riserva</Italian>
@@ -111,7 +111,7 @@
             <Chinese>隱藏自由落體高度計</Chinese>
             <Chinesesimp>隐藏自由落体高度计</Chinesesimp>
             <Polish>Schowaj wysokościomierz podczas swobodnego opadania</Polish>
-            <Russian>Убрать высотомер при падении</Russian>
+            <Russian>Прибрати висотомір при падінні</Russian>
             <Portuguese>Esconder Altímetro de queda livre</Portuguese>
             <French>Masquer l'altimètre en chute libre</French>
             <Czech>Schovat výškoměr v GUI při volném pádu</Czech>
@@ -126,7 +126,7 @@
             <Chinese>在自由落體時或開傘下隱藏自由落體高度計</Chinese>
             <Chinesesimp>在自由落体时或开伞下隐藏自由落体高度计。</Chinesesimp>
             <Polish>Chowa wysokość i prędkość pokazywaną podczas swobodnego opadania lub spadania ze spadochronem.</Polish>
-            <Russian>Скрывает показания высоты и скорости при свободном падении или прыжках с парашютом.</Russian>
+            <Russian>Приховує показники висоти та швидкості під час вільного падіння або стрибках з парашутом</Russian>
             <Portuguese>Esconde a altitude e velocidade enquanto estiver em queda livre ou saltando de paraquedas.</Portuguese>
             <French>Cache l'altitude et la vitesse affichées, lors d'une chute libre ou d'un parachutage.</French>
             <Czech>Schová výšku a rychlost v GUI při volném pádu a při použití padáku.</Czech>

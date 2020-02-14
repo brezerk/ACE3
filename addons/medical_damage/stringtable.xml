@@ -5,7 +5,7 @@
             <English>Player Critical Damage Threshold</English>
             <Japanese>プレイヤーのクリティカル ダメージしきい値</Japanese>
             <French>Seuil de dégât critique du joueur</French>
-            <Russian>Порог критического урона игрока</Russian>
+            <Russian>Поріг критичного ушкодження гравця</Russian>
             <Portuguese>Limite de Dano Crítico do Jogador</Portuguese>
             <Chinese>玩家重擊承受量</Chinese>
             <Italian>Soglia danni critici del giocatore</Italian>
@@ -18,7 +18,7 @@
             <English>Sets the amount of damage a player can receive before going unconscious.</English>
             <Japanese>プレイヤーが気絶になる前に受けられるダメージ量を決定できます。</Japanese>
             <French>Définit la quantité de dégâts qu'un joueur peut subir avant de perdre connaissance.</French>
-            <Russian>Устанавливает количество урона, которое может получить игрок, прежде чем потеряет сознание.</Russian>
+            <Russian>Встановлює, скількі ушкодження може отримати гравець перш ніж втратити свідомість</Russian>
             <Portuguese>Define a quantidade de dano que um jogador pode receber antes de ficar inconsciente.</Portuguese>
             <Chinese>設定玩家在無意識前能承受多少傷害。</Chinese>
             <Italian>Imposta la quantità di danno che un giocatore può ricevere prima di perdere conoscenza.</Italian>
@@ -32,7 +32,7 @@
             <English>AI Critical Damage Threshold</English>
             <Japanese>AI のクリティカル ダメージしきい値</Japanese>
             <French>Seuil de dégât critique de l'IA</French>
-            <Russian>Порог критического урона AI</Russian>
+            <Russian>Поріг критичного ушкодження ботів</Russian>
             <Portuguese>Limite de Dano Crítico da IA</Portuguese>
             <Chinese>AI重擊承受量</Chinese>
             <Italian>Soglia dei danni critici dell AI</Italian>
@@ -45,7 +45,7 @@
             <English>Sets the amount of damage an AI unit can receive before going unconscious.</English>
             <Japanese>AI が気絶になる前に受けられるダメージ量を決定できます。</Japanese>
             <French>Définit la quantité de dégâts qu'une unité IA peut subir avant de perdre connaissance.</French>
-            <Russian>Устанавливает количество урона, которое может получить ИИ, прежде чем потеряет сознание.</Russian>
+            <Russian>Встановлює, скількі ушкодження може отримати бот, перш ніж втратити свідомість</Russian>
             <Portuguese>Define a quantidade de dano que uma IA pode receber antes de ficar inconsciente.</Portuguese>
             <Chinese>設定AI在無意識之前能承受多少傷害</Chinese>
             <Italian>Imposta la quantità di danno che un'unità AI può ricevere prima di perdere conoscenza.</Italian>
@@ -58,7 +58,7 @@
             <English>Scrape</English>
             <German>Kratzer</German>
             <Italian>Scorticatura</Italian>
-            <Russian>Ссадина</Russian>
+            <Russian>Подряпина</Russian>
             <French>Écorchure</French>
             <Polish>Draśnięcie</Polish>
             <Spanish>Arañazo</Spanish>
@@ -74,7 +74,7 @@
             <English>Minor Scrape</English>
             <German>Kleiner Kratzer</German>
             <Italian>Minima Scorticatura</Italian>
-            <Russian>Малая ссадина</Russian>
+            <Russian>Мала подряпина</Russian>
             <French>Petite écorchure</French>
             <Polish>Pomniejsze draśnięcie</Polish>
             <Spanish>Arañazo menor</Spanish>
@@ -90,7 +90,7 @@
             <English>Medium Scrape</English>
             <German>Mittlerer Kratzer</German>
             <Italian>Media Scorticatura</Italian>
-            <Russian>Средняя ссадина</Russian>
+            <Russian>Середня подряпина</Russian>
             <French>Moyenne écorchure</French>
             <Polish>Średnie draśnięcie</Polish>
             <Spanish>Arañazo medio</Spanish>
@@ -106,7 +106,7 @@
             <English>Large Scrape</English>
             <German>Großer Kratzer</German>
             <Italian>Alta Scorticatura</Italian>
-            <Russian>Большая ссадина</Russian>
+            <Russian>Велика подряпина</Russian>
             <French>Grande écorchure</French>
             <Polish>Duże draśnięcie</Polish>
             <Spanish>Arañazo severo</Spanish>
@@ -122,7 +122,7 @@
             <English>Avulsion</English>
             <German>Avulsion</German>
             <Italian>Avulsione</Italian>
-            <Russian>Авульсия</Russian>
+            <Russian>Авульсія</Russian>
             <French>Avulsion</French>
             <Polish>Rana płatowa</Polish>
             <Spanish>Avulsión</Spanish>
@@ -138,7 +138,7 @@
             <English>Minor Avulsion</English>
             <German>Kleine Avulsion</German>
             <Italian>Minima Avulsione</Italian>
-            <Russian>Малая Авульсия</Russian>
+            <Russian>Мала Авульсія</Russian>
             <French>Petite avulsion</French>
             <Polish>Pomniejsza rana płatowa</Polish>
             <Spanish>Avulsión menor</Spanish>
@@ -154,7 +154,7 @@
             <English>Medium Avulsion</English>
             <German>Mittlere Avulsion</German>
             <Italian>Media Avulsione</Italian>
-            <Russian>Средняя Авульсия</Russian>
+            <Russian>Средня Авульсія</Russian>
             <French>Moyenne avulsion</French>
             <Polish>Średnia rana płatowa</Polish>
             <Spanish>Avulsión media</Spanish>
@@ -170,7 +170,7 @@
             <English>Large Avulsion</English>
             <German>Große Avulsion</German>
             <Italian>Alta Avulsione</Italian>
-            <Russian>Большая Авульсия</Russian>
+            <Russian>Велика Авульсія</Russian>
             <French>Grande avulsion</French>
             <Polish>Duża rana płatowa</Polish>
             <Spanish>Avulsión severa</Spanish>
@@ -186,7 +186,7 @@
             <English>Bruise</English>
             <German>Prellung</German>
             <Italian>Contusione</Italian>
-            <Russian>Ушиб</Russian>
+            <Russian>Гематома</Russian>
             <French>Hématome</French>
             <Polish>Stłuczenie</Polish>
             <Spanish>Contusión</Spanish>
@@ -202,7 +202,7 @@
             <English>Minor Bruise</English>
             <German>Kleine Prellung</German>
             <Italian>Minima Contusione</Italian>
-            <Russian>Слабый ушиб</Russian>
+            <Russian>Мала Гематома</Russian>
             <French>Petit hématome</French>
             <Polish>Pomniejsze stłuczenie</Polish>
             <Spanish>Contusión menor</Spanish>
@@ -218,7 +218,7 @@
             <English>Medium Bruise</English>
             <German>Mittlere Prellung</German>
             <Italian>Media Contusione</Italian>
-            <Russian>Средний ушиб</Russian>
+            <Russian>Середня Гематома</Russian>
             <French>Moyen hématome</French>
             <Polish>Średnie stłuczenie</Polish>
             <Spanish>Contusión media</Spanish>
@@ -234,7 +234,7 @@
             <English>Large Bruise</English>
             <German>Große Prellung</German>
             <Italian>Alta Contusione</Italian>
-            <Russian>Сильный ушиб</Russian>
+            <Russian>Велика Гематома</Russian>
             <French>Grand hématome</French>
             <Polish>Duże stłuczenie</Polish>
             <Spanish>Contusión severa</Spanish>
@@ -250,7 +250,7 @@
             <English>Crushed tissue</English>
             <German>Quetschverletzung</German>
             <Italian>Tessuto Schiacciato</Italian>
-            <Russian>Компрессионная травма</Russian>
+            <Russian>Компресійна травма</Russian>
             <French>Tissu écrasé</French>
             <Polish>Zgniecienie tkanek miękkich</Polish>
             <Spanish>Tejido triturado</Spanish>
@@ -266,7 +266,7 @@
             <English>Minor crushed tissue</English>
             <German>Kleine Quetschverletzung</German>
             <Italian>Minimo Tessuto Schiacciato</Italian>
-            <Russian>Слабая компрессионная травма</Russian>
+            <Russian>Мала Компресійна травма</Russian>
             <French>Tissu légèrement écrasé</French>
             <Polish>Pomniejsze zgniecienie tkanek miękkich</Polish>
             <Spanish>Tejido triturado menor</Spanish>
@@ -282,7 +282,7 @@
             <English>Medium crushed tissue</English>
             <German>Mittlere Quetschverletzung</German>
             <Italian>Medio Tessuto Schiacciato</Italian>
-            <Russian>Умеренная компрессионная травма</Russian>
+            <Russian>Середня Компресійна травма</Russian>
             <French>Tissu moyennement écrasé</French>
             <Polish>Średnie zgniecienie tkanek miękkich</Polish>
             <Spanish>Tejido triturado medio</Spanish>
@@ -298,7 +298,7 @@
             <English>Large crushed tissue</English>
             <German>Große Quetschverletzung</German>
             <Italian>Alto Tessuto Schiacciato</Italian>
-            <Russian>Сильная компрессионная травма</Russian>
+            <Russian>Велика Компресійна травма</Russian>
             <French>Tissu fortement écrasé</French>
             <Polish>Duże zgniecienie tkanek miękkich</Polish>
             <Spanish>Tejido triturado severo</Spanish>
@@ -314,7 +314,7 @@
             <English>Cut</English>
             <German>Schnittwunde</German>
             <Italian>Taglio</Italian>
-            <Russian>Порез</Russian>
+            <Russian>Різана рана</Russian>
             <French>Coupure</French>
             <Polish>Rana cięta</Polish>
             <Spanish>Corte</Spanish>
@@ -330,7 +330,7 @@
             <English>Small Cut</English>
             <German>Kleine Schnittwunde</German>
             <Italian>Piccolo Taglio</Italian>
-            <Russian>Мелкий порез</Russian>
+            <Russian>Мала Різана рана</Russian>
             <Polish>Pomniejsza rana cięta</Polish>
             <Spanish>Corte menor</Spanish>
             <Hungarian>Kis vágás</Hungarian>
@@ -346,7 +346,7 @@
             <English>Medium Cut</English>
             <German>Mittlere Schnittwunde</German>
             <Italian>Medio Taglio</Italian>
-            <Russian>Средний порез</Russian>
+            <Russian>Середня Різана рана</Russian>
             <Polish>Średnia rana cięta</Polish>
             <Spanish>Corte mediano</Spanish>
             <Hungarian>Közepes vágás</Hungarian>
@@ -362,7 +362,7 @@
             <English>Large Cut</English>
             <German>Große Schnittwunde</German>
             <Italian>Grande Taglio</Italian>
-            <Russian>Сильный порез</Russian>
+            <Russian>Велика Різана рана</Russian>
             <Polish>Duża rana cięta</Polish>
             <Spanish>Corte severo</Spanish>
             <Hungarian>Nagy vágás</Hungarian>
@@ -378,7 +378,7 @@
             <English>Tear</English>
             <German>Riss</German>
             <Italian>Strappo</Italian>
-            <Russian>Рваная рана</Russian>
+            <Russian>Рвана рана</Russian>
             <Polish>Rozerwanie skóry</Polish>
             <French>Lacération</French>
             <Spanish>Desgarro</Spanish>
@@ -393,7 +393,7 @@
             <English>Small Tear</English>
             <German>Kleiner Riss</German>
             <Italian>Piccolo Strappo</Italian>
-            <Russian>Малая рваная рана</Russian>
+            <Russian>Мала Рвана рана</Russian>
             <Polish>Pomniejsze rozerwanie skóry</Polish>
             <French>Petite lacération</French>
             <Spanish>Desgarro menor</Spanish>
@@ -408,7 +408,7 @@
             <English>Medium Tear</English>
             <German>Mittlerer Riss</German>
             <Italian>Medio Strappo</Italian>
-            <Russian>Средняя рваная рана</Russian>
+            <Russian>Средня Рвана рана</Russian>
             <Polish>Średnie rozerwanie skóry</Polish>
             <Spanish>Desgarro medio</Spanish>
             <Hungarian>Közepes szakadás</Hungarian>
@@ -423,7 +423,7 @@
             <English>Large Tear</English>
             <German>Großer Riss</German>
             <Italian>Grande Strappo</Italian>
-            <Russian>Большая рваная рана</Russian>
+            <Russian>Велика Рвана рана</Russian>
             <Polish>Duże rozerwanie skóry</Polish>
             <Spanish>Desgarro severo</Spanish>
             <Hungarian>Nagy szakadás</Hungarian>
@@ -438,7 +438,7 @@
             <English>Velocity Wound</English>
             <German>Ballistisches Trauma</German>
             <Italian>Velocità Ferita</Italian>
-            <Russian>Огнестрельная рана</Russian>
+            <Russian>Вогнепальна рана</Russian>
             <Polish>Rana postrzałowa</Polish>
             <French>Plaie pénétrante</French>
             <Spanish>Herida de bala</Spanish>
@@ -454,7 +454,7 @@
             <English>Small Velocity Wound</English>
             <German>Kleines Ballistisches Trauma</German>
             <Italian>Lenta Velocità Ferita</Italian>
-            <Russian>Малая огнестрельная рана</Russian>
+            <Russian>Мала Вогнепальна рана</Russian>
             <Polish>Pomniejsza rana postrzałowa</Polish>
             <Spanish>Herida de bala menor</Spanish>
             <Hungarian>Kis lőtt seb</Hungarian>
@@ -470,7 +470,7 @@
             <English>Medium Velocity Wound</English>
             <German>Mittleres Ballistisches Trauma</German>
             <Italian>Media Velocità Ferita</Italian>
-            <Russian>Средняя огнестрельная рана</Russian>
+            <Russian>Средня Вогнепальна рана</Russian>
             <Polish>Średnia rana postrzałowa</Polish>
             <Spanish>Herida de bala media</Spanish>
             <Hungarian>Közepes lőtt seb</Hungarian>
@@ -486,7 +486,7 @@
             <English>Large Velocity Wound</English>
             <German>Großes Ballistisches Trauma</German>
             <Italian>Alta Velocità Ferita</Italian>
-            <Russian>Большая огнестрельная рана</Russian>
+            <Russian>Велика Вогнепальна рана</Russian>
             <Polish>Duża rana postrzałowa</Polish>
             <Spanish>Herida de bala severa</Spanish>
             <Hungarian>Nagy lőtt seb</Hungarian>
@@ -502,7 +502,7 @@
             <English>Puncture Wound</English>
             <German>Stichwunde</German>
             <Italian>Puntura Ferita</Italian>
-            <Russian>Колотая рана</Russian>
+            <Russian>Колота рана</Russian>
             <Polish>Rana kłuta</Polish>
             <French>Blessure par perforation</French>
             <Spanish>Herida punzante</Spanish>
@@ -518,7 +518,7 @@
             <English>Minor Puncture Wound</English>
             <German>Kleine Stichwunde</German>
             <Italian>Piccola Puntura Ferita</Italian>
-            <Russian>Малая колотая рана</Russian>
+            <Russian>Мала Колота рана</Russian>
             <Polish>Pomniejsza rana kłuta</Polish>
             <Spanish>Herida punzante menor</Spanish>
             <Hungarian>Kis szúrt seb</Hungarian>
@@ -534,7 +534,7 @@
             <English>Medium Puncture Wound</English>
             <German>Mittlere Stichwunde</German>
             <Italian>Media Puntura Ferita</Italian>
-            <Russian>Средняя колотая рана</Russian>
+            <Russian>Средня Колота рана</Russian>
             <Polish>Średnia rana kłuta</Polish>
             <Spanish>Herida punzante media</Spanish>
             <Hungarian>Közepes szúrt seb</Hungarian>
@@ -550,7 +550,7 @@
             <English>Large Puncture Wound</English>
             <German>Große Stichwunde</German>
             <Italian>Grande Puntura Ferita</Italian>
-            <Russian>Большая колотая рана</Russian>
+            <Russian>Велика Колота рана</Russian>
             <Polish>Duża rana kłuta</Polish>
             <Spanish>Herida punzante severa</Spanish>
             <Hungarian>Nagy szúrt seb</Hungarian>
@@ -564,7 +564,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Damage_fatalDamageSource_DisplayName">
             <English>Fatal Damage Source</English>
-            <Russian>Причина смертельного урона</Russian>
+            <Russian>Джерело фатального ушкодження</Russian>
             <Japanese>致命傷の原因</Japanese>
             <Chinese>致命傷來源</Chinese>
             <French>Cause de blessure mortelle</French>
@@ -578,7 +578,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Damage_fatalDamageSource_Description">
             <English>Determines what damage can be fatal</English>
-            <Russian>Определяет какой урон будет смертельным</Russian>
+            <Russian>Визначає, яке ушкодження буде смертельним</Russian>
             <Japanese>致命傷となるダメージの種類を決定します。</Japanese>
             <Chinese>決定何種傷害為致命</Chinese>
             <Italian>Determina quali danni possono essere fatali</Italian>
@@ -592,7 +592,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Damage_fatalDamageSource_vitalShotsOnly">
             <English>Only large hits to vital organs</English>
-            <Russian>Только серьезные попадания в жизненно важные органы</Russian>
+            <Russian>Тільки серйозні ушкодження життєво важливих органів</Russian>
             <Japanese>重要器官に大きなダメージを受けた時のみ</Japanese>
             <Chinese>只有重要器官之重傷</Chinese>
             <French>Grosses blessures sur organes vitaux</French>
@@ -606,7 +606,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Damage_fatalDamageSource_trauma">
             <English>Sum of trauma</English>
-            <Russian>Совокупность травмы</Russian>
+            <Russian>Сукупність ушкоджень</Russian>
             <Japanese>外傷の数</Japanese>
             <Chinese>外部創傷累計</Chinese>
             <French>Somme des traumatismes</French>
@@ -619,7 +619,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Damage_fatalDamageSource_both">
             <English>Either</English>
-            <Russian>Оба</Russian>
+            <Russian>Обидва</Russian>
             <Japanese>両方</Japanese>
             <Chinese>兩者都是</Chinese>
             <French>Les deux</French>

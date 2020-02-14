@@ -6,7 +6,7 @@
             <Czech>Uživatelské rozhraní</Czech>
             <Portuguese>Interface do usuário</Portuguese>
             <French>Interface Utilisateur</French>
-            <Russian>Интерфейс</Russian>
+            <Russian>Інтерфейс користувача</Russian>
             <Japanese>ユーザ インタフェイス</Japanese>
             <Polish>Interfejs użytkownika</Polish>
             <German>Benutzeroberfläche</German>
@@ -22,7 +22,7 @@
             <Czech>Uživatelské rozhraní</Czech>
             <Portuguese>Interface do usuário</Portuguese>
             <French>Interface Utilisateur</French>
-            <Russian>Пользовательский интерфейс</Russian>
+            <Russian>Користувацький інтерфейс</Russian>
             <Japanese>ユーザ インタフェイス</Japanese>
             <Polish>Interfejs użytkownika</Polish>
             <German>Benutzeroberfläche</German>
@@ -37,7 +37,7 @@
             <English>This module allows toggling visible user interface parts.</English>
             <Portuguese>Este módulo permite ligar ou desligar partes da interface do usuário</Portuguese>
             <French>Ce module permet d'activer ou de désactiver certains éléments de l'Interface Utilisateur (IU).</French>
-            <Russian>Этот модуль позволяет переключать видимость элементов пользовательского интерфейса.</Russian>
+            <Russian>Цей модуль дозволяє налаштовувати видимість елементів інтерфейсу користувача</Russian>
             <Japanese>モジュールではユーザ インタフェイスの一部表示を切り替えできます。</Japanese>
             <Polish>Moduł ten pozwala zmienić stan widoczności poszczególnych elementów UI.</Polish>
             <German>Dieses Modul erlaubt es, Teile der Benutzeroberfläche (UI) an- oder auszuschalten.</German>
@@ -52,7 +52,7 @@
             <Czech>Povolit selektivní UI</Czech>
             <Portuguese>Permitir IU Selecionável</Portuguese>
             <French>Autoriser la personnalisation de l'IU</French>
-            <Russian>Включить настраиваемый интерфейс</Russian>
+            <Russian>Дозволити налаштування інтерфейсу</Russian>
             <Japanese>UI 選択性を許可</Japanese>
             <Polish>Zezwól na selektywne UI</Polish>
             <German>Erlaube selektives UI</German>
@@ -67,7 +67,7 @@
             <Czech>Povolit klientovi měnit jeho UI</Czech>
             <Portuguese>Permite o cliente modificar sua IU.</Portuguese>
             <French>Permet aux clients de modifier leur Interface Utilisateur.</French>
-            <Russian>Позволить клиентам изменять их пользовательский интерфейс.</Russian>
+            <Russian>Дозволити клієнтам змінювати їх інтерфейс</Russian>
             <Japanese>クライアントがユーザ インタフェイスを編集できるようにします。</Japanese>
             <Polish>Zezwól klientowi na modyfikację UI.</Polish>
             <German>Erlaube Clients, ihr UI zu modifizieren.</German>
@@ -82,7 +82,7 @@
             <Czech>Informace o Vojákovi/Vozidlu/Zbrani</Czech>
             <Portuguese>Informação de Soldado/Veículo/Armamento</Portuguese>
             <French>Information soldat/véhicule/arme</French>
-            <Russian>Информация о Солдате/Технике/Оружии</Russian>
+            <Russian>Інформація про Бійця/Техніку/Зброю</Russian>
             <Japanese>兵士/車両/武器の情報</Japanese>
             <Polish>Informacje o żołnierzu/pojeździe/broni</Polish>
             <German>Soldat/Fahrzeug/Waffe Information</German>
@@ -97,7 +97,7 @@
             <Czech>Radar vozidla</Czech>
             <Portuguese>Radar de Veículo</Portuguese>
             <French>Radar de véhicule</French>
-            <Russian>Радар в технике</Russian>
+            <Russian>Радар в техніці</Russian>
             <Japanese>車両のレーダ</Japanese>
             <Polish>Radar w pojeździe</Polish>
             <German>Fahrzeugradar</German>
@@ -113,7 +113,7 @@
             <Czech>Kompas vozidla</Czech>
             <Portuguese>Bússola de Veículo</Portuguese>
             <French>Boussole de véhicule</French>
-            <Russian>Компас в технике</Russian>
+            <Russian>Компас в техніці</Russian>
             <Japanese>車両のレーダ</Japanese>
             <Polish>Kompas w pojeździe</Polish>
             <German>Fahrzeugkompass</German>
@@ -129,7 +129,7 @@
             <Czech>Menu rozkazů</Czech>
             <Portuguese>Menu de Comando</Portuguese>
             <French>Menu de commandement</French>
-            <Russian>Командное меню</Russian>
+            <Russian>Меню команд</Russian>
             <Japanese>指揮メニュー</Japanese>
             <Polish>Menu dowodzenia</Polish>
             <German>Kommandomenü</German>
@@ -145,7 +145,7 @@
             <Czech>Panel skupiny</Czech>
             <Portuguese>Barra de Grupo</Portuguese>
             <French>Barre de groupe</French>
-            <Russian>Панель командира</Russian>
+            <Russian>Панель групи</Russian>
             <Japanese>指揮メニュー</Japanese>
             <Polish>Pasek grupy</Polish>
             <German>Gruppenleiste</German>
@@ -161,7 +161,7 @@
             <Czech>Název zbraně</Czech>
             <Portuguese>Nome do Armamento</Portuguese>
             <French>Nom de l'arme</French>
-            <Russian>Название оружия</Russian>
+            <Russian>Назва зброї</Russian>
             <Japanese>武器名</Japanese>
             <Polish>Nazwa broni</Polish>
             <German>Waffenname</German>
@@ -177,7 +177,7 @@
             <Czech>Název zbraně v pozadí</Czech>
             <Portuguese>Fundo do Nome do Armamento</Portuguese>
             <French>Fond pour le nom de l'arme</French>
-            <Russian>Фон названия оружия</Russian>
+            <Russian>Фон назви зброї</Russian>
             <Japanese>武器名の背景表示</Japanese>
             <Polish>Tło nazwy broni</Polish>
             <German>Waffenname Hintergrund</German>
@@ -192,7 +192,7 @@
             <Czech>Režim palby</Czech>
             <Portuguese>Modo de Disparo</Portuguese>
             <French>Mode de tir</French>
-            <Russian>Режим стрельбы</Russian>
+            <Russian>Режим стрільби</Russian>
             <Japanese>射撃モード</Japanese>
             <Polish>Tryb ognia</Polish>
             <German>Feuermodus</German>
@@ -208,7 +208,7 @@
             <Czech>Typ munice</Czech>
             <Portuguese>Tipo de Munição</Portuguese>
             <French>Type de munitions</French>
-            <Russian>Тип боеприпасов</Russian>
+            <Russian>Тип боєприпасів</Russian>
             <Japanese>弾種</Japanese>
             <Polish>Typ amunicji</Polish>
             <German>Munitionstyp</German>
@@ -224,7 +224,7 @@
             <Czech>Počet munice</Czech>
             <Portuguese>Quantidade de Munição</Portuguese>
             <French>Nombre de munitions</French>
-            <Russian>Количество боеприпасов</Russian>
+            <Russian>Кількість боєприпасів</Russian>
             <Japanese>弾薬数</Japanese>
             <Polish>Ilość amunicji</Polish>
             <German>Munitionsanzahl</German>
@@ -240,7 +240,7 @@
             <Czech>Počet zásobníků</Czech>
             <Portuguese>Quantidade de Carregadores</Portuguese>
             <French>Nombre de chargeurs</French>
-            <Russian>Количество магазинов</Russian>
+            <Russian>Кількість магазинів</Russian>
             <Japanese>弾倉装填数</Japanese>
             <Polish>Ilość magazynków</Polish>
             <German>Magazinanzahl</German>
@@ -256,7 +256,7 @@
             <Czech>Typ granátů apod.</Czech>
             <Portuguese>Tipo de Arremessável</Portuguese>
             <French>Type d'objet lançable</French>
-            <Russian>Тип гранаты</Russian>
+            <Russian>Тип гранати</Russian>
             <Japanese>投げる種類</Japanese>
             <Polish>Typ granatu</Polish>
             <German>Wurfobjekt-Typ</German>
@@ -272,7 +272,7 @@
             <Czech>Počet granátů apod.</Czech>
             <Portuguese>Quantidade de Arremessável</Portuguese>
             <French>Nombre d'objets lançables</French>
-            <Russian>Количество гранат</Russian>
+            <Russian>Кількість гранат</Russian>
             <Japanese>投げられる数</Japanese>
             <Polish>Ilość granatów</Polish>
             <German>Wurfobjekt-Anzahl</German>
@@ -288,7 +288,7 @@
             <Czech>Náměr</Czech>
             <Portuguese>Zerar a mira</Portuguese>
             <French>Zérotage</French>
-            <Russian>Дальность стрельбы</Russian>
+            <Russian>Прицільна дальність</Russian>
             <Japanese>ゼロイン</Japanese>
             <Polish>Wyzerowanie broni</Polish>
             <German>Nullung</German>
@@ -303,7 +303,7 @@
             <English>Weapon Lower Info Background</English>
             <Portuguese>Informações na parte de baixo do fundo do Armamento</Portuguese>
             <French>Fond pour la barre d'informations inférieure de l'arme</French>
-            <Russian>Фон ниформации об оружии снизу</Russian>
+            <Russian>Фон інформаціі про зброю</Russian>
             <Japanese>武器名の背景表示 (下側)</Japanese>
             <Polish>Tło dolnej części informacji o broni</Polish>
             <German>Hintergrund der unteren Waffen-Info-Leiste</German>
@@ -319,7 +319,7 @@
             <Czech>Postoj</Czech>
             <Portuguese>Postura</Portuguese>
             <French>Posture</French>
-            <Russian>Стойка</Russian>
+            <Russian>Стійка</Russian>
             <Japanese>姿勢</Japanese>
             <Polish>Postura</Polish>
             <German>Haltung</German>
@@ -335,7 +335,7 @@
             <Czech>Panel výdrže</Czech>
             <Portuguese>Barra de Energia</Portuguese>
             <French>Barre d'endurance</French>
-            <Russian>Полоса выносливости</Russian>
+            <Russian>Показник витривалості</Russian>
             <Japanese>体力バー</Japanese>
             <Polish>Pasek staminy</Polish>
             <German>Ausdaueranzeige</German>
@@ -350,7 +350,7 @@
             <English>Gunner Weapon Name</English>
             <Portuguese>Nome da arma do fuzileiro</Portuguese>
             <French>Nom de l'arme (tireur)</French>
-            <Russian>Название орудия наводчика</Russian>
+            <Russian>Назва зброї навідника</Russian>
             <Japanese>射手用の武器名</Japanese>
             <Polish>Nazwa broni strzelca</Polish>
             <German>Richtschütze Waffenname</German>
@@ -365,7 +365,7 @@
             <English>Gunner Weapon Name Background</English>
             <Portuguese>Fundo do nome da arma do fuzileiro</Portuguese>
             <French>Fond pour le nom de l'arme (tireur)</French>
-            <Russian>Фон названия орудия наводчика</Russian>
+            <Russian>Фон назви зброї навідника</Russian>
             <Japanese>射手用の武器名の背景表示</Japanese>
             <Polish>Tło nazwy broni strzelca</Polish>
             <German>Richtschütze Waffenname Hintergrund</German>
@@ -379,7 +379,7 @@
             <English>Gunner Firing Mode</English>
             <Portuguese>Modo de disparo do fuzileiro</Portuguese>
             <French>Mode de tir (tireur)</French>
-            <Russian>Режим стрельбы наводчика</Russian>
+            <Russian>Режим стрільби навідника</Russian>
             <Japanese>射手用の発射モード</Japanese>
             <Polish>Tryb ognia strzelca</Polish>
             <German>Richtschütze Feuermodus</German>
@@ -394,7 +394,7 @@
             <English>Gunner Ammo Type</English>
             <Portuguese>Tipo de Munição do fuzileiro</Portuguese>
             <French>Type de munitions (tireur)</French>
-            <Russian>Тип боеприпасов наводчика</Russian>
+            <Russian>Тип боєприпасів навідника</Russian>
             <Japanese>射手用の弾種</Japanese>
             <Polish>Typ amunicji strzelca</Polish>
             <German>Richtschütze Munitionstyp</German>
@@ -409,7 +409,7 @@
             <English>Gunner Ammo Count</English>
             <Portuguese>Quantidade de Munição do fuzileiro</Portuguese>
             <French>Nombre de munitions (tireur)</French>
-            <Russian>Количество боеприпасов наводчика</Russian>
+            <Russian>Кількість боєприпасів навідника</Russian>
             <Japanese>射手用の弾数</Japanese>
             <Polish>Ilość amunicji strzelca</Polish>
             <German>Richtschütze Munitionsanzahl</German>
@@ -424,7 +424,7 @@
             <English>Gunner Magazine Count</English>
             <Portuguese>Quantidade de Carregadores do fuzileiro</Portuguese>
             <French>Nombre de chargeurs (tireur)</French>
-            <Russian>Количество магазинов наводчика</Russian>
+            <Russian>Кількість магазинів навідника</Russian>
             <Japanese>射手用の弾倉数</Japanese>
             <Polish>Ilość magazynków strzelca</Polish>
             <German>Richtschütze Magazinanzahl</German>
@@ -439,7 +439,7 @@
             <English>Gunner Launchable Type</English>
             <Portuguese>Tipo de Arremessável do fuzileiro</Portuguese>
             <French>Type d'objet lançable (tireur)</French>
-            <Russian>Тип пусковой установки наводчика</Russian>
+            <Russian>Тип пускової установки навідника</Russian>
             <Japanese>射手用のランチャーの種類</Japanese>
             <Polish>Typ rakiet strzelca</Polish>
             <German>Richtschütze Raketentyp</German>
@@ -453,7 +453,7 @@
             <English>Gunner Launchable Count</English>
             <Portuguese>Quantidade de Arremessável do fuzileiro</Portuguese>
             <French>Nombre d'objets lançables (tireur)</French>
-            <Russian>Количество снарядов пусковой установки наводчика</Russian>
+            <Russian>Кількість снарядів пускової установки навідника</Russian>
             <Japanese>射手用のランチャー弾薬数</Japanese>
             <Polish>Ilość rakiet strzelca</Polish>
             <German>Richtschütze Raketenanzahl</German>
@@ -467,7 +467,7 @@
             <English>Gunner Zeroing</English>
             <Portuguese>Zerar a mira do fuzileiro</Portuguese>
             <French>Zérotage (tireur)</French>
-            <Russian>Дальность стрельбы наводчика</Russian>
+            <Russian>Дальність стрільби навідника</Russian>
             <Japanese>射手用ゼロイン</Japanese>
             <Polish>Wyzerowanie broni strzelca</Polish>
             <German>Richtschütze Nullung</German>
@@ -481,7 +481,7 @@
             <English>Gunner Weapon Lower Info Background</English>
             <Portuguese>Informações na parte de baixo do fundo do Armamento do fuzileiro</Portuguese>
             <French>Fond pour la barre d'informations inférieure (tireur)</French>
-            <Russian>Фон ниформации об орудии наводчика снизу</Russian>
+            <Russian>Фон інформаціі про зброю навідника</Russian>
             <Japanese>射手用の武器名の背景表示 (下側)</Japanese>
             <Polish>Tło dolnej części informacji o broni strzelca</Polish>
             <German>Hintergrund der unteren Waffen-Info-Leiste (Richtschütze)</German>
@@ -496,7 +496,7 @@
             <Czech>Název vozidla</Czech>
             <Portuguese>Nome do Veículo</Portuguese>
             <French>Nom du véhicule</French>
-            <Russian>Название техники</Russian>
+            <Russian>Назва техніки</Russian>
             <Japanese>車両名</Japanese>
             <Polish>Nazwa pojazdu</Polish>
             <German>Fahrzeugname</German>
@@ -512,7 +512,7 @@
             <Czech>Název vozidla v pozadí</Czech>
             <Portuguese>Fundo do Nome do Veículo</Portuguese>
             <French>Fond pour le nom du véhicule</French>
-            <Russian>Фон названия техники</Russian>
+            <Russian>Фон назви техніки</Russian>
             <Japanese>車両名の背景</Japanese>
             <Polish>Tło nazwy pojazdu</Polish>
             <German>Fahrzeugname Hintergrund</German>
@@ -527,7 +527,7 @@
             <Czech>Ukazatel paliva</Czech>
             <Portuguese>Barra de Combustível do Veículo</Portuguese>
             <French>Barre d'essence du véhicule</French>
-            <Russian>Полоса топлива</Russian>
+            <Russian>Показник пального</Russian>
             <Japanese>車両の燃料計</Japanese>
             <Polish>Pasek paliwa</Polish>
             <German>Fahrzeug-Treibstoffleiste</German>
@@ -543,7 +543,7 @@
             <Czech>Rychlost vozidla</Czech>
             <Portuguese>Velocidade do Veículo</Portuguese>
             <French>Vitesse du véhicule</French>
-            <Russian>Скорость техники</Russian>
+            <Russian>Швидкість техніки</Russian>
             <Japanese>車両の速度計</Japanese>
             <Polish>Prędkościomierz</Polish>
             <German>Fahrzeuggeschwindigkeit</German>
@@ -559,7 +559,7 @@
             <Czech>Výška vozidla</Czech>
             <Portuguese>Altitude do Veículo</Portuguese>
             <French>Altitude du véhicule</French>
-            <Russian>Высота полета</Russian>
+            <Russian>Висота польоту</Russian>
             <Japanese>車両の高度計</Japanese>
             <Polish>Wysokościomierz radarowy</Polish>
             <German>Fahrzeughöhe</German>
@@ -575,7 +575,7 @@
             <Czech>Poškození vozidla</Czech>
             <Portuguese>Dano do Veículo</Portuguese>
             <French>Dégâts du véhicule</French>
-            <Russian>Повреждение техники</Russian>
+            <Russian>Пошкодження техніки</Russian>
             <Japanese>車両の損傷表示</Japanese>
             <Polish>Uszkodzenia pojazdu</Polish>
             <German>Fahrzeugschaden</German>
@@ -591,7 +591,7 @@
             <Czech>Info o vozidle v pozadí</Czech>
             <Portuguese>Fundo das informações do veículo</Portuguese>
             <French>Fond pour les informations du véhicule</French>
-            <Russian>Фон информации о технике</Russian>
+            <Russian>Фон інформації про техніку</Russian>
             <Japanese>車両状態の背景</Japanese>
             <Polish>Tło informacji o pojeździe</Polish>
             <German>Fahrzeug Info Hintergrund</German>
@@ -606,7 +606,7 @@
             <Czech>Vyžaduje informace o Vojákovi/Vozidlu/Zbrani</Czech>
             <Portuguese>Requer informações de Soldado/Veículo/Armamento</Portuguese>
             <French>Requiert l'option "Information soldat/véhicule/arme".</French>
-            <Russian>Требуется Информация о Солдате/Технике/Оружии.</Russian>
+            <Russian>Потрібна Інформація про Бійця/Техніку/Зброю</Russian>
             <Japanese>兵士/車両/武器の情報を必要とします。</Japanese>
             <Polish>Wymaga informacji o żołnierzu/pojeździe/broni.</Polish>
             <German>Benötigt Soldat/Fahrzeug/Waffe Information.</German>
@@ -620,7 +620,7 @@
             <Czech>Změna uživatelského rozhraní je zakázána.</Czech>
             <Portuguese>A modificação da interface do usuário está desabilitada.</Portuguese>
             <French>La personnalisation de l'Interface Utilisateur est désactivée.</French>
-            <Russian>Изменение пользовательского интерфейса запрещено.</Russian>
+            <Russian>Модифікація інтерфейсу користувача заборонена</Russian>
             <Japanese>ユーザ インタフェイスの変更は無効化されています。</Japanese>
             <Polish>Modyfikacja interfejsu użytkownika jest wyłączona.</Polish>
             <German>Die Modifizierung des UI ist deaktiviert.</German>
@@ -633,7 +633,7 @@
             <English>Cannot modify a forced User Interface element.</English>
             <Portuguese>Não é possível modificar um elemento forçado da interface do usuário.</Portuguese>
             <French>Impossible de modifier un élément forcé de l'Interface Utilisateur.</French>
-            <Russian>Невозможно изменить зафиксированный элемент пользовательского интерфейса.</Russian>
+            <Russian>Неможливо змінити зафіксований елемент інтерфейсу користувача</Russian>
             <Japanese>ユーザー インタフェイス要素の強制はできません。</Japanese>
             <Polish>Nie można modyfikować wymuszonego elementu interfejsu użytkownika.</Polish>
             <German>Gesperrte UI-Elemente können nicht modifiziert werden.</German>

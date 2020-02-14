@@ -10,7 +10,7 @@
             <Japanese>インタラクション</Japanese>
             <Korean>상호작용</Korean>
             <Polish>Interakcja</Polish>
-            <Russian>Взаимодействие</Russian>
+            <Russian>Взаємодія</Russian>
             <Portuguese>Interação</Portuguese>
             <French>Interaction</French>
             <Czech>Interakce</Czech>
@@ -24,7 +24,7 @@
             <Czech>Interakce</Czech>
             <Polish>Interakcje</Polish>
             <French>Interactions</French>
-            <Russian>Взаимодействия</Russian>
+            <Russian>Взаємодії</Russian>
             <Hungarian>Cselekvések</Hungarian>
             <Italian>Interazioni</Italian>
             <Portuguese>Interações</Portuguese>
@@ -75,7 +75,7 @@
             <Spanish>Brazo izquierdo</Spanish>
             <Czech>Levá paže</Czech>
             <Polish>Lewe ramię</Polish>
-            <Russian>Левая рука</Russian>
+            <Russian>Ліва рука</Russian>
             <Hungarian>Bal kar</Hungarian>
             <Italian>Braccio sinistro</Italian>
             <Portuguese>Braço Esquerdo</Portuguese>
@@ -92,7 +92,7 @@
             <Czech>Pravá paže</Czech>
             <Polish>Prawe ramię</Polish>
             <French>Bras droit</French>
-            <Russian>Правая рука</Russian>
+            <Russian>Права рука</Russian>
             <Hungarian>Jobb kar</Hungarian>
             <Italian>Braccio destro</Italian>
             <Portuguese>Braço Direito</Portuguese>
@@ -109,7 +109,7 @@
             <Czech>Levá noha</Czech>
             <Polish>Lewa noga</Polish>
             <French>Jambe gauche</French>
-            <Russian>Левая нога</Russian>
+            <Russian>Ліва нога</Russian>
             <Hungarian>Bal láb</Hungarian>
             <Italian>Gamba sinistra</Italian>
             <Portuguese>Perna Esquerda</Portuguese>
@@ -126,7 +126,7 @@
             <Czech>Pravá noha</Czech>
             <Polish>Prawa noga</Polish>
             <French>Jambe droite</French>
-            <Russian>Правая нога</Russian>
+            <Russian>Права нога</Russian>
             <Hungarian>Jobb láb</Hungarian>
             <Italian>Gamba destra</Italian>
             <Portuguese>Perna Direita</Portuguese>
@@ -143,7 +143,7 @@
             <Spanish>Arma</Spanish>
             <Czech>Zbraň</Czech>
             <Polish>Broń</Polish>
-            <Russian>Оружие</Russian>
+            <Russian>Зброя</Russian>
             <Hungarian>Fegyver</Hungarian>
             <Italian>Arma</Italian>
             <Portuguese>Arma</Portuguese>
@@ -160,7 +160,7 @@
             <Polish>Menu interakcji</Polish>
             <Czech>Menu interakce</Czech>
             <French>Menu d'interaction</French>
-            <Russian>Меню взаимодействия</Russian>
+            <Russian>Меню взаимодії</Russian>
             <Hungarian>Cselekvő menü</Hungarian>
             <Portuguese>Menu de Interação</Portuguese>
             <Italian>Menù interazione</Italian>
@@ -177,7 +177,7 @@
             <Polish>Menu interakcji (własne)</Polish>
             <Czech>Menu interakce (vlastní)</Czech>
             <French>Menu d'interaction (personnel)</French>
-            <Russian>Меню взаимодействия (с собой)</Russian>
+            <Russian>Меню взаимодії (з собою)</Russian>
             <Hungarian>Cselekvő menü (saját) </Hungarian>
             <Portuguese>Menu de Interação (Individual)</Portuguese>
             <Italian>Menù interazione (individuale)</Italian>
@@ -194,7 +194,7 @@
             <Polish>Otwórz / Zamknij drzwi</Polish>
             <Czech>Otevřít / Zavřít dveře</Czech>
             <French>Ouvrir/Fermer la porte</French>
-            <Russian>Открыть / Закрыть двери</Russian>
+            <Russian>Відкрити / Закрити двері</Russian>
             <Hungarian>Ajtó nyitása / zárása</Hungarian>
             <Portuguese>Abrir / Fechar Porta</Portuguese>
             <Italian>Apri / Chiudi la porta</Italian>
@@ -210,7 +210,7 @@
             <Spanish>Bloquear puerta</Spanish>
             <French>Verrouiller la porte</French>
             <Italian>Blocca la porta</Italian>
-            <Russian>Заблокировать дверь</Russian>
+            <Russian>Зачинити двері</Russian>
             <Portuguese>Trancar Porta</Portuguese>
             <Hungarian>Ajtó bezárása</Hungarian>
             <Polish>Zablokuj drzwi</Polish>
@@ -227,7 +227,7 @@
             <Spanish>Desbloquear puerta</Spanish>
             <French>Déverrouiller la porte</French>
             <Italian>Sblocca la porta</Italian>
-            <Russian>Разблокировать дверь</Russian>
+            <Russian>Відчинити двері</Russian>
             <Portuguese>Destrancar Porta</Portuguese>
             <Hungarian>Zár kinyitása</Hungarian>
             <Polish>Odblokuj drzwi</Polish>
@@ -244,7 +244,7 @@
             <Spanish>Puerta bloqueada</Spanish>
             <French>Porte verrouillée</French>
             <Italian>Porta bloccata</Italian>
-            <Russian>Дверь заблокирована</Russian>
+            <Russian>Двері зачинені</Russian>
             <Portuguese>Porta Trancada</Portuguese>
             <Hungarian>Zárt ajtó</Hungarian>
             <Polish>Zablokowano drzwi</Polish>
@@ -261,7 +261,7 @@
             <Spanish>Puerta desbloqueada</Spanish>
             <French>Porte déverrouillée</French>
             <Italian>Porta sbloccata</Italian>
-            <Russian>Дверь разблокирована</Russian>
+            <Russian>Двері відчинені</Russian>
             <Portuguese>Porta Destrancada</Portuguese>
             <Hungarian>Nyitott ajtó</Hungarian>
             <Polish>Odblokowano drzwi</Polish>
@@ -279,7 +279,7 @@
             <Polish>Dołącz do grupy</Polish>
             <Czech>Přidat se do skupiny</Czech>
             <French>Rejoindre le groupe</French>
-            <Russian>Вступить в группу</Russian>
+            <Russian>Приєднатись до групи</Russian>
             <Hungarian>Csatlakozás a csoporthoz</Hungarian>
             <Portuguese>Unir-se ao grupo</Portuguese>
             <Italian>Unisciti alla squadra</Italian>
@@ -296,7 +296,7 @@
             <Polish>Opuść grupę</Polish>
             <Czech>Opustit skupinu</Czech>
             <French>Quitter le groupe</French>
-            <Russian>Выйти из группы</Russian>
+            <Russian>Покинути групу</Russian>
             <Hungarian>Csoport elhagyása</Hungarian>
             <Portuguese>Deixar grupo</Portuguese>
             <Italian>Lascia la squadra</Italian>
@@ -313,7 +313,7 @@
             <Polish>Przejmij dowodzenie</Polish>
             <Czech>Stát se velitelem</Czech>
             <French>Devenir chef de groupe</French>
-            <Russian>Стать лидером</Russian>
+            <Russian>Стати лідером</Russian>
             <Hungarian>Vezetés átvétele</Hungarian>
             <Portuguese>Tornar-se Líder</Portuguese>
             <Italian>Prendi il comando</Italian>
@@ -330,7 +330,7 @@
             <Polish>TAŃCZ!</Polish>
             <Czech>TANCUJ!</Czech>
             <French>DANSER !</French>
-            <Russian>ТАНЦЕВАТЬ!</Russian>
+            <Russian>ТАНЦЮВАТИ!</Russian>
             <Hungarian>TÁNC!</Hungarian>
             <Portuguese>DANCE!</Portuguese>
             <Italian>DANZA!</Italian>
@@ -347,7 +347,7 @@
             <Polish>Przestań tańczyć</Polish>
             <Czech>Přestat tancovat</Czech>
             <French>Arrêter de danser</French>
-            <Russian>Прекратить танцевать</Russian>
+            <Russian>Припиніть танці!</Russian>
             <Hungarian>Tánc abbahagyása</Hungarian>
             <Portuguese>Parar de dançar</Portuguese>
             <Italian>Smetti di ballare</Italian>
@@ -381,7 +381,7 @@
             <Polish>Umieść broń na plecach</Polish>
             <Czech>Dát zbraň na záda</Czech>
             <French>Arme à la bretelle</French>
-            <Russian>Повесить оружие на спину</Russian>
+            <Russian>Зброю за спину</Russian>
             <Hungarian>Fegyvert hátra</Hungarian>
             <Portuguese>Colocar arma nas costas</Portuguese>
             <Italian>Metti l'arma in spalla</Italian>
@@ -398,7 +398,7 @@
             <Polish>Klepnij w ramię</Polish>
             <Czech>Poklepat na rameno</Czech>
             <French>Taper sur l'épaule</French>
-            <Russian>Похлопать по плечу</Russian>
+            <Russian>Поплескати по плечу</Russian>
             <Hungarian>Vállveregetés</Hungarian>
             <Portuguese>Tocar ombro</Portuguese>
             <Italian>Dai un colpetto</Italian>
@@ -416,7 +416,7 @@
             <Polish>Zostałeś klepnięty w prawe ramię</Polish>
             <Hungarian>Megveregették a JOBB válladat.</Hungarian>
             <Czech>Někdo tě poklepal na PRAVÉ rameno</Czech>
-            <Russian>Вас похлопали по ПРАВОМУ плечу</Russian>
+            <Russian>Вас поплескали по ПРАВОМУ плечу</Russian>
             <Portuguese>Você foi tocado no ombro</Portuguese>
             <Italian>Ti è stato dato un colpetto sulla spalla destra</Italian>
             <Japanese>右肩を叩かれました</Japanese>
@@ -433,7 +433,7 @@
             <Polish>Zostałeś klepnięty w lewe ramię</Polish>
             <Hungarian>Megveregették a BAL válladat.</Hungarian>
             <Czech>Někdo tě poklepal na LEVÉ rameno</Czech>
-            <Russian>Вас похлопали по ЛЕВОМУ плечу</Russian>
+            <Russian>Вас поплескали по ЛЕВОМУ плечу</Russian>
             <Portuguese>Você foi tocado no ombro.</Portuguese>
             <Italian>Ti è stato dato un colpetto sulla spalla sinistra</Italian>
             <Japanese>左肩を叩かれました</Japanese>
@@ -450,7 +450,7 @@
             <French>Annuler</French>
             <Czech>Zrušit</Czech>
             <Italian>Annulla</Italian>
-            <Russian>Отменить</Russian>
+            <Russian>Скасувати</Russian>
             <Portuguese>Cancelar</Portuguese>
             <Hungarian>Mégse</Hungarian>
             <Japanese>中止</Japanese>
@@ -467,7 +467,7 @@
             <French>Sélectionner</French>
             <Czech>Zvolit</Czech>
             <Italian>Seleziona</Italian>
-            <Russian>Выбрать</Russian>
+            <Russian>Вибрати</Russian>
             <Portuguese>Selecionar</Portuguese>
             <Hungarian>Kiválaszt</Hungarian>
             <Japanese>選択</Japanese>
@@ -483,7 +483,7 @@
             <Polish>Odejdź!</Polish>
             <Czech>Jděte pryč!</Czech>
             <French>Allez-vous-en !</French>
-            <Russian>Уйдите отсюда!</Russian>
+            <Russian>Йди геть!</Russian>
             <Hungarian>Tűnés!</Hungarian>
             <Portuguese>Vá Embora!</Portuguese>
             <Italian>Via di qui!</Italian>
@@ -501,7 +501,7 @@
             <Czech>K zemi!</Czech>
             <French>À terre !</French>
             <Hungarian>A földre!</Hungarian>
-            <Russian>Ложись!</Russian>
+            <Russian>Лягай!</Russian>
             <Portuguese>Abaixe-se!</Portuguese>
             <Italian>A terra!</Italian>
             <Japanese>伏せろ!</Japanese>
@@ -517,7 +517,7 @@
             <German>Aussteigen!</German>
             <Spanish>Sal del vehículo!</Spanish>
             <French>Sortez !</French>
-            <Russian>Выходи!</Russian>
+            <Russian>Забирайся!</Russian>
             <Czech>Vystupte</Czech>
             <Japanese>降りろ</Japanese>
             <Korean>나가</Korean>
@@ -533,7 +533,7 @@
             <French>Gestion d'équipe</French>
             <Polish>Drużyna</Polish>
             <Czech>Správa týmu</Czech>
-            <Russian>Управление группой</Russian>
+            <Russian>Керування групою</Russian>
             <Portuguese>Gerenciamento de Equipe</Portuguese>
             <Italian>Organizzazione Squadra</Italian>
             <Hungarian>Csapat kezelése</Hungarian>
@@ -550,7 +550,7 @@
             <French>Rouge</French>
             <Polish>Czerwonych</Polish>
             <Czech>Červený</Czech>
-            <Russian>Красный</Russian>
+            <Russian>Червоний</Russian>
             <Portuguese>Vermelha</Portuguese>
             <Italian>Rosso</Italian>
             <Hungarian>Piros</Hungarian>
@@ -567,7 +567,7 @@
             <French>Vert</French>
             <Polish>Zielonych</Polish>
             <Czech>Zelený</Czech>
-            <Russian>Зеленый</Russian>
+            <Russian>Зелений</Russian>
             <Portuguese>Verde</Portuguese>
             <Italian>Verde</Italian>
             <Hungarian>Zöld</Hungarian>
@@ -584,7 +584,7 @@
             <French>Bleu</French>
             <Polish>Niebieskich</Polish>
             <Czech>Modrý</Czech>
-            <Russian>Синий</Russian>
+            <Russian>Синій</Russian>
             <Portuguese>Azul</Portuguese>
             <Italian>Blu</Italian>
             <Hungarian>Kék</Hungarian>
@@ -601,7 +601,7 @@
             <French>Jaune</French>
             <Polish>Żółtych</Polish>
             <Czech>Žlutý</Czech>
-            <Russian>Жёлтый</Russian>
+            <Russian>Жовтий</Russian>
             <Portuguese>Amarela</Portuguese>
             <Italian>Giallo</Italian>
             <Hungarian>Sárga</Hungarian>
@@ -619,7 +619,7 @@
             <Portuguese>Atribuir Vermelho</Portuguese>
             <Hungarian>Hozzávonás a Piroshoz</Hungarian>
             <Czech>Přiřadit k červeným</Czech>
-            <Russian>Назначить в Красную группу</Russian>
+            <Russian>Призначити до Червоної групи</Russian>
             <French>Assigner à rouge</French>
             <Italian>Assegna al team rosso</Italian>
             <Japanese>レッドにする</Japanese>
@@ -636,7 +636,7 @@
             <Portuguese>Atribuir Verde</Portuguese>
             <Hungarian>Hozzávonás a Zöldhöz</Hungarian>
             <Czech>Přiřadit k zeleným</Czech>
-            <Russian>Назначить в Зеленую группу</Russian>
+            <Russian>Призначити до Зеленої групи</Russian>
             <French>Assigner à vert</French>
             <Italian>Assegna al team verde</Italian>
             <Japanese>グリーンにする</Japanese>
@@ -653,7 +653,7 @@
             <Portuguese>Atribuir Azul</Portuguese>
             <Hungarian>Hozzávonás a Kékhez</Hungarian>
             <Czech>Přiřadit k modrým</Czech>
-            <Russian>Назначить в Синюю группу</Russian>
+            <Russian>Призначити до Синьої групи</Russian>
             <French>Assigner à bleu</French>
             <Italian>Assegna al team blu</Italian>
             <Japanese>ブルーにする</Japanese>
@@ -670,7 +670,7 @@
             <Portuguese>Atribuir Amarelo</Portuguese>
             <Hungarian>Hozzávonás a Sárgához</Hungarian>
             <Czech>Přiřadit ke žlutým</Czech>
-            <Russian>Назначить в Желтую группу</Russian>
+            <Russian>Призначити до Жовтої групи</Russian>
             <French>Assigner à jaune</French>
             <Italian>Assegna al team giallo</Italian>
             <Japanese>イエローにする</Japanese>
@@ -687,7 +687,7 @@
             <Portuguese>Entrar em Vermelho</Portuguese>
             <Hungarian>Belépés a Pirosba</Hungarian>
             <Czech>Připojit k červeným</Czech>
-            <Russian>Присоединиться к Красной группе</Russian>
+            <Russian>Приєднатися до Червоної групи</Russian>
             <French>Rejoindre rouge</French>
             <Italian>Unirsi al team rosso</Italian>
             <Japanese>レッドに入る</Japanese>
@@ -704,7 +704,7 @@
             <Portuguese>Entrar em Verde</Portuguese>
             <Hungarian>Belépés a Zöldbe</Hungarian>
             <Czech>Připojit k zeleným</Czech>
-            <Russian>Присоединиться к Зеленой группе</Russian>
+            <Russian>Приєднатися до Зеленої групи</Russian>
             <French>Rejoindre vert</French>
             <Italian>Unirsi al team verde</Italian>
             <Japanese>グリーンに入る</Japanese>
@@ -721,7 +721,7 @@
             <Portuguese>Entrar em Azul</Portuguese>
             <Hungarian>Belépés a Kékbe</Hungarian>
             <Czech>Připojit k modrým</Czech>
-            <Russian>Присоединиться к Синей группе</Russian>
+            <Russian>Приєднатися до Синьої групи</Russian>
             <French>Rejoindre bleu</French>
             <Italian>Unirsi al team blu</Italian>
             <Japanese>ブルーに入る</Japanese>
@@ -738,7 +738,7 @@
             <Portuguese>Entrar em Amarelo</Portuguese>
             <Hungarian>Belépés a Sárgába</Hungarian>
             <Czech>Připojit ke žlutým</Czech>
-            <Russian>Присоединиться к Жёлтой группе</Russian>
+            <Russian>Приєднатися до Жовтої групи</Russian>
             <French>Rejoindre jaune</French>
             <Italian>Unirsi al team giallo</Italian>
             <Japanese>イエローに入る</Japanese>
@@ -754,7 +754,7 @@
             <French>Vous avez rejoint l'équipe %1.</French>
             <Polish>Dołączyłeś do %1</Polish>
             <Czech>Připojili jste se do %1 týmu</Czech>
-            <Russian>Вы присоединились к группе %1</Russian>
+            <Russian>Ви приєдналися до групи %1</Russian>
             <Portuguese>Você uniu-se à Equipe %1</Portuguese>
             <Italian>Sei entrato nel team %1</Italian>
             <Hungarian>Csatlakoztál a %1 csapathoz</Hungarian>
@@ -771,7 +771,7 @@
             <French>Quitter l'équipe</French>
             <Polish>Opuść drużynę</Polish>
             <Czech>Opustit tým</Czech>
-            <Russian>Покинуть группу</Russian>
+            <Russian>Покинути групу</Russian>
             <Portuguese>Deixar Equipe</Portuguese>
             <Italian>Lascia il team</Italian>
             <Hungarian>Csapat elhagyása</Hungarian>
@@ -788,7 +788,7 @@
             <French>Vous avez quitté l'équipe.</French>
             <Polish>Opuściłeś drużynę</Polish>
             <Czech>Opustili jste tým</Czech>
-            <Russian>Вы покинули группу</Russian>
+            <Russian>Ви покинули групу</Russian>
             <Portuguese>Você deixou a Equipe</Portuguese>
             <Italian>Hai lasciato il team</Italian>
             <Hungarian>Elhagytad a csapatot</Hungarian>
@@ -805,7 +805,7 @@
             <Polish>Przebacz</Polish>
             <French>Pardonner</French>
             <Czech>Pardon</Czech>
-            <Russian>Извините</Russian>
+            <Russian>Пробачте</Russian>
             <Portuguese>Perdão</Portuguese>
             <Italian>Perdona</Italian>
             <Hungarian>Megbocsátás</Hungarian>
@@ -821,7 +821,7 @@
             <Polish>Przewiń</Polish>
             <French>Défilement</French>
             <Spanish>Desplazar</Spanish>
-            <Russian>Пролистать</Russian>
+            <Russian>Прокрутити</Russian>
             <Portuguese>Rolar</Portuguese>
             <Italian>Scorri</Italian>
             <Hungarian>Görgetés</Hungarian>
@@ -838,7 +838,7 @@
             <Polish>Modyfikator</Polish>
             <French>Modifier la touche</French>
             <Spanish>Tecla modificadora</Spanish>
-            <Russian>Клавиша-модификатор</Russian>
+            <Russian>Клавіша модифікатора</Russian>
             <Portuguese>Tecla Modificadora</Portuguese>
             <Italian>Tasto modifica</Italian>
             <Hungarian>Módosító billentyű</Hungarian>
@@ -853,7 +853,7 @@
             <German>Außer Reichweite</German>
             <French>Hors de portée</French>
             <Spanish>Fuera de rango</Spanish>
-            <Russian>Слишком далеко</Russian>
+            <Russian>Занадто далеко</Russian>
             <Portuguese>Fora do Alcançe</Portuguese>
             <Hungarian>Hatótávolságon kívül</Hungarian>
             <Polish>Poza zasięgiem</Polish>
@@ -873,7 +873,7 @@
             <Polish>Ekwipunek</Polish>
             <Czech>Vybavení</Czech>
             <Hungarian>Felszerelés</Hungarian>
-            <Russian>Снаряжение</Russian>
+            <Russian>Обладнання</Russian>
             <Italian>Equipaggiamento</Italian>
             <Portuguese>Equipamento</Portuguese>
             <Japanese>装備</Japanese>
@@ -890,7 +890,7 @@
             <Polish>Pchnij</Polish>
             <Czech>Tlačit</Czech>
             <Hungarian>Tolás</Hungarian>
-            <Russian>Толкнуть</Russian>
+            <Russian>Штовхнути</Russian>
             <Portuguese>Empurrar</Portuguese>
             <Italian>Spingere</Italian>
             <Japanese>押す</Japanese>
@@ -902,7 +902,7 @@
         <Key ID="STR_ACE_Interaction_Flip">
             <English>Flip</English>
             <German>Umdrehen</German>
-            <Russian>Перевернуть</Russian>
+            <Russian>Перевернути</Russian>
             <Japanese>ひっくり返す</Japanese>
             <Chinese>拋</Chinese>
             <Italian>Gira</Italian>
@@ -918,7 +918,7 @@
             <French>Interagir</French>
             <German>Interagiere</German>
             <Czech>Interakce</Czech>
-            <Russian>Взаимодействовать</Russian>
+            <Russian>Взаємодіяти</Russian>
             <Polish>Interakcja</Polish>
             <Spanish>Interactuar</Spanish>
             <Hungarian>Cselekvés</Hungarian>
@@ -934,7 +934,7 @@
             <English>Passengers</English>
             <German>Insassen</German>
             <Spanish>Pasajeros</Spanish>
-            <Russian>Пассажиры</Russian>
+            <Russian>Пасажири</Russian>
             <Czech>Pasažéři</Czech>
             <Polish>Pasażerowie</Polish>
             <French>Passagers</French>
@@ -955,7 +955,7 @@
             <French>Ouvrir</French>
             <Hungarian>Nyitás</Hungarian>
             <Portuguese>Abrir</Portuguese>
-            <Russian>Открыть</Russian>
+            <Russian>Відкрити</Russian>
             <Italian>Apri</Italian>
             <German>Öffnen</German>
             <Japanese>開く</Japanese>
@@ -970,7 +970,7 @@
             <Spanish>Sistema de interacción</Spanish>
             <German>Interaktionssystem</German>
             <Czech>Systém interakce</Czech>
-            <Russian>Взаимодействие</Russian>
+            <Russian>Система взаємодій</Russian>
             <French>Système d'interaction</French>
             <Hungarian>Interakciós rendszer</Hungarian>
             <Portuguese>Sistema de interação</Portuguese>
@@ -987,7 +987,7 @@
             <Spanish>Habilitar gestión de equipos</Spanish>
             <German>Aktiviere Gruppenverwaltung</German>
             <Czech>Povolit správu týmu</Czech>
-            <Russian>Управление группами</Russian>
+            <Russian>Дозволити керування групами</Russian>
             <French>Activer la gestion d'équipe</French>
             <Hungarian>Csapatkezelés engedélyezése</Hungarian>
             <Portuguese>Habilitar gestão de equipes</Portuguese>
@@ -1004,7 +1004,7 @@
             <Spanish>¿Deben tener permitido los jugadores el uso del menu de gestión de equipos? Por defecto: Si</Spanish>
             <German>Sollen Spieler das Gruppenverwaltungsmenü verwenden dürfen? Standard: Ja</German>
             <Czech>Mohou hráči použít menu správy týmu? Výchozí: Ano</Czech>
-            <Russian>Разрешить ли игрокам использовать меню управления группами? По-умолчани: Да</Russian>
+            <Russian>Дозволити використовувати меню керування групами? За замовченням: Так</Russian>
             <French>Permet aux joueurs d'utiliser la gestion d'équipe. Valeur par défaut : activé.</French>
             <Hungarian>A játékosoknak engedélyezve legyen a csapatkezelő menü? Alapértelmezett: Igen</Hungarian>
             <Portuguese>Devem os jogadores ter permissão de usar o menu de gestão de equipes? Padrão: Sim</Portuguese>
@@ -1024,7 +1024,7 @@
             <Chinesesimp>关闭负面评价</Chinesesimp>
             <Korean>부정행위 가중치 사용안함</Korean>
             <Polish>Wyłącz negatywną ocenę</Polish>
-            <Russian>Отключить отрицательный рейтинг</Russian>
+            <Russian>Відключити негативний рейтинг</Russian>
             <Portuguese>Desativar avaliação negativa</Portuguese>
             <French>Désactiver la notation négative</French>
             <Czech>Vypnout negativní hodnocení</Czech>
@@ -1039,7 +1039,7 @@
             <Chinesesimp>玩家是否会收到负面评价? 当本功能开启时玩家只会接收到正面评价，所以当玩家做出击杀友军AI、毁坏友军装备或杀害小队伙伴都不会收到负面评价。</Chinesesimp>
             <Korean>플레이어의 부정행위 가중치를 계산합니까? 활성화된 플레이어는 높은 레이팅을 가질때, 아군의 장비나 병력을 사격해도 아군 AI의 사격을 받지 않습니다.</Korean>
             <Polish>Czy powinni gracze otrzymywać negatywną ocenę? Kiedy aktywowani gracze otrzymuję wyłącznie pozytywną ocenę, która zapobiega ognia przyjaznego SI podczas niszczenia przyjaznego wyposażenia lub zabijaniu członków drużyny.</Polish>
-            <Russian>Должны ли игроки получать отрицательный рейтинг? Когда включено, игроки получают только положительный рейтинг, что предотвращает дружественный огонь от ИИ при уничтожении дружественного оборудования или убийстве членов команды.</Russian>
+            <Russian>Чи повинні гравці отримувати негативний рейтинг? Якщо включено, гравці отримують тільки позитивний рейтинг, що запобігає вогоню від дружніх ботів при вбивстві союзників або знищенні союзного обладнання.</Russian>
             <Portuguese>Jogadores devem receber uma avaliação negativa? Quando ativado, os jogadores estão recebendo avaliações positivas, prevenindo que IA amigável atire quando destruir algum equipamento aliado ou matar membros de equipe.</Portuguese>
             <French>Définit si les joueurs peuvent recevoir une note négative. Si l'option est activée, les joueurs obtiennent des notes positives exclusivement.\nCela permet d'éviter que les unités IA ne fassent du tir ami lorsque des joueurs détruisent de l'équipement allié, ou tuent des membres de l'équipe.</French>
             <Czech>Měli by hráči obdržet negativní hodnocení? Pokud ne, hráči obdrží pouze pozitivní hodnocení, což zabrání přátelské AI střílet na hráče pokud hráči ničí přátelské vybavení nebo zabíjejí vlastní tým.</Czech>
@@ -1054,7 +1054,7 @@
             <French>La gestion d'équipe permet d'allouer des couleurs aux membres des équipes, de prendre le commandement, et de rejoindre ou quitter une équipe. </French>
             <Hungarian>A csapatkezelés engedélyezi a tagok színének meghatározását, a vezetés átvételét, és csapatoknál be-és kilépést.</Hungarian>
             <Portuguese>O módulo de gestão de equipe é composto por: a atribuição de cores para os membros da equipe, comando das equipes, juntando-se / deixando equipes.</Portuguese>
-            <Russian>Управление группами позволяет назначать цвета членам групп, брать командование, вступать в группы или покидать их.</Russian>
+            <Russian>Керуваня групами дозволяє призначати кольори членам груп, брати командування, вступати в групи або залишати їх.</Russian>
             <Italian>Management Squadra permette l'assegnazione di colori per membri della squadra, prendere il comando ed entrare/uscire dalle squadre.</Italian>
             <Japanese>チーム管理はチーム メンバーへ色の割り当てや指揮権を取ったり、チームの出入りを許可します。</Japanese>
             <Korean>팀 설정은 팀 멤버에게 색을 부여하거나  팀에 참여 혹은 나가게 할 수 있게 합니다.</Korean>
@@ -1070,7 +1070,7 @@
             <Italian>Accendi</Italian>
             <Czech>Zapnout</Czech>
             <Portuguese>Ligar</Portuguese>
-            <Russian>Включить</Russian>
+            <Russian>Увімкнути</Russian>
             <Japanese>有効化</Japanese>
             <Korean>켜기</Korean>
             <Chinesesimp>开启</Chinesesimp>
@@ -1086,7 +1086,7 @@
             <Italian>Spegni</Italian>
             <Czech>Vypnout</Czech>
             <Portuguese>Desligar</Portuguese>
-            <Russian>Выключить</Russian>
+            <Russian>Вимкнути</Russian>
             <Japanese>無効化</Japanese>
             <Korean>끄기</Korean>
             <Chinesesimp>关闭</Chinesesimp>
@@ -1097,7 +1097,7 @@
             <English>Pass magazine</English>
             <German>Magazin geben</German>
             <Polish>Podaj magazynek</Polish>
-            <Russian>Передать магазин</Russian>
+            <Russian>Передати магазин</Russian>
             <Portuguese>Passar carregador</Portuguese>
             <Czech>Podat zásobník</Czech>
             <Italian>Passa caricatore</Italian>
@@ -1112,7 +1112,7 @@
             <English>Primary magazine</English>
             <German>Gewehrmagazin</German>
             <Polish>Magazynek karabinowy</Polish>
-            <Russian>Основной магазин</Russian>
+            <Russian>Основний магазин</Russian>
             <Portuguese>Carregador primário</Portuguese>
             <Czech>Zásobník do primární zbraně</Czech>
             <Italian>Caricatore Primario</Italian>
@@ -1128,7 +1128,7 @@
             <English>Pistol magazine</English>
             <German>Pistolenmagazin</German>
             <Polish>Magazynek pistoletowy</Polish>
-            <Russian>Магазин к пистолету</Russian>
+            <Russian>Магазин до пістолета</Russian>
             <Portuguese>Carregador da pistola</Portuguese>
             <Czech>Zásobník do pistole</Czech>
             <Italian>Caricatore Pistola</Italian>
@@ -1144,7 +1144,7 @@
             <English>%1 passed you a %2 magazine.</English>
             <German>%1 hat dir ein %2 Magazin gegeben.</German>
             <Polish>%1 podał Ci magazynek %2.</Polish>
-            <Russian>%1 передал вам магазин %2.</Russian>
+            <Russian>%1 передав вам магазин %2.</Russian>
             <Portuguese>%1 passou a você um carregador %2.</Portuguese>
             <Czech>%1 ti podal zásobník %2.</Czech>
             <Italian>%1 ti ha passato un caricatore %2 .</Italian>
@@ -1159,7 +1159,7 @@
             <English>Show "pass magazine" interaction</English>
             <German>Zeige "Magazine geben" Interaktion</German>
             <Polish>Pokaż interakcję "podaj magazynek"</Polish>
-            <Russian>Показывать действие "передать магазин"</Russian>
+            <Russian>Показувати дію "передати магазин"</Russian>
             <Portuguese>Mostrar a interação "Passar carregador"</Portuguese>
             <Czech>Zobrazit "interakci "podat zásobník"</Czech>
             <Italian>Mostra interazione "passa caricatore"</Italian>
@@ -1173,7 +1173,7 @@
         <Key ID="STR_ACE_Interaction_PullOutBody">
             <English>Pull out body</English>
             <German>Person herausziehen</German>
-            <Russian>Вытащить тело</Russian>
+            <Russian>Витягти тіло</Russian>
             <Japanese>身体を引き出す</Japanese>
             <Italian>Estrai il corpo</Italian>
             <Korean>시체 끌기</Korean>
@@ -1190,7 +1190,7 @@
             <German>Frontscheibe einschlagen</German>
             <French>Briser le pare-brise</French>
             <Czech>Vyrazit čelní sklo</Czech>
-            <Russian>Выбить лобовое стекло</Russian>
+            <Russian>Розбити лобове скло</Russian>
             <Polish>Wyłam szybę</Polish>
             <Hungarian>Szélvédő széttörése</Hungarian>
             <Japanese>フロントガラスを破る</Japanese>

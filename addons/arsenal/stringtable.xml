@@ -11,7 +11,7 @@
             <Korean>숨김</Korean>
             <Chinese>隱藏</Chinese>
             <Chinesesimp>隐藏</Chinesesimp>
-            <Russian>Спрятать</Russian>
+            <Russian>Сховати</Russian>
             <Portuguese>Ocultar</Portuguese>
             <Czech>Skrýt</Czech>
             <Turkish>Gizle</Turkish>
@@ -26,7 +26,7 @@
             <Korean>인터페이스 숨기기</Korean>
             <Chinese>隱藏介面</Chinese>
             <Chinesesimp>隐藏介面</Chinesesimp>
-            <Russian>Скрыть интерфейс</Russian>
+            <Russian>Сховати інтерфейс</Russian>
             <Portuguese>Oculta a Interface</Portuguese>
             <Czech>Skrýt rozhraní</Czech>
             <Turkish>Arayüzü gizle</Turkish>
@@ -41,7 +41,7 @@
             <Korean>로드아웃</Korean>
             <Chinese>裝備</Chinese>
             <Chinesesimp>装备</Chinesesimp>
-            <Russian>Комплекты</Russian>
+            <Russian>Комплекти</Russian>
             <Portuguese>Loadouts</Portuguese>
             <Czech>Sady vybavení</Czech>
             <Turkish>Dışa aktar</Turkish>
@@ -56,7 +56,7 @@
             <Korean>내보내기</Korean>
             <Chinese>匯出</Chinese>
             <Chinesesimp>汇出</Chinesesimp>
-            <Russian>Экспорт</Russian>
+            <Russian>Експортувати</Russian>
             <Portuguese>Exportar</Portuguese>
             <Czech>Export</Czech>
         </Key>
@@ -70,7 +70,7 @@
             <Korean>가져오기</Korean>
             <Chinese>匯入</Chinese>
             <Chinesesimp>汇入</Chinesesimp>
-            <Russian>Импорт</Russian>
+            <Russian>Імпортувати</Russian>
             <Portuguese>Importar</Portuguese>
             <Czech>Import</Czech>
         </Key>
@@ -84,7 +84,7 @@
             <Korean>닫기</Korean>
             <Chinese>關閉</Chinese>
             <Chinesesimp>关闭</Chinesesimp>
-            <Russian>Закрыть</Russian>
+            <Russian>Закрити</Russian>
             <Portuguese>Fechar</Portuguese>
             <Czech>Zavřít</Czech>
             <Turkish>Kapat</Turkish>
@@ -99,7 +99,7 @@
             <Korean>가상장비 사용 불가</Korean>
             <Chinese>沒有可用的虛擬物品</Chinese>
             <Chinesesimp>没有可用的虚拟物品</Chinesesimp>
-            <Russian>Виртуальный предмет недоступен</Russian>
+            <Russian>Віртуальний предмет недоступний</Russian>
             <Portuguese>Nenhum item virtual disponível</Portuguese>
             <Czech>Není dostupný žádný virtuální předmět</Czech>
         </Key>
@@ -113,7 +113,7 @@
             <Korean>저장</Korean>
             <Chinese>保存</Chinese>
             <Chinesesimp>保存</Chinesesimp>
-            <Russian>Сохранить</Russian>
+            <Russian>Зберегти</Russian>
             <Portuguese>Salvar</Portuguese>
             <Czech>Uložit</Czech>
             <Turkish>Kaydet</Turkish>
@@ -128,7 +128,7 @@
             <Korean>현재 로드아웃 저장</Korean>
             <Chinese>保存當前的裝備</Chinese>
             <Chinesesimp>保存当前的装备</Chinesesimp>
-            <Russian>Сохранить текущий комплект экипировки</Russian>
+            <Russian>Зберегти поточний комплект спорядження</Russian>
             <Portuguese>Salva o loadout atual</Portuguese>
             <Czech>Uložit současnou sadu vybavení</Czech>
         </Key>
@@ -136,7 +136,7 @@
             <English>[Shift+Click to save to mission defaults]</English>
             <Japanese>[Shift + クリック] でミッション標準として保存します</Japanese>
             <Polish>Shift + Klik aby zapisac jako domyślne dla misji </Polish>
-            <Russian>[Shift+Клик, чтобы сохранить в настройках по умолчанию]</Russian>
+            <Russian>[Shift+Клік, щоб зберегти в налаштуваннях місії за замовчуванням]</Russian>
             <Portuguese>[Shift+Clique para salvar nos padrões da missão]</Portuguese>
             <French>[Shift+Clic pour enregistrer en tant qu'équipement prédéfini.]</French>
             <Chinese>[Shift+左鍵來保存至任務預設]</Chinese>
@@ -153,7 +153,7 @@
             <Korean>이름바꾸기</Korean>
             <Chinese>重新命名</Chinese>
             <Chinesesimp>重新命名</Chinesesimp>
-            <Russian>Переименовать</Russian>
+            <Russian>Перейменувати</Russian>
             <Portuguese>Renomear</Portuguese>
             <Czech>Přejmenovat</Czech>
             <Turkish>Yeniden adlandır</Turkish>
@@ -168,7 +168,7 @@
             <Korean>선택한 로드아웃의 이름 바꾸기</Korean>
             <Chinese>重新命名當前選擇的裝備</Chinese>
             <Chinesesimp>重新命名当前选择的装备</Chinesesimp>
-            <Russian>Переименовать выбранный комплект экипировки</Russian>
+            <Russian>Перейменувати вибраний комплект спорядження</Russian>
             <Portuguese>Renomeia o loadout selecionado</Portuguese>
             <Czech>Přejmenovat vybranou sadu vybavení</Czech>
         </Key>
@@ -182,7 +182,7 @@
             <Korean>불러오기</Korean>
             <Chinese>載入</Chinese>
             <Chinesesimp>载入</Chinesesimp>
-            <Russian>Загрузить</Russian>
+            <Russian>Завантажити</Russian>
             <Portuguese>Carregar</Portuguese>
             <Czech>Nahrát</Czech>
             <Turkish>Yükle</Turkish>
@@ -197,7 +197,7 @@
             <Korean>선택한 로드아웃 불러오기</Korean>
             <Chinese>載入當前選擇的裝備</Chinese>
             <Chinesesimp>载入当前选择的装备</Chinesesimp>
-            <Russian>Загрузить выбранный комплект экипировки</Russian>
+            <Russian>Завантажити вибраний комплект спорядження</Russian>
             <Portuguese>Carrega o loadout selecionado</Portuguese>
             <Czech>Nahrát vybranou sadu vybavení</Czech>
         </Key>
@@ -211,7 +211,7 @@
             <Korean>삭제</Korean>
             <Chinese>刪除</Chinese>
             <Chinesesimp>删除</Chinesesimp>
-            <Russian>Удалить</Russian>
+            <Russian>Видалити</Russian>
             <Portuguese>Apagar</Portuguese>
             <Czech>Smazat</Czech>
             <Turkish>Sil</Turkish>
@@ -226,7 +226,7 @@
             <Korean>선택한 로드아웃 삭제하기</Korean>
             <Chinese>刪除當前選擇的裝備</Chinese>
             <Chinesesimp>删除当前选择的装备</Chinesesimp>
-            <Russian>Удалить выбранный комплект экипировки</Russian>
+            <Russian>Видалити вибраний комплект спорядження</Russian>
             <Portuguese>Apaga o loadout selecionado</Portuguese>
             <Czech>Smazat vybranou sadu vybavení</Czech>
         </Key>
@@ -240,7 +240,7 @@
             <Korean>내 로드아웃</Korean>
             <Chinese>我的裝備</Chinese>
             <Chinesesimp>我的装备</Chinesesimp>
-            <Russian>Мои комплекты</Russian>
+            <Russian>Мої комплекти</Russian>
             <Portuguese>Meus loadouts</Portuguese>
             <Czech>Moje sady vybavení</Czech>
         </Key>
@@ -254,7 +254,7 @@
             <Korean>프로필에 저장된 로드아웃</Korean>
             <Chinese>裝備已保存到你的設定檔中</Chinese>
             <Chinesesimp>装备已保存到你的设定档中</Chinesesimp>
-            <Russian>Комплекты экипировки, сохраненные в вашем профиле</Russian>
+            <Russian>Комплекти спорядження, що збережені в вашому профілі</Russian>
             <Portuguese>Loadouts salvos em seu perfil</Portuguese>
             <Czech>Sadz vybavení uložené ve vašem profilu</Czech>
         </Key>
@@ -268,7 +268,7 @@
             <Korean>기본 로드아웃</Korean>
             <Chinese>預設裝備</Chinese>
             <Chinesesimp>预设装备</Chinesesimp>
-            <Russian>По умолчанию</Russian>
+            <Russian>За замовчуванням</Russian>
             <Portuguese>Loadouts padrões</Portuguese>
             <Czech>Standardní sady vybavení</Czech>
         </Key>
@@ -282,7 +282,7 @@
             <Korean>미션메이커가 허용한 로드아웃</Korean>
             <Chinese>任務作者提供的預設裝備</Chinese>
             <Chinesesimp>任务作者提供的预设装备</Chinesesimp>
-            <Russian>Комплекты экипировки, предоставляемые создателем миссии</Russian>
+            <Russian>Комплекти спорядження, що надаються творцем місії</Russian>
             <Portuguese>Loadouts definidos pelo criador da missão</Portuguese>
             <Czech>Sady vybavení od autora mise</Czech>
         </Key>
@@ -296,7 +296,7 @@
             <Korean>공용 로드아웃</Korean>
             <Chinese>公用裝備</Chinese>
             <Chinesesimp>公用装备</Chinesesimp>
-            <Russian>Публичные комплекты</Russian>
+            <Russian>Публічні комплекти</Russian>
             <Portuguese>Loadouts públicos</Portuguese>
             <Czech>Veřejné sady vybavení</Czech>
         </Key>
@@ -310,7 +310,7 @@
             <Korean>플레이어들이 공유하는 로드아웃</Korean>
             <Chinese>由你與其他玩家分享的裝備配置</Chinese>
             <Chinesesimp>由你与其他玩家分享的装备配置</Chinesesimp>
-            <Russian>Комплекты экипировки, опубликованные вами и другими игроками</Russian>
+            <Russian>Комплекти спорядження, які опубліковані вами та іншими гравцями</Russian>
             <Portuguese>Loadouts compartilhados por você ou outros jogadores</Portuguese>
             <Czech>Sady vybavení sdílené vámi a ostatními hráči</Czech>
         </Key>
@@ -324,7 +324,7 @@
             <Korean>무게로 정렬</Korean>
             <Chinese>以重量排序</Chinese>
             <Chinesesimp>以重量排序</Chinesesimp>
-            <Russian>Сортировка по весу</Russian>
+            <Russian>Сорт. за вагою</Russian>
             <Portuguese>Ordenar por peso</Portuguese>
             <Czech>Seřadit podle váhy</Czech>
         </Key>
@@ -338,7 +338,7 @@
             <Korean>갯수로 정렬</Korean>
             <Chinese>以數量排序</Chinese>
             <Chinesesimp>以数量排序</Chinesesimp>
-            <Russian>Сортировка по количеству</Russian>
+            <Russian>Сорт. за кількістю</Russian>
             <Portuguese>Ordenar por quantidade</Portuguese>
             <Czech>Seřadit podle množství</Czech>
         </Key>
@@ -352,7 +352,7 @@
             <Korean>선택한 로드아웃 공유 혹은 공유중지</Korean>
             <Chinese>開始/停止分享當前選擇的裝備</Chinese>
             <Chinesesimp>开始/停止分享当前选择的装备</Chinesesimp>
-            <Russian>Открыть или закрыть общий доступ к комплекту экипировки</Russian>
+            <Russian>Відкрити або закрити загальний доступ до комплекту спорядження</Russian>
             <Portuguese>Compartilhar ou parar de compartilhar o loadout selecionado</Portuguese>
             <Czech>Sdílet nebo přestat sdílet vybranou sadu vybavení</Czech>
         </Key>
@@ -366,7 +366,7 @@
             <Korean>개인</Korean>
             <Chinese>私用</Chinese>
             <Chinesesimp>私用</Chinesesimp>
-            <Russian>Приватный</Russian>
+            <Russian>Приватний</Russian>
             <Portuguese>Privado</Portuguese>
             <Czech>Soukromé</Czech>
         </Key>
@@ -380,7 +380,7 @@
             <Korean>공용</Korean>
             <Chinese>公用</Chinese>
             <Chinesesimp>公用</Chinesesimp>
-            <Russian>Публичный</Russian>
+            <Russian>Публічний</Russian>
             <Portuguese>Público</Portuguese>
             <Czech>Veřejné</Czech>
         </Key>
@@ -394,7 +394,7 @@
             <Korean>기본 로드아웃 목록이 비어있습니다!</Korean>
             <Chinese>沒有預設的裝備清單!</Chinese>
             <Chinesesimp>没有预设的装备清单!</Chinesesimp>
-            <Russian>Список комплекта экипировки пуст!</Russian>
+            <Russian>Список комплекта спорядження порожній!</Russian>
             <Portuguese>A lista de loadouts padrões está vazia!</Portuguese>
             <Czech>Seznam standardních sad vybavení je prázdný!</Czech>
         </Key>
@@ -408,7 +408,7 @@
             <Korean>클립보드에 기본 로드아웃 목록 내보내기</Korean>
             <Chinese>預設的裝備清單已匯出到剪貼簿中</Chinese>
             <Chinesesimp>预设的装备清单已汇出到剪贴簿中</Chinesesimp>
-            <Russian>Список комплекта экипировки по умолчанию экспортирован в буфер</Russian>
+            <Russian>Список комплекта спорядження за замовчуванням був експортований в буфер</Russian>
             <Portuguese>A lista de loadouts padrões foi exportada pra área de transferência</Portuguese>
             <Czech>Seznam standardních sad vybavení byl exportován do schránky</Czech>
         </Key>
@@ -422,7 +422,7 @@
             <Korean>현재 로드아웃을 클립보드로 내보냈습니다.</Korean>
             <Chinese>當前的裝備已匯出到剪貼簿中</Chinese>
             <Chinesesimp>当前的装备已汇出到剪贴簿中</Chinesesimp>
-            <Russian>Текущий список комплекта экипировки экспортирован в буфер</Russian>
+            <Russian>Поточний список комплекту спорядження був експортований в буфер</Russian>
             <Portuguese>Loadout atual foi exportado pra área de transferência</Portuguese>
             <Czech>Současná sada vybavení byla exportována do schránky</Czech>
         </Key>
@@ -436,7 +436,7 @@
             <Korean>잘못된 형식 입력됨</Korean>
             <Chinese>提供的格式錯誤</Chinese>
             <Chinesesimp>提供的格式错误</Chinesesimp>
-            <Russian>Неверный формат импорта</Russian>
+            <Russian>Невірний формат імпорту</Russian>
             <Portuguese>Format incorreto fornecido</Portuguese>
             <Czech>Byl dodán špatný formát</Czech>
         </Key>
@@ -450,7 +450,7 @@
             <Korean>클립보드에서 기본 로드아웃 가져오기</Korean>
             <Chinese>預設的裝備清單已從剪貼簿中匯入</Chinese>
             <Chinesesimp>预设的装备清单已从剪贴簿中汇入</Chinesesimp>
-            <Russian>Список комплекта экипировки по умолчанию импортирован из буфера</Russian>
+            <Russian>Список комплекта спорядження за замовчуванням був імпортований з буферу</Russian>
             <Portuguese>A lista de loadouts padrões foi importada da área de transferência</Portuguese>
             <Czech>Seznam standardních sad vybavení byl importován ze schránky</Czech>
         </Key>
@@ -464,7 +464,7 @@
             <Korean>클립보드에서 로드아웃을 가져왔습니다.</Korean>
             <Chinese>裝備已從剪貼簿中匯入</Chinese>
             <Chinesesimp>装备已从剪贴簿中汇入</Chinesesimp>
-            <Russian>Список комплекта экипировки импортирован из буфера</Russian>
+            <Russian>Комплект спорядження імпортовано з буферу</Russian>
             <Portuguese>Loadout importado da área de transferência</Portuguese>
             <Czech>Sada vybavení byla importována ze schránky</Czech>
         </Key>
@@ -478,7 +478,7 @@
             <Korean>다음 로드아웃이 삭제됨 :</Korean>
             <Chinese>以下的裝備已被刪除:</Chinese>
             <Chinesesimp>以下的装备已被删除:</Chinesesimp>
-            <Russian>Удален комплект экипировки:</Russian>
+            <Russian>Видалено комплект спорядження:</Russian>
             <Portuguese>O seguinte loadout foi apagado:</Portuguese>
             <Czech>Tato sada vybavení byla smazána:</Czech>
         </Key>
@@ -492,7 +492,7 @@
             <Korean>다음 로드아웃이 더이상 공용이 아님:</Korean>
             <Chinese>以下的裝備已不再被分享:</Chinese>
             <Chinesesimp>以下的装备已不再被分享:</Chinesesimp>
-            <Russian>Этот комплект экипировки больше не публичный:</Russian>
+            <Russian>Цей комплект спорядження більше не публікується:</Russian>
             <Portuguese>O seguinte loadout não é mais público:</Portuguese>
             <Czech>Tato sada vybavení již není veřejná:</Czech>
         </Key>
@@ -506,7 +506,7 @@
             <Korean>이름칸이 비었습니다!</Korean>
             <Chinese>名稱欄位為空!</Chinese>
             <Chinesesimp>名称栏位为空!</Chinesesimp>
-            <Russian>Поле имени пустое!</Russian>
+            <Russian>Поле назви пусте!</Russian>
             <Portuguese>O nome não pode estar vazio!</Portuguese>
             <Czech>Pole "Jméno" je prázdné!</Czech>
         </Key>
@@ -520,7 +520,7 @@
             <Korean>이 로드아웃의 제작자입니다.</Korean>
             <Chinese>你是這個裝備的作者</Chinese>
             <Chinesesimp>你是这个装备的作者</Chinesesimp>
-            <Russian>Вы автор этого комплекта экипировки</Russian>
+            <Russian>Ви є автором цього комплекту</Russian>
             <Portuguese>Você é o autor desse loadout</Portuguese>
             <Czech>Jste autorem této sady vybavení</Czech>
         </Key>
@@ -534,7 +534,7 @@
             <Korean>같은 이름의 로드아웃이 공용에 있습니다.</Korean>
             <Chinese>已有相同名稱的裝備在公用分享區</Chinese>
             <Chinesesimp>已有相同名称的装备在公用分享区</Chinesesimp>
-            <Russian>Ваш комплект экипировки с таким же именем является публичным</Russian>
+            <Russian>Ваш комплект з аналогічним ім'ям вже є публічним</Russian>
             <Portuguese>Um loadout seu com o mesmo nome é público</Portuguese>
             <Czech>Vaše sada vybavení se stejným jménem je veřejná</Czech>
         </Key>
@@ -548,7 +548,7 @@
             <Korean>다음 로드아웃이 저장됨:</Korean>
             <Chinese>以下的裝備已被保存:</Chinese>
             <Chinesesimp>以下的装备已被保存:</Chinesesimp>
-            <Russian>Сохранен комплект экипировки:</Russian>
+            <Russian>Збережено комплект спорядження:</Russian>
             <Portuguese>O seguinte loadout foi salvo:</Portuguese>
             <Czech>Tato sada vybavení byla uložena:</Czech>
         </Key>
@@ -562,7 +562,7 @@
             <Korean>다음 로드아웃을 불러옴:</Korean>
             <Chinese>以下的裝備已被載入:</Chinese>
             <Chinesesimp>以下的装备已被载入:</Chinesesimp>
-            <Russian>Загружен комплект экипировки:</Russian>
+            <Russian>Завантажено комплект екіпіровки:</Russian>
             <Portuguese>O seguinte loadout foi carregado:</Portuguese>
             <Czech>Tato sada vybavení byla načtena:</Czech>
         </Key>
@@ -576,7 +576,7 @@
             <Korean>같은 이름의 로드아웃이 이미 존재합니다!</Korean>
             <Chinese>已有相同名稱的裝備!</Chinese>
             <Chinesesimp>已有相同名称的装备!</Chinesesimp>
-            <Russian>Комплект с таким именем уже существует!</Russian>
+            <Russian>Комплект з таким ім'ям вже існує!</Russian>
             <Portuguese>Um loadout com o mesmo nome já existe!</Portuguese>
             <Czech>Již existuje sada vybavení se stejným jménem!</Czech>
         </Key>
@@ -590,7 +590,7 @@
             <Korean>이름이 다음과 같이 변경됨:</Korean>
             <Chinese>已被改名為</Chinese>
             <Chinesesimp>已被改名为</Chinesesimp>
-            <Russian>был переименован в</Russian>
+            <Russian>був перейменований в</Russian>
             <Portuguese>foi renameado para</Portuguese>
             <Czech>bylo přejmenováno na</Czech>
         </Key>
@@ -604,7 +604,7 @@
             <Korean>카메라 조종 반전</Korean>
             <Chinese>反轉攝影機控制</Chinese>
             <Chinesesimp>反转摄影机控制</Chinesesimp>
-            <Russian>Инвертировать управление камерой</Russian>
+            <Russian>Інвертувати управління камерою</Russian>
             <Portuguese>Inverter controles da câmera</Portuguese>
             <Czech>Obrátit ovládání kamery</Czech>
         </Key>
@@ -618,7 +618,7 @@
             <Korean>모드 아이콘 허가</Korean>
             <Chinese>啟用模組圖示</Chinese>
             <Chinesesimp>启用模组图示</Chinesesimp>
-            <Russian>Включить иконки модов</Russian>
+            <Russian>Включити іконки модів</Russian>
             <Portuguese>Ativar ícones de mods</Portuguese>
             <Czech>Zapnout ikony modů</Czech>
         </Key>
@@ -632,7 +632,7 @@
             <Korean>패널 폰트 높이</Korean>
             <Chinese>面板字體高度</Chinese>
             <Chinesesimp>面板字体高度</Chinesesimp>
-            <Russian>Размер шрифта панели</Russian>
+            <Russian>Розмір шрифту панелі</Russian>
             <Portuguese>Altura da fonte do painel</Portuguese>
             <Czech>Výška fontu panelů</Czech>
         </Key>
@@ -646,7 +646,7 @@
             <Korean>기본 로드아웃 허용</Korean>
             <Chinese>允許預設裝備</Chinese>
             <Chinesesimp>允许预设装备</Chinesesimp>
-            <Russian>Разрешить комплекты по умолчанию</Russian>
+            <Russian>Дозволити комплекти за замовчуванням</Russian>
             <Portuguese>Permitir loadouts padrões</Portuguese>
             <Czech>Povolit standardní sady vybavení</Czech>
         </Key>
@@ -660,7 +660,7 @@
             <Korean>로드아웃 공유 허용</Korean>
             <Chinese>允許分享裝備</Chinese>
             <Chinesesimp>允许分享装备</Chinesesimp>
-            <Russian>Разрешить публикацию комплектов</Russian>
+            <Russian>Дозволити публікацію комплектів</Russian>
             <Portuguese>Permitir compartilhar loadouts</Portuguese>
             <Czech>Povolit sdílení sad vybavení</Czech>
         </Key>
@@ -674,7 +674,7 @@
             <Korean>누락 된 항목 / 사용 할 수 없는 항목 기록</Korean>
             <Chinese>記錄遺失/無法使用的項目</Chinese>
             <Chinesesimp>记录遗失/无法使用的项目</Chinesesimp>
-            <Russian>Вести журнал недоступных предметов</Russian>
+            <Russian>Вести журнал недоступних предметів</Russian>
             <Portuguese>Registrar em log itens indisponíveis/não encontrados</Portuguese>
             <Czech>Zalogovat chybějící/nedostupné předměty</Czech>
         </Key>
@@ -688,7 +688,7 @@
             <German>Primärmagazin</German>
             <Chinese>主要武器彈匣</Chinese>
             <Chinesesimp>主要武器弹匣</Chinesesimp>
-            <Russian>Основной магазин</Russian>
+            <Russian>Основний магазин</Russian>
             <Portuguese>Carregador Primário</Portuguese>
             <Czech>Hlavní zásobník</Czech>
         </Key>
@@ -702,7 +702,7 @@
             <German>Sekundärmagazin</German>
             <Chinese>次要武器彈匣</Chinese>
             <Chinesesimp>次要武器弹匣</Chinesesimp>
-            <Russian>Вторичный магазин</Russian>
+            <Russian>Вторичний магазин</Russian>
             <Portuguese>Carregador Secundário</Portuguese>
             <Czech>Vedlejší zásobník</Czech>
         </Key>
@@ -730,7 +730,7 @@
             <German>Erlaube die Nutzung des Standardausrüstungsreiters</German>
             <Chinese>允許使用預設的裝備</Chinese>
             <Chinesesimp>允许使用预设的装备</Chinesesimp>
-            <Russian>Разрешить использование вкладки комплектов экипировки по умолчанию</Russian>
+            <Russian>Дозволити вкладку комплектів споряджень за замовчуванням</Russian>
             <Portuguese>Permite o uso da aba de loadouts padrões</Portuguese>
             <Czech>Povolit používání záložky standardních sad vybavení</Czech>
         </Key>
@@ -744,7 +744,7 @@
             <German>Zeigt/Versteckt Mod-Symbole in der linken Leiste</German>
             <Chinese>在左面板中顯示/隱藏模組圖示</Chinese>
             <Chinesesimp>在左面板中显示/隐藏模组图示</Chinesesimp>
-            <Russian>Показать / скрыть значки модов в левой панели</Russian>
+            <Russian>Показати / Приховати іконки модів в лівій панелі</Russian>
             <Portuguese>Mostra / Esconde os ícones de mods no painel esquerdo</Portuguese>
             <Czech>Ukázat/Skrýt ikony modů v levém panelu</Czech>
         </Key>
@@ -758,7 +758,7 @@
             <German>Ändert die Schriftgröße für die linke/rechte Leiste</German>
             <Chinese>變更左/右面板中的字體高度</Chinese>
             <Chinesesimp>变更左/右面板中的字体高度</Chinesesimp>
-            <Russian>Изменить размер шрифта для текста в левой / правой панелях</Russian>
+            <Russian>Змінити розмір шрифту в лівій / правій панелях</Russian>
             <Portuguese>Muda o tamanho da fonte para os textos nos painéis esquerdo e direito</Portuguese>
             <Czech>Změnit výšku fontu pro text v levém/pravém panelu</Czech>
         </Key>
@@ -772,7 +772,7 @@
             <German>Fehlende Gegenstände werden in der RPT aufgezeichnet</German>
             <Chinese>記錄遺失/無法使用的項目到RPT檔案中</Chinese>
             <Chinesesimp>记录遗失/无法使用的项目到RPT档案中</Chinesesimp>
-            <Russian>Вести журнал отсутствующих / недоступных предметов в RPT</Russian>
+            <Russian>Вести журнал відсутніх / недоступних предметів в файл RPT</Russian>
             <Portuguese>Registrar em log itens indisponíveis no RPT</Portuguese>
             <Czech>Zalogovat chybějící/nedostupné předměty do RPT logu</Czech>
         </Key>
@@ -786,7 +786,7 @@
             <Chinese>無法開啟ACE虛擬軍火庫</Chinese>
             <Chinesesimp>无法开启ACE虚拟军火库</Chinesesimp>
             <Polish>Nie można otworzyć arsenału ACE</Polish>
-            <Russian>Невозможно открыть ACE Арсенал</Russian>
+            <Russian>Неможливо відкрити ACE Арсенал</Russian>
             <Portuguese>Não foi possível abrir o ACE Arsenal</Portuguese>
             <Czech>Nepodařilo se otevřít ACE Arzenál</Czech>
         </Key>
@@ -800,7 +800,7 @@
             <Chinesesimp>汇入BI原厂虚拟军火库的装备到ACE虚拟军火库中</Chinesesimp>
             <Italian>Importa l'arsenale virtuale BI nell'arsenale ACE</Italian>
             <Polish>Importuj zestawy wyposażenia z wirtualnego arsenału BI do arsenału ACE</Polish>
-            <Russian>Импорт комплектов из Арсенала BI в Арсенал ACE</Russian>
+            <Russian>Імпорт комплектів з Арсеналу BI в Арсенал ACE</Russian>
             <Portuguese>Importar loadouts do BIS Arsenal para o ACE Arsenal</Portuguese>
             <Czech>Importovat sady vybavení z BI VA do ACE Arzenálu</Czech>
         </Key>
@@ -814,7 +814,7 @@
             <Chinesesimp>没有可用的玩家单位!请摆放一个单位并设定成"玩家"。</Chinesesimp>
             <Italian>Non ci sono giocatori! Poisziona una unità e impostala come "Giocatore".</Italian>
             <Polish>Brak dostępnych jednostek gracza! Postaw jednostkę i oznacz ją jako "Gracz".</Polish>
-            <Russian>Нет доступных игроков! Разместите юнит и отметьте его как «Игрок»</Russian>
+            <Russian>Немає доступних гравців! Додайте юніт і позначте його як «Player»</Russian>
             <Portuguese>Nenhuma unidade de jogador disponível! Coloque uma unidade e marque como "Player".</Portuguese>
             <Czech>Žádná jednotka hráče není dostupná! Umístěte jednotku a nastavte ji jako "Hráč".</Czech>
         </Key>
@@ -828,7 +828,7 @@
             <Chinesesimp>没有装备被汇入。</Chinesesimp>
             <Italian>Non ci sono equipaggiamenti da importare.</Italian>
             <Polish>Brak zestawów wyposażenia do zaimportowania.</Polish>
-            <Russian>Нет комплектов для импорта</Russian>
+            <Russian>Немає комплектів для імпорту</Russian>
             <Portuguese>Nenhum loadout para importar.</Portuguese>
             <Czech>Žádné sadz vybavení k importu.</Czech>
         </Key>
@@ -855,7 +855,7 @@
             <Chinesesimp>返回到ACE虚拟军火库。</Chinesesimp>
             <Italian>Torna all'arsenale ACE</Italian>
             <Polish>Wróć do arsenału ACE.</Polish>
-            <Russian>Вернуться в ACE Арсенал</Russian>
+            <Russian>Повернутися в ACE Арсенал</Russian>
             <Portuguese>Voltar para o ACE Arsenal</Portuguese>
             <French>Retour à l'arsenal ACE</French>
             <Czech>Vrátit se do ACE Arzenálu</Czech>
@@ -869,7 +869,7 @@
             <Chinesesimp>使用ACE虚拟军火库来尝试不同的武器与装备。</Chinesesimp>
             <Italian>Usa l'arsenale ACE per provare armi ed equipaggiamenti vari.</Italian>
             <Polish>Skorzystaj z arsenału ACE by wypróbować broń i ekwipunek.</Polish>
-            <Russian>Используйте ACE Arsenal, чтобы опробовать различное оружие и снаряжение.</Russian>
+            <Russian>Використовуйте ACE Arsenal для випробування різної зброї та спорядження</Russian>
             <Portuguese>Use o ACE Arsenal para experimentar diferentes armas e equipamentos.</Portuguese>
             <French>Utilisez l'arsenal ACE pour essayer différentes armes ou équipements.</French>
             <Czech>Použijte ACE Arzenál k vyzkoušní různých zbraní a výbavy.</Czech>
@@ -883,7 +883,7 @@
             <Chinesesimp>尝试不同的武器与装备来组合你个人的装备配置。</Chinesesimp>
             <Italian>Prova armi ed equipaggiamenti e creai i tuoi equipaggiamenti personalizzati.</Italian>
             <Polish>Wypróbuj broń i ekwipunek i stwórz swoje własne zestawy wyposażenia.</Polish>
-            <Russian>Опробуйте оружие и снаряжение, создавайте собственные комплекты экипировки.</Russian>
+            <Russian>Випробуйте зброю та екіпіровку та створюйте власні комплекти споряджень.</Russian>
             <Portuguese>Experimente armas e equipamentos e crie seus próprios loadouts.</Portuguese>
             <French>Essayez des armes et du matériel et créez vos propres sets d'équipement.</French>
             <Czech>Vyzkoušejte zbraně a výbavu a vytvořte si vlastní sady vybavení.</Czech>
@@ -897,7 +897,7 @@
             <Japanese>装備画面を開く</Japanese>
             <Italian>Apri la pagina degli equipaggiamenti</Italian>
             <Polish>Otwórz ekran zestawów</Polish>
-            <Russian>Открыть окно комплектов экипировки</Russian>
+            <Russian>Відкрити вікно комплектів спорядження</Russian>
             <Portuguese>Abre a tela de loadouts</Portuguese>
             <Czech>Otevřít obrazovku se sadami vybavení</Czech>
         </Key>
@@ -910,7 +910,7 @@
             <Japanese>現在/標準装備をエクスポートします</Japanese>
             <Italian>Esporta l'equipaggiamento attuale oppure la lista degli equipaggiamenti di base</Italian>
             <Polish>Eksportuj obecne / domyślne zestawy wyposażenia </Polish>
-            <Russian>Экспорт комплектов экипировки</Russian>
+            <Russian>Експорт комплектів спорядження</Russian>
             <Portuguese>Exporta loadout atual / loadouts padrões</Portuguese>
             <Czech>Exportovat současný/standardní sady vybavení</Czech>
         </Key>
@@ -923,7 +923,7 @@
             <Japanese>現在/標準装備をインポートします</Japanese>
             <Italian>Importa l'equipaggiamento attuale oppure la lista degli equipaggiamenti di base</Italian>
             <Polish>Importuj obecne / domyślne zestawy wyposażenia</Polish>
-            <Russian>Импорт комплектов экипировки</Russian>
+            <Russian>Імпорт комплектів спорядження</Russian>
             <Portuguese>Importa loadout atual / loadouts padrões</Portuguese>
             <Czech>Importovat současný/standardní sady vybavení</Czech>
         </Key>
@@ -935,7 +935,7 @@
             <Chinese>鉀水平</Chinese>
             <Italian>Ilvello di potassio</Italian>
             <Polish>Poziomy potasu</Polish>
-            <Russian>Уровень Калия</Russian>
+            <Russian>Рівень калію</Russian>
             <Portuguese>Níveis de Potássio</Portuguese>
             <Czech>Úrovně draslíku</Czech>
         </Key>
@@ -946,7 +946,7 @@
             <Spanish>Aumento</Spanish>
             <Italian>Ingrandimento</Italian>
             <Polish>Powiększenie</Polish>
-            <Russian>Увеличение</Russian>
+            <Russian>Приближення</Russian>
             <German>Vergrößerung</German>
             <Czech>Zvětšení</Czech>
             <Portuguese>Aumento</Portuguese>
@@ -961,7 +961,7 @@
             <Japanese>暗視装置への対応有無</Japanese>
             <Polish>Wsparcie noktowizyjne</Polish>
             <Italian>Supporto visore notturno</Italian>
-            <Russian>Поддержка ночного видения</Russian>
+            <Russian>Підтримка ПНБ</Russian>
             <Portuguese>Suporte de Visão Noturna</Portuguese>
             <French>Support JVN</French>
             <Chinese>夜視鏡支援</Chinese>
@@ -973,7 +973,7 @@
             <Japanese>プライマリが対応</Japanese>
             <Polish>Wspierane przez broń główną</Polish>
             <Italian>Primario supportato</Italian>
-            <Russian>Поддерживается осн. прицелом</Russian>
+            <Russian>Підтримується осн. прицілом</Russian>
             <Portuguese>Primária suportada</Portuguese>
             <French>Primaire supportée</French>
             <Chinese>主武器支援</Chinese>
@@ -985,7 +985,7 @@
             <Japanese>セカンダリが対応</Japanese>
             <Polish>Wspierane przez broń drugorzędną</Polish>
             <Italian>Secondario supportato</Italian>
-            <Russian>Поддерживается доп. прицелом</Russian>
+            <Russian>Підтримується доп. прицілом</Russian>
             <Portuguese>Secundária suportada</Portuguese>
             <French>Secondaire supportée</French>
             <Chinese>次要武器支援</Chinese>
@@ -997,7 +997,7 @@
             <Japanese>プライマリに内蔵</Japanese>
             <Polish>Zintegrowane z bronią główną</Polish>
             <Italian>Primario integrato</Italian>
-            <Russian>Интегрирован в осн. прицел</Russian>
+            <Russian>Інтегрований в осн. приціл</Russian>
             <Portuguese>Primária integrada</Portuguese>
             <French>Primaire intégrée</French>
             <Chinese>整合主武器</Chinese>
@@ -1009,7 +1009,7 @@
             <Japanese>セカンダリに内蔵</Japanese>
             <Polish>Nie wspierane</Polish>
             <Italian>Non supportato</Italian>
-            <Russian>Не поддерживается</Russian>
+            <Russian>Не підтримується</Russian>
             <Portuguese>Não suportado</Portuguese>
             <French>Non supporté</French>
             <Chinese>不支援</Chinese>
@@ -1024,7 +1024,7 @@
             <Chinese>頁面</Chinese>
             <Italian>Pagina</Italian>
             <Polish>Strona</Polish>
-            <Russian>Стр.</Russian>
+            <Russian>Стор.</Russian>
             <Portuguese>Página</Portuguese>
             <Czech>Stránka</Czech>
         </Key>
@@ -1037,7 +1037,7 @@
             <Chinese>啟用臉譜/聲音/徽章選項</Chinese>
             <Italian>Abilita volti, voci e insegne</Italian>
             <Polish>Aktywuj zakładki twarz / głos / insygnia</Polish>
-            <Russian>Включить вкладки Лиц / Голосов / Знаков различия</Russian>
+            <Russian>Включити вкладки Осіб / Голосів / Відзнак</Russian>
             <Portuguese>Ativar as abas de rostos / vozes / insígnias</Portuguese>
             <Czech>Povolit záložky s tvářemi, hlasy a insigniemi</Czech>
         </Key>
@@ -1050,7 +1050,7 @@
             <Chinese>清空選擇的箱子</Chinese>
             <Italian>Svuota il contenitore selezionato</Italian>
             <Polish>Opróżnij wybrany pojemnik</Polish>
-            <Russian>Очистить контейнер</Russian>
+            <Russian>Очистити контейнер</Russian>
             <Portuguese>Esvaziar o cointâiner selecionado</Portuguese>
             <Czech>Vyprázdnit vybraný nosič</Czech>
         </Key>
@@ -1063,7 +1063,7 @@
             <Chinese>輸出 class name 到剪貼簿上</Chinese>
             <Italian>Copiato il nome della classe negli appunti</Italian>
             <Polish>Wyeksportowano nazwę klasy do schowka</Polish>
-            <Russian>Имя класса, экспортированного в буфер</Russian>
+            <Russian>Назва класу, експортованого в буфер</Russian>
             <Portuguese>O nome da classe foi exportado para a área de transferência</Portuguese>
             <Czech>Jméno třídy exportováno do schránky</Czech>
         </Key>
@@ -1092,7 +1092,7 @@
             <Portuguese>Lista Branca</Portuguese>
             <French>Liste blanche</French>
             <Hungarian>Fehérlista</Hungarian>
-            <Russian>Вайтлист</Russian>
+            <Russian>Білий список</Russian>
             <Italian>Lista Bianca</Italian>
             <Japanese>許可リスト</Japanese>
             <Korean>화이트리스트</Korean>
@@ -1105,7 +1105,7 @@
             <Japanese>禁止リスト</Japanese>
             <Italian>Lista Nera</Italian>
             <Polish>Czarna lista (lista wykluczeń)</Polish>
-            <Russian>Чёрный список</Russian>
+            <Russian>Чорний список</Russian>
             <Portuguese>Lista Negra</Portuguese>
             <French>Liste noire</French>
             <Chinese>黑名單</Chinese>
@@ -1118,7 +1118,7 @@
             <Spanish>Objetos</Spanish>
             <Italian>Oggetti</Italian>
             <Polish>Przedmioty</Polish>
-            <Russian>Предметы</Russian>
+            <Russian>Предмети</Russian>
             <German>Gegenstände</German>
             <Czech>Předměty</Czech>
             <Portuguese>Itens</Portuguese>
@@ -1134,7 +1134,7 @@
             <Italian>Esporta l'attuale lista di elementi come un array, per essere usati negli script</Italian>
             <Polish>Eksportuj obecną listę przedmiotów jako tablicę do wykorzystania w skryptach</Polish>
             <Portuguese>Exportar a lista atual de itens como uma matriz para usar em scripts</Portuguese>
-            <Russian>Экспорт текущего списка предметов в виде массива для использования в скриптах</Russian>
+            <Russian>Експорт поточного списку предметів у вигляді масиву для використання в скриптах</Russian>
             <French>Exporte l'équipement actuel dans le presse-papier, sous la forme d'un tableau à utiliser dans les scripts.</French>
             <Chinese>匯出目前的物品列表為陣列用於腳本編寫</Chinese>
             <Czech>Exportovat současný seznam předmětů jako pole pro použití ve skriptech</Czech>
@@ -1144,7 +1144,7 @@
             <German>Importiert alles aus der Zwischenablage (Sollte im gleichen Format sein, wie beim Exportieren)</German>
             <Polish>Zaimportuj listę przedmiotów ze schowka (lista musi być w tym samym formacie jak przy exporcie)</Polish>
             <Japanese>クリップボードからアイテムリストをアレイでインポートします (エクスポートと同じフォーマットである必要があります)</Japanese>
-            <Russian>Импорт массива списка предметов из буфера (должен иметь тот же формат, что при экспорте)</Russian>
+            <Russian>Імпорт масиву списку предметів з буфера (має бути такий самий формат, як при експорті)</Russian>
             <Portuguese>Importar lista de itens da área de transferência (deve estar no mesmo formato que uma lista exportada)</Portuguese>
             <French>Importe un tableau d'équipements depuis le presse-papier (le format doit être identique à celui de l'exportation).</French>
             <Chinese>從剪貼簿匯入物品列表之陣列（應該與匯出的格式一樣）</Chinese>
@@ -1156,7 +1156,7 @@
             <German>Füge kompatible Gegenstände hinzu</German>
             <Polish>Dodaj kompatybilne przedmioty</Polish>
             <Japanese>対応アイテムを追加</Japanese>
-            <Russian>Добавить совместимые предметы</Russian>
+            <Russian>Додати сумісні предмети</Russian>
             <Portuguese>Adicionar itens compatíveis</Portuguese>
             <French>Ajouter des objets compatibles</French>
             <Chinese>增加相容的物品</Chinese>
@@ -1168,7 +1168,7 @@
             <German>Es werden automatisch kompatible Aufsätze oder Magazine für alle ausgewählten Waffen hinzugefügt</German>
             <Polish>Automatycznie doda kompatybilne dodatki oraz magazynki (odpowiednio do każdej kategorii) dla wszystkich broni na liście</Polish>
             <Japanese>現在のアイテム リスト内にある全武器に対応するアタッチメントと弾倉 (選択したカテゴリに基づき) を自動的に追加します</Japanese>
-            <Russian>Добавляет совместимые приспособления или магазины (в зависимости от выбранной категории) для всего оружия в текущем списке предметов</Russian>
+            <Russian>Додає сумісні прилади або магазини (в залежності від обраної категорії) для всієї зброї в поточному списку предметів</Russian>
             <Portuguese>Irá automaticamente adicionar acessórios ou carregadores (baseado na categoria selecionada) para todas as armas na lista de itens atual</Portuguese>
             <French>Ajoute automatiquement des accessoires ou des chargeurs compatibles (en fonction de la catégorie sélectionnée), pour toutes les armes de la liste actuelle.</French>
             <Chinese>將會自動增加相容的配件以及彈匣（基於選擇的類型）至妳目前物品列表中的全部武器</Chinese>
@@ -1182,7 +1182,7 @@
             <Japanese>有効時間</Japanese>
             <Polish>Czas by żyć</Polish>
             <Italian>Scadenza (TTL)</Italian>
-            <Russian>Время действия</Russian>
+            <Russian>Час дії</Russian>
             <Portuguese>Time to live</Portuguese>
             <Chinese>有效時間</Chinese>
             <Czech>Time to live</Czech>

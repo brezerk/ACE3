@@ -7,7 +7,7 @@
             <Polish>Kierowany przewodem</Polish>
             <Italian>Filoguidato</Italian>
             <Japanese>ワイヤ有線誘導</Japanese>
-            <Russian>Проводное управление</Russian>
+            <Russian>Наведення по дротах</Russian>
             <Portuguese>Guiado por Fio</Portuguese>
             <Chinese>有線制導</Chinese>
             <French>Filoguidé</French>
@@ -21,7 +21,7 @@
             <Polish>Semi-automatyczna komenda do pola widzenia</Polish>
             <Italian>Comando Semi-Automatico via Contatto Visivo(SACLOS)</Italian>
             <Japanese>半自動指令照準線一致誘導方式</Japanese>
-            <Russian>Полуавтоматическое командное наведение по линии визирования (SACLOS)</Russian>
+            <Russian>Напівавтоматичне керування по лінії прицілювання (SACLOS)</Russian>
             <Portuguese>Comando semi-automático para a linha de visão (SACLOS)</Portuguese>
             <Chinese>視線內半自動指令</Chinese>
             <French>Contrôle semi-automatique par contact visuel (SACLOS)</French>
@@ -34,7 +34,7 @@
             <Polish>Pocisk kierowany przewodowo</Polish>
             <Italian>Missile filoguidato</Italian>
             <Japanese>ワイヤ有線誘導ミサイル</Japanese>
-            <Russian>Ракета с проводным управлением</Russian>
+            <Russian>Ракета керована по дротах</Russian>
             <Portuguese>Míssil Guiado por Fio</Portuguese>
             <Chinese>有線制導飛彈</Chinese>
             <French>Missile filoguidé</French>
@@ -118,7 +118,7 @@
             <Polish>Pocisk kierowany przewodowo (przeciwpiechotny)</Polish>
             <Italian>Missile filoguidato antiuomo</Italian>
             <Japanese>ワイヤ有線誘導ミサイル (対人)</Japanese>
-            <Russian>Ракета с проводным управлением (Противопехотная)</Russian>
+            <Russian>Ракета керована по дротах (Протипехотна)</Russian>
             <Portuguese>Míssil Guiado por Fio (Anti-Pessoal)</Portuguese>
             <Chinese>有線制導飛彈（反步兵）</Chinese>
             <French>Missile filoguidé (antipersonnel)</French>

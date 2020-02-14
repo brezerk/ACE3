@@ -5,7 +5,7 @@
             <English>Display text on grenade throw</English>
             <German>Zeige Text beim Granatwurf</German>
             <Spanish>Mostrar texto al lanzar una granada</Spanish>
-            <Russian>Показывать текст при броске</Russian>
+            <Russian>Відображати текст при киданні гранати</Russian>
             <Czech>Zobrazí text při hodu granátem</Czech>
             <Polish>Wyświetl tekst przy rzucie granatem</Polish>
             <French>Afficher du texte lors d'un lancé de grenade</French>
@@ -21,7 +21,7 @@
             <English>Display a hint or text on grenade throw.</English>
             <German>Zeige Hinweis oder Text beim Granatwurf</German>
             <Spanish>Muestra una notificación o texto al lanzar una granada</Spanish>
-            <Russian>Показывать текст или подсказку при броске гранаты.</Russian>
+            <Russian>Відображайте підказку або текст про кидання гранати</Russian>
             <Czech>Zobrazí upozornění nebo text při hodu granátem.</Czech>
             <Polish>Wyświetla powiadomienie lub tekst przy rzucie granatem.</Polish>
             <French>Affiche un texte ou une notification lors d'un lancé de grenade.</French>
@@ -39,7 +39,7 @@
             <Spanish>Seleccionar pistola</Spanish>
             <Polish>Wybierz pistolet</Polish>
             <Czech>Zvolit Pistoly</Czech>
-            <Russian>Выбрать пистолет</Russian>
+            <Russian>Вибрати пістолет</Russian>
             <French>Sélectionner le pistolet</French>
             <Hungarian>Pisztoly Kiválasztása</Hungarian>
             <Portuguese>Selecionar Pistola</Portuguese>
@@ -56,7 +56,7 @@
             <Spanish>Seleccionar fusil</Spanish>
             <Polish>Wybierz karabin</Polish>
             <Czech>Zvolit Pušku</Czech>
-            <Russian>Выбрать винтовку</Russian>
+            <Russian>Вибрати гвинтівку</Russian>
             <French>Sélectionner le fusil</French>
             <Hungarian>Puska Kiválasztása</Hungarian>
             <Portuguese>Selecionar Rifle</Portuguese>
@@ -73,7 +73,7 @@
             <Spanish>Seleccionar lanzador</Spanish>
             <Polish>Wybierz wyrzutnię</Polish>
             <Czech>Zvolit Raketomet</Czech>
-            <Russian>Выбрать гранатомёт</Russian>
+            <Russian>Вибрати пускову установку</Russian>
             <French>Sélectionner le lanceur</French>
             <Hungarian>Rakétavető Kiválasztása</Hungarian>
             <Portuguese>Selecionar Lançador</Portuguese>
@@ -90,7 +90,7 @@
             <Spanish>Seleccionar lanzagranadas</Spanish>
             <Polish>Wybierz granatnik</Polish>
             <Czech>Zvolit Granátomet</Czech>
-            <Russian>Выбрать подствольный гранатомёт</Russian>
+            <Russian>Вибрати підствольний гранатомет</Russian>
             <French>Sélectionner le lance-grenades</French>
             <Hungarian>Gránátvető Kiválasztása</Hungarian>
             <Portuguese>Selecionar Lança-Granadas</Portuguese>
@@ -107,7 +107,7 @@
             <Spanish>Seleccionar prismáticos</Spanish>
             <Polish>Wybierz lornetkę</Polish>
             <Czech>Zvolit Dalekohled</Czech>
-            <Russian>Выбрать бинокль</Russian>
+            <Russian>Вибрати бінокль</Russian>
             <French>Sélectionner les jumelles</French>
             <Hungarian>Távcső Kiválasztása</Hungarian>
             <Portuguese>Selecionar Binóculos</Portuguese>
@@ -124,7 +124,7 @@
             <Spanish>Enfundar el arma</Spanish>
             <Polish>Schowaj broń</Polish>
             <Czech>Schovat zbraň</Czech>
-            <Russian>Убрать оружие</Russian>
+            <Russian>Прибрати зброю</Russian>
             <French>Arme à la bretelle</French>
             <Hungarian>Fegyvert tokba</Hungarian>
             <Portuguese>Guardar Arma</Portuguese>
@@ -145,7 +145,7 @@
             <Czech>Zapnout motor</Czech>
             <Portuguese>Ligar Motor</Portuguese>
             <Italian>Motore acceso</Italian>
-            <Russian>Включить двигатель</Russian>
+            <Russian>Включити двигун</Russian>
             <Japanese>エンジン始動</Japanese>
             <Korean>엔진 켜기</Korean>
             <Chinesesimp>引擎发动</Chinesesimp>
@@ -162,7 +162,7 @@
             <Czech>Vypnout motor</Czech>
             <Portuguese>Desligar Motor</Portuguese>
             <Italian>Motore spento</Italian>
-            <Russian>Выключить двигатель</Russian>
+            <Russian>Вимкнути двигун</Russian>
             <Japanese>エンジン停止</Japanese>
             <Korean>엔진 끄기</Korean>
             <Chinesesimp>引擎熄火</Chinesesimp>
@@ -179,7 +179,7 @@
             <Czech>Zvolit Hlavní Zbraň</Czech>
             <Portuguese>Selecionar Arma Principal</Portuguese>
             <Italian>Seleziona Arma Primaria</Italian>
-            <Russian>Выбрать основное оружие</Russian>
+            <Russian>Вибрати основну зброю</Russian>
             <Japanese>主砲を選択</Japanese>
             <Korean>주포 선택</Korean>
             <Chinesesimp>选择主武器</Chinesesimp>
@@ -196,7 +196,7 @@
             <Czech>Zvolit Kulomet</Czech>
             <Portuguese>Selecionar Metralhadora</Portuguese>
             <Italian>Seleziona Mitragliatrice</Italian>
-            <Russian>Выбрать пулемёт</Russian>
+            <Russian>Вибрати кулемет</Russian>
             <Japanese>機関砲を選択</Japanese>
             <Korean>기관총 선택</Korean>
             <Chinesesimp>选择机枪</Chinesesimp>
@@ -213,7 +213,7 @@
             <Czech>Zvolit Rakety</Czech>
             <Portuguese>Selecionar Mísseis</Portuguese>
             <Italian>Seleziona Missili</Italian>
-            <Russian>Выбрать ракеты</Russian>
+            <Russian>Вибрати ракети</Russian>
             <Japanese>ミサイルを選択</Japanese>
             <Korean>미사일 선택</Korean>
             <Chinesesimp>选择导弹</Chinesesimp>
@@ -244,7 +244,7 @@
             <Polish>Przygotuj granat</Polish>
             <Czech>Odjistit granát</Czech>
             <Hungarian>Gránát előkészítése</Hungarian>
-            <Russian>Подготовить гранату</Russian>
+            <Russian>Підготувати гранату</Russian>
             <French>Grenade prête</French>
             <Italian>Granata pronta</Italian>
             <Portuguese>Granada pronta</Portuguese>
@@ -264,7 +264,7 @@
             <Czech>Zvolit výbušný granát</Czech>
             <Portuguese>Selecionar Granada de Fragmentação</Portuguese>
             <Italian>Seleziona Granata a Frammentazione</Italian>
-            <Russian>Выбрать осколочную гранату</Russian>
+            <Russian>Вибрати осколкову гранату</Russian>
             <Japanese>破片手榴弾を選択</Japanese>
             <Korean>살상 투척물 선택</Korean>
             <Chinesesimp>选择破片手榴弹</Chinesesimp>
@@ -281,7 +281,7 @@
             <Czech>Zvolit ne-výbušný granát</Czech>
             <Portuguese>Selecionar Granada</Portuguese>
             <Italian>Seleziona granate non a frammentazione</Italian>
-            <Russian>Выбрать гранату</Russian>
+            <Russian>Вибрати нелетальну гранату</Russian>
             <Japanese>その他の手榴弾を選択</Japanese>
             <Korean>비살상 투척물 선택</Korean>
             <Chinesesimp>选择非破片手榴弹</Chinesesimp>
@@ -298,7 +298,7 @@
             <Czech>Hodit zvolený granát</Czech>
             <Portuguese>Lançar Granada Selecionada</Portuguese>
             <Italian>Lancia la Granata Selezionata</Italian>
-            <Russian>Бросить выбранную гранату</Russian>
+            <Russian>Кинути обрану гранату</Russian>
             <Japanese>選択された手榴弾を投げる</Japanese>
             <Korean>선택된 투척물 투척</Korean>
             <Chinesesimp>投掷选择的手榴弹</Chinesesimp>
@@ -313,7 +313,7 @@
             <Polish>Brak granatów</Polish>
             <Czech>Žádné granáty</Czech>
             <Hungarian>Nincs több gránát</Hungarian>
-            <Russian>Гранат не осталось</Russian>
+            <Russian>Гранат не залишилося</Russian>
             <Italian>Granate esaurite</Italian>
             <Portuguese>Sem mais granadas</Portuguese>
             <Japanese>もう手榴弾は無い</Japanese>
@@ -332,7 +332,7 @@
             <Czech>Žádné výbušné granáty</Czech>
             <Portuguese>Não há granadas de fragmentação restantes</Portuguese>
             <Italian>Nessuna granata a frammentazione rimanente</Italian>
-            <Russian>Осколочных гранат нет</Russian>
+            <Russian>Осколкових гранат немає</Russian>
             <Japanese>もう破片手榴弾は無い</Japanese>
             <Korean>세열 수류탄 없음</Korean>
             <Chinesesimp>已无破片手榴弹</Chinesesimp>
@@ -348,7 +348,7 @@
             <Czech>Už nejsou žádné ostatní granáty</Czech>
             <Portuguese>Não há outras granadas restantes</Portuguese>
             <Italian>Nessun'altra granata rimanente.</Italian>
-            <Russian>Нелетальные гранаты закончились</Russian>
+            <Russian>Нелетальних гранат немає</Russian>
             <Japanese>もうその他の手榴弾は無い</Japanese>
             <Korean>기타 투척물 없음</Korean>
             <Chinesesimp>已无其他手榴弹</Chinesesimp>
@@ -364,7 +364,7 @@
             <Czech>Není zvolen žádný granát</Czech>
             <Portuguese>Nenhuma granada selecionada</Portuguese>
             <Italian>Nessuna granata selezionata</Italian>
-            <Russian>Нет выбранной гранаты</Russian>
+            <Russian>Граната не вибрана</Russian>
             <Japanese>手榴弾は選択されていない</Japanese>
             <Korean>선택된 수류탄 없음</Korean>
             <Chinesesimp>未选择手榴弹</Chinesesimp>
@@ -379,7 +379,7 @@
             <French>Lancer les pots fumigènes</French>
             <Polish>Wystrzel granat dymny</Polish>
             <Hungarian>Füstvető eltüzelése</Hungarian>
-            <Russian>Пустить дымовую завесу</Russian>
+            <Russian>Пустити димову завісу</Russian>
             <Italian>Lancia fumogeno</Italian>
             <Portuguese>Lançador de fumaça</Portuguese>
             <Japanese>発煙弾発射機を発射</Japanese>
@@ -397,7 +397,7 @@
             <Chinesesimp>切换碰撞灯</Chinesesimp>
             <Japanese>衝突防止灯を切り替え</Japanese>
             <Polish>Przełącz światła kolizyjne</Polish>
-            <Russian>Вкл/Выкл Бортовые огни</Russian>
+            <Russian>Увімк/Вимн Бортові вогні</Russian>
             <Portuguese>Alternar Luzes de Colisão</Portuguese>
             <Spanish>Alternar luces de colisión</Spanish>
             <Czech>Přepnout kolizní světla</Czech>

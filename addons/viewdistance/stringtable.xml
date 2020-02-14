@@ -10,7 +10,7 @@
             <Portuguese>Limitador de distância de visão</Portuguese>
             <French>Limiteur de visibilité</French>
             <Hungarian>Látótáv-korlátozó</Hungarian>
-            <Russian>Ограничитель дальности видимости</Russian>
+            <Russian>Обмежувач дальності обзору</Russian>
             <Italian>Limitatore Distanza Visiva</Italian>
             <Japanese>視界距離の制限</Japanese>
             <Korean>시야 제한기</Korean>
@@ -27,7 +27,7 @@
             <Portuguese>Permite limitar a distância máxima de visão que pode ser definida pelos jogadores.</Portuguese>
             <French>Permet de restreindre la distance maximale de visibilité pouvant être définie par les joueurs.</French>
             <Hungarian>Lehetővé teszi a játékosok által a látótávolság maximumának korlátozását.</Hungarian>
-            <Russian>Позволяет ограничить максимальную дальность видимости, которая может быть установлена игроками.</Russian>
+            <Russian>Дозволяє обмежити максимальну дальність обзору, яка може бути встановлена гравцями</Russian>
             <Italian>Consente di limitare la distanza visiva massima che può essere impostata dai giocatori.</Italian>
             <Japanese>プレイヤーへ最大の視界距離を制限できます。</Japanese>
             <Korean>플레이어가 볼 수 있는 최대 시야를 제한합니다.</Korean>
@@ -43,7 +43,7 @@
             <Portuguese>Habilitar distância de visão ACE</Portuguese>
             <French>Activer la visibilité ACE</French>
             <Hungarian>ACE látótávolság engedélyezése</Hungarian>
-            <Russian>Ограничить дальность видимости</Russian>
+            <Russian>Обмежити дальність обзору</Russian>
             <Italian>Abilita distanza visiva ACE</Italian>
             <Japanese>ACE 視界距離を有効化</Japanese>
             <Korean>ACE 시야 활성화</Korean>
@@ -60,7 +60,7 @@
             <Portuguese>Habilita a distância de visão ACE</Portuguese>
             <French>Active la visibilité ACE.</French>
             <Hungarian>Engedélyezi az ACE látótávolságot</Hungarian>
-            <Russian>Включает ограничитель дальности видимости ACE</Russian>
+            <Russian>Вмикає обмежувач дальності обзору ACE</Russian>
             <Italian>Abilita distanza visiva ACE</Italian>
             <Japanese>ACE 視界距離を有効化</Japanese>
             <Korean>ACE 시야 활성화</Korean>
@@ -77,7 +77,7 @@
             <Portuguese>Limite da distância de visão</Portuguese>
             <French>Limite de visibilité</French>
             <Hungarian>Látótáv-korlát</Hungarian>
-            <Russian>Дальность видимости</Russian>
+            <Russian>Обмеження дальності обзору</Russian>
             <Italian>Limite Distanza Visiva</Italian>
             <Japanese>視界距離の制限</Japanese>
             <Korean>시야 제한기</Korean>
@@ -94,7 +94,7 @@
             <Portuguese>Estabelecer um limite de quão alto os clientes podem aumentar sua distância de visão (até 10000)</Portuguese>
             <French>Définit la limite maximale à laquelle les clients peuvent augmenter leur distance de visibilité (jusqu'à 10000).</French>
             <Hungarian>Korlátozza, mekkora látótávolságot állíthatnak be a kliensek (maximum 10000-ig)</Hungarian>
-            <Russian>Устанавливает предел дальности, насколько клиенты могут увеличить свою дальность видимости (до 10000)</Russian>
+            <Russian>Встановлює межу, наскільки клієнти можуть збільшити свою дальність обзору (до 10000)</Russian>
             <Italian>Imposta il limite massimo a cui i client possono alzare la propria distanza visiva (massimo 10000)</Italian>
             <Japanese>各クライアントが最大まで設定できる視界距離を設定します。(最大 10000)</Japanese>
             <Korean>클라이언트가 최대 얼마나 멀리 볼 수 있는지 제한을 둡니다 (10000 까지 가능)</Korean>
@@ -111,7 +111,7 @@
             <Portuguese>Permite limitar a distância de visão máxima que pode ser definida por jogadores. Pode ser substituído por módulo.</Portuguese>
             <French>La limite de portée visuelle du joueur est définie ici, pouvant être écrasée par un autre module.</French>
             <Hungarian>A kliens látótávolsága itt állítható be, és felülbírálható modulok által</Hungarian>
-            <Russian>Предел дальности видимости клиентов устанавливается здесь и может быть переопределен модулем</Russian>
+            <Russian>Межа дальності обзору клієнтів встановлюється тут, і може бути перевизначена модулем</Russian>
             <Italian>Limite per la distanza visiva del client impostato qui e può essere scavalcato dal modulo</Italian>
             <Japanese>クライアントへの視界距離の設定や、それをモジュールにより上書きできます</Japanese>
             <Korean>클라이언트의 시야를 이 모듈로 치환할 수 있습니다.</Korean>
@@ -127,7 +127,7 @@
             <Portuguese>Distância de visão do cliente (A pé)</Portuguese>
             <French>Visibilité (à pied)</French>
             <Hungarian>Kliens látótáv (gyalog)</Hungarian>
-            <Russian>Дальность видимости (Пешком)</Russian>
+            <Russian>Дальність обзору (Пішки)</Russian>
             <Italian>Distanza Visiva Client (a Piedi)</Italian>
             <Japanese>クライアント側視界距離 (地上)</Japanese>
             <Korean>클라이언트 시야 (보병)</Korean>
@@ -144,7 +144,7 @@
             <Portuguese>Muda a distância de visão do jogador dentro do jogo quando ele está a pé.</Portuguese>
             <French>Change la distance d'affichage du jeu quand le joueur est à pied.</French>
             <Hungarian>Megváltoztatja a játékon belüli látótávolságot, amennyiben a játékos gyalogosan van.</Hungarian>
-            <Russian>Изменяет дальность видимости в игре, когда игрок перемещается пешком.</Russian>
+            <Russian>Змінює дальність обзору в грі, коли гравець пересувається пішки</Russian>
             <Italian>Cambia la distanza visiva in gioco quando il giocatore è a piedi.</Italian>
             <Japanese>プレイヤーが地上にいる時の視界距離を変更します。</Japanese>
             <Korean>플레이어가 보병일 경우의 시야를 바꿀 수 있습니다.</Korean>
@@ -161,7 +161,7 @@
             <Portuguese>Distância de visão do cliente (Veículo terrestre)</Portuguese>
             <French>Visibilité (véhicule terrestre)</French>
             <Hungarian>Kliens látótáv (szárazföldi jármű)</Hungarian>
-            <Russian>Дальность видимости (В наземном трансп.)</Russian>
+            <Russian>Дальність обзору (Наземний транспорт)</Russian>
             <Italian>Distanza Visiva Client (Veicolo Terrestre)</Italian>
             <Japanese>クライアント側視界距離 (車両)</Japanese>
             <Korean>클라이언트 시야 (차량)</Korean>
@@ -178,7 +178,7 @@
             <Portuguese>Muda a distância de visão do jogador dentro do jogo quando ele está dentro de um veículo terrestre.</Portuguese>
             <French>Change la distance d'affichage du jeu quand le joueur se trouve dans un véhicule terrestre.</French>
             <Hungarian>Megváltoztatja a játékon belüli látótávolságot, amennyiben a játékos szárazföldi járműben van.</Hungarian>
-            <Russian>Изменяет дальность видимости в игре, когда игрок перемещается в наземном транспорте.</Russian>
+            <Russian>Змінює дальність обзору в грі, коли гравець пересувається в наземному транспорті.</Russian>
             <Italian>Cambia la distanza visiva in gioco quando il giocatore è in un veicolo terrestre.</Italian>
             <Japanese>プレイヤーが車両の時の視界距離を変更します。</Japanese>
             <Korean>플레이어가 차량 내부일 경우의 시야를 바꿀 수 있습니다.</Korean>
@@ -195,7 +195,7 @@
             <Portuguese>Distância de visão do cliente (Veículo aéreo)</Portuguese>
             <French>Visibilité (véhicule aérien)</French>
             <Hungarian>Kliens látótáv (légi jármű)</Hungarian>
-            <Russian>Дальность видимости (В воздушном трансп.)</Russian>
+            <Russian>Дальность обзору (Авіатехніка)</Russian>
             <Italian>Distanza Visiva Client (Veicoli d'Aria)</Italian>
             <Japanese>クライアント側視界距離 (航空機)</Japanese>
             <Korean>클라이언트 시야 (항공기)</Korean>
@@ -212,7 +212,7 @@
             <Portuguese>Muda a distância de visão do jogador dentro do jogo quando ele está dentro de um veículo aéreo.</Portuguese>
             <French>Change la distance d'affichage du jeu quand le joueur se trouve dans un véhicule aérien.</French>
             <Hungarian>Megváltoztatja a játékon belüli látótávolságot, amennyiben a játékos légi járműben van.</Hungarian>
-            <Russian>Изменяет дальность видимости в игре, когда игрок перемещается в воздушном транспорте.</Russian>
+            <Russian>мінює дальність обзору в грі, коли гравець пересувається в авіатехниці</Russian>
             <Italian>Cambia la distanza visiva in gioco quando il giocatore è in un mezzo aereo.</Italian>
             <Japanese>プレイヤーが航空機に乗っている時の視界距離を変更します。</Japanese>
             <Korean>플레이어가 항공기 내부일 경우의 시야를 바꿀 수 있습니다.</Korean>
@@ -229,7 +229,7 @@
             <Portuguese>Distância de visão dinâmica dos objetos</Portuguese>
             <French>Distance d'affichage dynamique des objets</French>
             <Hungarian>Dinamikus objektum-látótáv</Hungarian>
-            <Russian>Динамич. дальность отрисовки объектов</Russian>
+            <Russian>Динамічна дальність відтворення об'єктів</Russian>
             <Italian>Distanza Visiva Oggetti Dinamica</Italian>
             <Japanese>動的なオブジェクトの描画距離</Japanese>
             <Korean>동적 물체 시야</Korean>
@@ -245,7 +245,7 @@
             <Portuguese>Estabelece a distância de visão dos objetos com um coeficiente da distância de visão.</Portuguese>
             <French>Définit la distance d'affichage des objets en fonction de la distance de visibilité, ou selon le champ de vision (FoV).\nLorsque l'affichage basé sur le FoV est choisi, les valeurs minimales et maximales varient en fonction de l'angle de vue.</French>
             <Hungarian>Beállítja az objektum-látótávot a megadott látótáv koefficienseként.</Hungarian>
-            <Russian>Устанавливает дальность отрисовки объектов как коэффициент от общей дальности видимости.</Russian>
+            <Russian>Встановлює дальність відтворення об'єктів як коефіцієнт від загальної дальності обзору. При включенні опції встановлюються найменше і найвище значення Поля Обзору (FoV).</Russian>
             <Italian>Imposta la distanza visiva degli oggetti come un coefficiente basato sulla distanza visiva oppure basato sul campo visivo.</Italian>
             <Japanese>視野角を元にするか、視界距離によるオブジェクト描画距離を決定します。視野角を元にするオプションを有効化した場合、視野角により最低と最高値が変動します。</Japanese>
             <Korean>설정된 시야 혹은 시계(FoV)에 계수를 적용해 물체 시야를 적용합니다. 시계를 바탕으로 하는 옵션을 활성화할 경우 시계에 의한 최저와 최고치가 변동됩니다.</Korean>
@@ -261,7 +261,7 @@
             <Portuguese>Desligado</Portuguese>
             <French>Désactivée</French>
             <Hungarian>Kikapcsolva</Hungarian>
-            <Russian>Выкл.</Russian>
+            <Russian>Вимкн.</Russian>
             <Italian>Disabilitato</Italian>
             <Japanese>無効</Japanese>
             <Korean>끄기</Korean>
@@ -278,7 +278,7 @@
             <Portuguese>Muito baixo</Portuguese>
             <French>Très basse</French>
             <Hungarian>Minimális</Hungarian>
-            <Russian>Очень низкая</Russian>
+            <Russian>Дуже мала</Russian>
             <Italian>Molto Basso</Italian>
             <Japanese>最低</Japanese>
             <Korean>매우 낮음</Korean>
@@ -295,7 +295,7 @@
             <Portuguese>Baixo</Portuguese>
             <French>Basse</French>
             <Hungarian>Alacsony</Hungarian>
-            <Russian>Низкая</Russian>
+            <Russian>Мала</Russian>
             <Italian>Basso</Italian>
             <Japanese>低</Japanese>
             <Korean>낮음</Korean>
@@ -312,7 +312,7 @@
             <Portuguese>Médio</Portuguese>
             <French>Moyenne</French>
             <Hungarian>Közepes</Hungarian>
-            <Russian>Средняя</Russian>
+            <Russian>Середня</Russian>
             <Italian>Medio</Italian>
             <Japanese>通常</Japanese>
             <Korean>중간</Korean>
@@ -329,7 +329,7 @@
             <Portuguese>Alto</Portuguese>
             <French>Haute</French>
             <Hungarian>Magas</Hungarian>
-            <Russian>Высокая</Russian>
+            <Russian>Висока</Russian>
             <Italian>Alto</Italian>
             <Japanese>高</Japanese>
             <Korean>높음</Korean>
@@ -346,7 +346,7 @@
             <Portuguese>Muito alto</Portuguese>
             <French>Très haute</French>
             <Hungarian>Maximális</Hungarian>
-            <Russian>Очень высокая</Russian>
+            <Russian>Дуже висока</Russian>
             <Italian>Molto Alto</Italian>
             <Japanese>最高</Japanese>
             <Korean>매우 높음</Korean>
@@ -357,7 +357,7 @@
         <Key ID="STR_ACE_ViewDistance_object_fovBased">
             <English>FoV Based</English>
             <German>Sichtfeld basierend</German>
-            <Russian>Зависит от зума</Russian>
+            <Russian>Залежить від Поля Обзору (FoV)</Russian>
             <Portuguese>Baseado em FoV</Portuguese>
             <Czech>Založeno na FoV</Czech>
             <Polish>Oparty na FoV</Polish>
@@ -378,7 +378,7 @@
             <Portuguese>Distância de visão:</Portuguese>
             <French>Distance de vue :</French>
             <Hungarian>Látótávolság:</Hungarian>
-            <Russian>Дальность видимости:</Russian>
+            <Russian>Дальність обзору:</Russian>
             <Italian>Distanza Visiva:</Italian>
             <Japanese>視界距離：</Japanese>
             <Korean>시야:</Korean>
@@ -395,7 +395,7 @@
             <Portuguese>Distância de visão do objeto é</Portuguese>
             <French>La distance d'affichage des objets est de</French>
             <Hungarian>Az objektum-látótávolság:</Hungarian>
-            <Russian>Дальность видимости объектов:</Russian>
+            <Russian>Дальність відтворення об'єктів:</Russian>
             <Italian>Distanza Visiva Oggetti è</Italian>
             <Japanese>オブジェクト描画距離は</Japanese>
             <Korean>동적 물체 시야는</Korean>
@@ -411,7 +411,7 @@
             <Portuguese>Essa opção é inválida. O limte é</Portuguese>
             <French>Cette option est non valide ! La limite est de</French>
             <Hungarian>Ez a beállítás érvénytelen! A maximum mennyiség</Hungarian>
-            <Russian>Настройка не верна! Текущий предел</Russian>
+            <Russian>Налаштування не вірні! Поточна межа</Russian>
             <Italian>Questa opzione è invalida! Il limite è</Italian>
             <Japanese>このオプションは無効です！制限は</Japanese>
             <Korean>이 옵션은 불가능합니다! 제한은</Korean>
@@ -428,7 +428,7 @@
             <Portuguese>Ajustes de vídeo</Portuguese>
             <French>Paramètres vidéo</French>
             <Hungarian>Videobeállítások</Hungarian>
-            <Russian>Видео настройки</Russian>
+            <Russian>Налаштування відео</Russian>
             <Italian>Impostazioni Video</Italian>
             <Japanese>映像設定</Japanese>
             <Korean>영상 설정</Korean>

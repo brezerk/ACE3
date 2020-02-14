@@ -3,7 +3,7 @@
     <Package name="Dragging">
         <Key ID="STR_ACE_Dragging_Drag">
             <English>Drag</English>
-            <Russian>Тащить</Russian>
+            <Russian>Тягнути</Russian>
             <Spanish>Arrastrar</Spanish>
             <Polish>Ciągnij</Polish>
             <Czech>Táhnout</Czech>
@@ -20,7 +20,7 @@
         </Key>
         <Key ID="STR_ACE_Dragging_Drop">
             <English>Release</English>
-            <Russian>Отпустить</Russian>
+            <Russian>Відпустити</Russian>
             <Spanish>Soltar</Spanish>
             <Polish>Puść</Polish>
             <Czech>Položit</Czech>
@@ -37,7 +37,7 @@
         </Key>
         <Key ID="STR_ACE_Dragging_DragKeybind">
             <English>Drag/Release Object</English>
-            <Russian>Тащить/Отпустить Объекты</Russian>
+            <Russian>Тягнути/Відпустити Об'єкт</Russian>
             <Spanish>Arrastrar/Soltar Objeto</Spanish>
             <Polish>Ciągnij/Puść Obiekt</Polish>
             <Czech>Táhnout/Položit Objekt</Czech>
@@ -60,7 +60,7 @@
             <French>Objet trop lourd</French>
             <Portuguese>Objeto muito pesado</Portuguese>
             <Italian>L'oggetto pesa troppo</Italian>
-            <Russian>Предмет слишком тяжёлый</Russian>
+            <Russian>Об'єкт занадто важкий</Russian>
             <Czech>Předmět je moc těžký</Czech>
             <Hungarian>Az objektum túl nehéz</Hungarian>
             <Japanese>アイテムが重すぎます</Japanese>
@@ -91,7 +91,7 @@
             <German>Heben/Senken</German>
             <Polish>Wyżej/Niżej</Polish>
             <Portuguese>Levantar/Abaixar</Portuguese>
-            <Russian>Поднять/Опустить</Russian>
+            <Russian>Підняти/Опустити</Russian>
             <Czech>Zvýšit/Snížit</Czech>
             <Italian>Alza/Abbassa</Italian>
             <Spanish>Subir/Bajar</Spanish>

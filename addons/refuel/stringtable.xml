@@ -5,7 +5,7 @@
             <English>Refuel Settings</English>
             <German>Betankungseinstellungen</German>
             <Polish>Ustawienia tankowania</Polish>
-            <Russian>Настройки дозаправки</Russian>
+            <Russian>Налаштування дозаправки</Russian>
             <Portuguese>Ajustes de reabastecimento</Portuguese>
             <Czech>Nastavení tankování</Czech>
             <Italian>Impostazioni Rifornimento</Italian>
@@ -21,7 +21,7 @@
             <English>Flow Rate</English>
             <German>Fließrate</German>
             <Polish>Szybkość przepływu</Polish>
-            <Russian>Скорость заправки</Russian>
+            <Russian>Швидкість заправки</Russian>
             <Portuguese>Velocidade da vazão</Portuguese>
             <Czech>Rychlost tankování</Czech>
             <Italian>Portata Flusso</Italian>
@@ -37,7 +37,7 @@
             <English>How fast should a vehicle be refueled?</English>
             <German>Wie schnell soll ein Fahrzeug aufgetankt sein?</German>
             <Polish>Jak szybko pojazd powinien zostać zatankowany?</Polish>
-            <Russian>Как быстро техника должна быть заправлена?</Russian>
+            <Russian>Як швидко заправляти техніку?</Russian>
             <Portuguese>Quão rápido deve ser o veículo reabastecido?</Portuguese>
             <Czech>Jak rychle bude vozidlo natankováno?</Czech>
             <Italian>Quanto velocemente dovrebbe essere rifornito un veicolo?</Italian>
@@ -69,7 +69,7 @@
             <English>Take fuel nozzle</English>
             <German>Zapfpistole nehmen</German>
             <Polish>Weź nalewak</Polish>
-            <Russian>Взять топливный шланг</Russian>
+            <Russian>Взяти паливний шланг</Russian>
             <Portuguese>Pegar o bocal de combustível</Portuguese>
             <Czech>Vzít výdejní pistoli</Czech>
             <Italian>Prendi manica benzina</Italian>
@@ -85,7 +85,7 @@
             <English>Taking fuel nozzle...</English>
             <German>Nehme Zapfpistole...</German>
             <Polish>Pobieranie nalewaka...</Polish>
-            <Russian>Берем топливный шланг...</Russian>
+            <Russian>Беремо паливний шланг...</Russian>
             <Portuguese>Pegando o bocal de combustível...</Portuguese>
             <Czech>Beru výdejní pistoli...</Czech>
             <Italian>Prendendo manicotto benzina...</Italian>
@@ -101,7 +101,7 @@
             <English>Connect fuel nozzle</English>
             <German>Zapfpistole anschließen</German>
             <Polish>Podłącz nalewak</Polish>
-            <Russian>Присоединить топливный шланг</Russian>
+            <Russian>Підключити паливний шланг</Russian>
             <Portuguese>Conectar o bocal de combustível</Portuguese>
             <Czech>Připojit výdejní pistoli</Czech>
             <Italian>Collega manica benzina</Italian>
@@ -117,7 +117,7 @@
             <English>Connecting fuel nozzle...</English>
             <German>Zapfpistole anschließen...</German>
             <Polish>Podłączanie nalewaka...</Polish>
-            <Russian>Присоединяем топливный шланг...</Russian>
+            <Russian>Підключаємо паливний шланг...</Russian>
             <Portuguese>Conectando o bocal de combustível...</Portuguese>
             <Czech>Připojuji výdejní pistoli...</Czech>
             <Italian>Collegando manicotto benzina...</Italian>
@@ -133,7 +133,7 @@
             <English>Disconnect fuel nozzle</English>
             <German>Zapfpistole entfernen</German>
             <Polish>Odepnij nalewak</Polish>
-            <Russian>Отсоединить топливный шланг</Russian>
+            <Russian>Від'єднати паливний шланг</Russian>
             <Portuguese>Desconectar o bocal de combustível</Portuguese>
             <Czech>Odpojit výdejní pistoli</Czech>
             <Italian>Scollega manicotto benzina</Italian>
@@ -149,7 +149,7 @@
             <English>Connect</English>
             <German>Anschließen</German>
             <Polish>Podłącz</Polish>
-            <Russian>Присоединить</Russian>
+            <Russian>Підключити</Russian>
             <Portuguese>Conectar</Portuguese>
             <Czech>Připojit</Czech>
             <Italian>Collega</Italian>
@@ -165,7 +165,7 @@
             <English>Check remaining fuel</English>
             <German>Verbleibenden Kraftstoff überprüfen</German>
             <Polish>Sprawdź ilość paliwa</Polish>
-            <Russian>Проверить остаток топлива</Russian>
+            <Russian>Перевірити залишок пального</Russian>
             <Portuguese>Verificar combustível restante</Portuguese>
             <Czech>Zkontrolovat zůstatek paliva</Czech>
             <Italian>Controlla benzina rimanente</Italian>
@@ -181,7 +181,7 @@
             <English>Checking remaining fuel...</English>
             <German>Überprüfe verbleibenden Kraftstoff...</German>
             <Polish>Sprawdzanie ilości paliwa...</Polish>
-            <Russian>Проверяем остаток топлива...</Russian>
+            <Russian>Перевіряється залишок пального...</Russian>
             <Portuguese>Verificando combustível restante...</Portuguese>
             <Czech>Kontroluji zůstatek paliva...</Czech>
             <Italian>Controllando la benzina rimanente...</Italian>
@@ -197,7 +197,7 @@
             <English>There are %1 liters left.</English>
             <German>Es sind noch %1 Liter übrig.</German>
             <Polish>Zostało %1 litrów.</Polish>
-            <Russian>Осталось %1 л.</Russian>
+            <Russian>Залишок: %1 л.</Russian>
             <Portuguese>Há %1 litros restantes.</Portuguese>
             <Czech>Zbývá ještě %1 litrů.</Czech>
             <Italian>Sono rimasti %1 litri.</Italian>
@@ -213,7 +213,7 @@
             <English>There is no fuel left.</English>
             <German>Es ist kein Kraftstoff übrig.</German>
             <Polish>W zbiorniku nie ma paliwa.</Polish>
-            <Russian>Топлива нет.</Russian>
+            <Russian>Пального немає</Russian>
             <Portuguese>Não há combustível</Portuguese>
             <Czech>Bez paliva.</Czech>
             <Italian>Non è rimasta più benzina.</Italian>
@@ -229,7 +229,7 @@
             <English>Cancel</English>
             <German>Abbrechen</German>
             <Polish>Anuluj</Polish>
-            <Russian>Отменить</Russian>
+            <Russian>Скасувати</Russian>
             <Portuguese>Cancelar</Portuguese>
             <Czech>Zrušit</Czech>
             <Italian>Cancella</Italian>
@@ -244,7 +244,7 @@
             <English>Failed</English>
             <German>Gescheitert</German>
             <Polish>Porażka</Polish>
-            <Russian>Не удалось</Russian>
+            <Russian>Не вдалося</Russian>
             <Portuguese>Falhou</Portuguese>
             <Czech>Neúspěšný</Czech>
             <Italian>Fallito</Italian>
@@ -260,7 +260,7 @@
             <English>Stop fueling</English>
             <German>Betankung stoppen</German>
             <Polish>Zatrzymaj tankowanie</Polish>
-            <Russian>Остановить заправку</Russian>
+            <Russian>Припинити заправку</Russian>
             <Portuguese>Parar reabastecimento</Portuguese>
             <Czech>Zastavit tankování</Czech>
             <Italian>Ferma rifornimento</Italian>
@@ -276,7 +276,7 @@
             <English>Start fueling</English>
             <German>Betankung beginnen</German>
             <Polish>Rozpocznij tankowanie</Polish>
-            <Russian>Начать заправку</Russian>
+            <Russian>Почати заправку</Russian>
             <Portuguese>Começar reabastecimento</Portuguese>
             <Czech>Začít tankovat</Czech>
             <Italian>Inizia rifornimento</Italian>
@@ -297,7 +297,7 @@
             <Chinesesimp>无法开启燃料喷嘴</Chinesesimp>
             <Korean>주유기를 켤 수 없습니다.</Korean>
             <Polish>Nie można włączyć dyszy paliwowej</Polish>
-            <Russian>Не удалось включить топливный пистолет</Russian>
+            <Russian>Не вдалося включити паливний пістолет</Russian>
             <Portuguese>Não foi possível ativar o bico de combustível</Portuguese>
             <French>Impossible de démarrer la pompe</French>
             <Czech>Nepodařilo se zapnout trysku</Czech>
@@ -306,7 +306,7 @@
             <English>%1 Liters fueled</English>
             <German>%1 Liters getankt</German>
             <Polish>Zatankowano %1 litrów</Polish>
-            <Russian>%1 литров заправлено</Russian>
+            <Russian>%1 літрів заправлено</Russian>
             <Portuguese>%1 litros abastecidos</Portuguese>
             <Czech>%1 litrů natankováno</Czech>
             <Italian>%1 litri riforniti</Italian>
@@ -321,7 +321,7 @@
             <English>The fuel source is empty.</English>
             <German>Die Treibstoffquelle ist leer.</German>
             <Polish>Źródło paliwa jest puste.</Polish>
-            <Russian>Источник топлива пустой.</Russian>
+            <Russian>Джерело пального порожнє</Russian>
             <Portuguese>A fonte de combustível está vazia.</Portuguese>
             <Czech>Zdroj paliva je prázdný.</Czech>
             <Italian>La fonte di benzina è vuota.</Italian>
@@ -336,7 +336,7 @@
             <English>Maximum fuel hose length reached.</English>
             <German>Maximale Schlauchlänge erreicht.</German>
             <Polish>Osiągnięto maksymalną długość przewodu paliwowego.</Polish>
-            <Russian>Достигнута максимальная длина шланга.</Russian>
+            <Russian>Досягнута максимальна довжина шланга</Russian>
             <Portuguese>Distância máxima da mangueira de combustível alcançada.</Portuguese>
             <Czech>Dosažena maximální délka hadice</Czech>
             <Italian>Distanza massima della pompa raggiunta.</Italian>
@@ -367,7 +367,7 @@
             <English>Fueling stopped</English>
             <German>Betankung angehalten</German>
             <Polish>Tankowanie zatrzymane</Polish>
-            <Russian>Заправка остановлена</Russian>
+            <Russian>Заправка зупинена</Russian>
             <Portuguese>Reabastecimento parado</Portuguese>
             <Czech>Tankování zastaveno</Czech>
             <Italian>Rifornimento fermato</Italian>
@@ -383,7 +383,7 @@
             <English>Fueling started</English>
             <German>Betankung begonnen</German>
             <Polish>Tankowanie rozpoczęte</Polish>
-            <Russian>Заправка начата</Russian>
+            <Russian>Заправлення почалося</Russian>
             <Portuguese>Reabastecimento iniciado</Portuguese>
             <Czech>Tankování zahájeno</Czech>
             <Italian>Rifornimento iniziato</Italian>
@@ -399,7 +399,7 @@
             <English>Return fuel nozzle</English>
             <German>Zapfpistole zurückstecken</German>
             <Polish>Zwróć nalewak</Polish>
-            <Russian>Вернуть топливный шланг</Russian>
+            <Russian>Повернути паливний шланг</Russian>
             <Portuguese>Retornar bocal de combustível</Portuguese>
             <Czech>Vrátit výdejní pistoli</Czech>
             <Italian>Riponi manicotto benzina</Italian>
@@ -415,7 +415,7 @@
             <English>Returning fuel nozzle...</English>
             <German>Stecke Zapfpistole zurück...</German>
             <Polish>Zwracanie nalewaka...</Polish>
-            <Russian>Возвращаем топливный шланг...</Russian>
+            <Russian>Повертаємо паливний шланг...</Russian>
             <Portuguese>Retornando bocal de combustível...</Portuguese>
             <Czech>Vracím výdejní pistoli...</Czech>
             <Italian>Riponendo la manica della benzina...</Italian>
@@ -431,7 +431,7 @@
             <English>Check fuel counter</English>
             <German>Tankuhr ansehen</German>
             <Polish>Sprawdź wskaźnik paliwa</Polish>
-            <Russian>Проверить счетчик топлива</Russian>
+            <Russian>Перевірити лічильник пального</Russian>
             <Portuguese>Verificar contador de combustível</Portuguese>
             <Czech>Zkonrolovat palivoměr</Czech>
             <Italian>Controlla indicatore livello benzina</Italian>
@@ -446,7 +446,7 @@
             <English>%1 liters have been fueled.</English>
             <German>%1 Liter wurden getankt.</German>
             <Polish>%1 litrów zostało zatankowane.</Polish>
-            <Russian>Было заправлено %1 л.</Russian>
+            <Russian>Було заправлено %1 л.</Russian>
             <Portuguese>%1 litros foram abastecidos.</Portuguese>
             <Czech>%1 litrů bylo natankováno.</Czech>
             <Italian>%1 litri sono stati riforniti.</Italian>
@@ -467,7 +467,7 @@
             <Chinese>加油軟管長度</Chinese>
             <Polish>Długość węża paliwowego</Polish>
             <Korean>주유기 호스 길이</Korean>
-            <Russian>Длина заправочного шланга</Russian>
+            <Russian>Довжина паливного шланга</Russian>
             <Portuguese>Comprimento da Mangueira de Combustível</Portuguese>
             <French>Longueur du tuyau</French>
             <Czech>Délka hadice na palivo</Czech>
@@ -475,7 +475,7 @@
         <Key ID="STR_ACE_Refuel_fuelCargo_edenName">
             <English>Fuel Cargo Volume</English>
             <German>Tankvolumen</German>
-            <Russian>Объем топлива для заправки</Russian>
+            <Russian>Обсяг пального для заправки</Russian>
             <Japanese>貯油量</Japanese>
             <Italian>Capacità Carburante Cargo</Italian>
             <Chinese>儲油量</Chinese>
@@ -490,7 +490,7 @@
         <Key ID="STR_ACE_Refuel_fuelCargo_edenDesc">
             <English>The fuel volume available for refueling (-1 disable, -10 if infinite)</English>
             <German>Das Tankvolumen, welches zum Nachtanken verfügbar ist (-1 deaktiviert, -10 unendlich)</German>
-            <Russian>Объем топлива, доступный для заправки других машин (-1 отключить, -10 если неограничен)</Russian>
+            <Russian>Обсяг пального, доступний для заправки (-1 відключити, -10 якщо необмежений)</Russian>
             <Japanese>給油用の貯油量を設定できます (-1で無効、-10で無限)</Japanese>
             <Italian>La capacità del carburante disponibile per il rifornimento (-1 disabilita, -10 se infinito)</Italian>
             <Chinese>設定有多少油料可供載具進行加油(-1時關閉，-10為無限油量)</Chinese>
@@ -504,7 +504,7 @@
         <Key ID="STR_ACE_Refuel_hooks_edenName">
             <English>Refuel Hose attach coordinates</English>
             <German>Befestigungskoordinaten der Zapfpistole</German>
-            <Russian>Координаты крепления шланга</Russian>
+            <Russian>Координати кріплення шланга</Russian>
             <Japanese>給油ノズルの取り付け座標</Japanese>
             <Italian>Coordinate del tubo di rifornimento</Italian>
             <Chinese>加油軟管安裝位置</Chinese>
@@ -518,7 +518,7 @@
         <Key ID="STR_ACE_Refuel_hooks_edenDesc">
             <English>Model coordinates used to attach refuel hose</English>
             <German>Modelkoordinaten zum Anheften der Zapfpistole</German>
-            <Russian>Координаты модели, куда крепится заправочный шланг</Russian>
+            <Russian>Координати моделі, куди кріпиться заправний шланг</Russian>
             <Japanese>給油ノズルの取り付けにモデル座標を使用します</Japanese>
             <Italian>Coordinate del modello utilizzate per il fissaggio del tubo</Italian>
             <Chinese>設定加油軟管會安裝到模型的哪個位置上</Chinese>
