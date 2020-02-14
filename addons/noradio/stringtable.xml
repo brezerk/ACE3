@@ -9,7 +9,7 @@
             <Chinesesimp>玩家静音</Chinesesimp>
             <Japanese>プレイヤーをミュート</Japanese>
             <Polish>Wycisz Gracza</Polish>
-            <Russian>Заглушить игрока</Russian>
+            <Russian>Заглушити гравця</Russian>
             <Portuguese>Silenciar Jogador</Portuguese>
             <French>Joueur en sourdine</French>
             <Czech>Ztlumit hráče</Czech>
@@ -23,7 +23,7 @@
             <Chinesesimp>静音玩家所控制的角色。</Chinesesimp>
             <Japanese>プレイヤーに操作されているこのキャラをミュートします。</Japanese>
             <Polish>Wycisza awatar kontrolowany przez gracza</Polish>
-            <Russian>Заглушить контролируемого игрока</Russian>
+            <Russian>Заглушити контрольованого гравця</Russian>
             <Portuguese>Silencia o avatar do Jogador controlado</Portuguese>
             <French>Met en sourdine l'avatar du joueur.</French>
             <Czech>Vypne hlas charakteru hráče.</Czech>

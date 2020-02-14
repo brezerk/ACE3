@@ -10,7 +10,7 @@
             <Portuguese>Tabela de distâncias</Portuguese>
             <French>Table de tir</French>
             <Hungarian>Távolsági kártya</Hungarian>
-            <Russian>Таблица поправок</Russian>
+            <Russian>Балістична таблиця</Russian>
             <Italian>Tavola Balistica</Italian>
             <Japanese>射表</Japanese>
             <Korean>사거리표</Korean>
@@ -27,7 +27,7 @@
             <Portuguese>Incrementos de 50 METROS - MRAD/MRAD (retícula/torres)</Portuguese>
             <French>Incréments de 50 MÈTRES -- MRAD/MRAD (réticule/tourelles)</French>
             <Hungarian>50 MÉTERES lépések - MRAD/MRAD (célzó/lövegek)</Hungarian>
-            <Russian>Шаг 50 МЕТРОВ - MRAD/MRAD (сетка/маховички)</Russian>
+            <Russian>Інкремент 50 МЕТРІВ - MRAD/MRAD (сітка/маховички)</Russian>
             <Italian>Incrementi per 50 METRI - MRAD/MRAD (reticolo/torrette)</Italian>
             <Japanese>50 メートル増やす -- MRAD/MRAD (照準線/砲塔)</Japanese>
             <Korean>50 미터 늘리기 -- MRAD/MRAD (조준선/포탑)</Korean>
@@ -43,7 +43,7 @@
             <Portuguese>Abrir tabela de distâncias</Portuguese>
             <French>Ouvrir la table de tir</French>
             <Hungarian>Távolsági kártya kinyitása</Hungarian>
-            <Russian>Открыть таблицу поправок</Russian>
+            <Russian>Відкрити Балістичну таблицю</Russian>
             <Italian>Apri Tavola Balistica</Italian>
             <Japanese>射表を開く</Japanese>
             <Korean>사거리표 열기</Korean>
@@ -60,7 +60,7 @@
             <Portuguese>Abrir cópia da tabela de distâncias</Portuguese>
             <French>Ouvrir une copie de la table de tir</French>
             <Hungarian>Távolsági kártya-másolat kinyitása</Hungarian>
-            <Russian>Открыть копию таблицы поправок</Russian>
+            <Russian>Копія Балістичної таблиці</Russian>
             <Italian>Apri Copia Tavola Balistica</Italian>
             <Japanese>複製された射表を開く</Japanese>
             <Korean>복제 사거리표 열기</Korean>
@@ -77,7 +77,7 @@
             <Portuguese>Abrir tabela de distäncias</Portuguese>
             <French>Ouvrir la table de tir</French>
             <Hungarian>Távolsági kártya kinyitása</Hungarian>
-            <Russian>Открыть таблицу поправок</Russian>
+            <Russian>Відкрити Балістичну таблицю</Russian>
             <Italian>Apri Tavola Balistica</Italian>
             <Japanese>射表を開く</Japanese>
             <Korean>사거리표 열기</Korean>
@@ -94,7 +94,7 @@
             <Portuguese>Abrir cópia da tabela de distâncias</Portuguese>
             <French>Ouvrir une copie de la table de tir</French>
             <Hungarian>Távolsági kártya-másolat kinyitása</Hungarian>
-            <Russian>Открыть копию таблицы поправок</Russian>
+            <Russian>Копія Балістичної таблиці</Russian>
             <Italian>Apri Copia Tavola Balistica</Italian>
             <Japanese>複製された射表を開く</Japanese>
             <Korean>복제 사거리표 열기</Korean>
@@ -111,7 +111,7 @@
             <Portuguese>Copiar tabela de distäncias</Portuguese>
             <French>Recopier la table de tir</French>
             <Hungarian>Távolsági kártya másolása</Hungarian>
-            <Russian>Скопировать таблицу поправок</Russian>
+            <Russian>Скопіювати Балістичну таблицю</Russian>
             <Italian>Copia Tavola Balistica</Italian>
             <Japanese>射表を複製する</Japanese>
             <Korean>사거리표 복제</Korean>

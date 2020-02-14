@@ -11,7 +11,7 @@
             <Italian>Luce chimica</Italian>
             <Chinese>螢光棒</Chinese>
             <Chinesesimp>萤光棒</Chinesesimp>
-            <Russian>Химсвет</Russian>
+            <Russian>Хімсвітло</Russian>
             <Portuguese>Bastões de Luz</Portuguese>
             <Czech>Chemická světla</Czech>
             <Spanish>Luces químicas</Spanish>
@@ -27,7 +27,7 @@
             <Italian>Prepara %1</Italian>
             <Chinese>使用%1</Chinese>
             <Chinesesimp>使用%1</Chinesesimp>
-            <Russian>Приготовить %1</Russian>
+            <Russian>Приготувати %1</Russian>
             <Portuguese>Preparar %1</Portuguese>
             <Czech>Připravit %1</Czech>
             <Spanish>Preparar %1</Spanish>
@@ -42,7 +42,7 @@
             <Italian>%1 &lt;br/&gt; Preparata</Italian>
             <Chinese>%1&lt;br/&gt;已使用</Chinese>
             <Chinesesimp>%1&lt;br/&gt;已使用</Chinesesimp>
-            <Russian>%1&lt;br/&gt;Приготовлен</Russian>
+            <Russian>%1&lt;br/&gt;Приготовлено</Russian>
             <Portuguese>%1&lt;br/&gt;Preparado</Portuguese>
             <Czech>%1&lt;br/&gt;Připraveno</Czech>
             <Spanish>%1&lt;br/&gt;Preparado</Spanish>
@@ -57,7 +57,7 @@
             <Portuguese>Sem espaço no inventário</Portuguese>
             <Italian>Nessuno spazio nell'inventario</Italian>
             <Hungarian>Nincs több hely</Hungarian>
-            <Russian>В инвентаре нет места</Russian>
+            <Russian>В інвентарі немає місця</Russian>
             <Japanese>インベントリに空きがありません</Japanese>
             <Korean>소지품 공간이 없음</Korean>
             <Chinese>已無存放空間</Chinese>
@@ -74,7 +74,7 @@
             <Italian>[ACE] Luci chimiche</Italian>
             <Chinese>[ACE] 螢光棒</Chinese>
             <Chinesesimp>[ACE] 萤光棒</Chinesesimp>
-            <Russian>[ACE] Химсвет</Russian>
+            <Russian>[ACE] Хімсвітло</Russian>
             <Portuguese>[ACE] Bastões de Luz</Portuguese>
             <Czech>[ACE] Chemická světla</Czech>
             <Spanish>[ACE] Luces químicas</Spanish>
@@ -89,7 +89,7 @@
             <Italian>Luce chimica (Arancione)</Italian>
             <Chinese>螢光棒 (橘色)</Chinese>
             <Chinesesimp>萤光棒 (橘色)</Chinesesimp>
-            <Russian>Химсвет (Оранжевый)</Russian>
+            <Russian>Хімсвітло (Помаранчеве)</Russian>
             <Portuguese>Bastão de Luz (Laranja)</Portuguese>
             <Czech>Chemické světlo (Oranžové)</Czech>
             <Spanish>Luz química (naranja)</Spanish>
@@ -105,7 +105,7 @@
             <Italian>Luce Arancione</Italian>
             <Chinese>橘色光</Chinese>
             <Chinesesimp>橘色光</Chinesesimp>
-            <Russian>Оранжевый свет</Russian>
+            <Russian>Помаранчеве світло</Russian>
             <Portuguese>Luz Laranja</Portuguese>
             <Czech>Oranžové světlo</Czech>
             <Spanish>Luz naranja</Spanish>
@@ -121,7 +121,7 @@
             <Italian>Tipo: Luce - Arancione&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 橘色&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 橘色&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Оранжевый&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Помаранчеве&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Laranja&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Oranžové&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz - Naranja&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -136,7 +136,7 @@
             <Italian>Luce chimica (Bianca)</Italian>
             <Chinese>螢光棒 (白色)</Chinese>
             <Chinesesimp>萤光棒 (白色)</Chinesesimp>
-            <Russian>Химсвет (Белый)</Russian>
+            <Russian>Хімсвітло (Біле)</Russian>
             <Portuguese>Bastão de Luz (Branco)</Portuguese>
             <Czech>Chemické světlo (Bílé)</Czech>
             <Spanish>Luz química (Blanca)</Spanish>
@@ -152,7 +152,7 @@
             <Italian>Luce Bianca</Italian>
             <Chinese>白色光</Chinese>
             <Chinesesimp>白色光</Chinesesimp>
-            <Russian>Белый свет</Russian>
+            <Russian>Біле світло</Russian>
             <Portuguese>Luz Branca</Portuguese>
             <Czech>Bílé světlo</Czech>
             <Spanish>Luz blanca</Spanish>
@@ -168,7 +168,7 @@
             <Italian>Tipo: Luce - Bianca&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 白色&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 白色&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Белый&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Біле&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Branco&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Bílé&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz - Blanca&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -183,7 +183,7 @@
             <Italian>Luce chimica (Hi Rossa)</Italian>
             <Chinese>螢光棒 (超亮紅色)</Chinese>
             <Chinesesimp>萤光棒 (超亮红色)</Chinesesimp>
-            <Russian>Химсвет (Ярко-Красный)</Russian>
+            <Russian>Хімсвітло (Ярко-Червоне)</Russian>
             <Portuguese>Bastão de Luz (Vermelho Forte)</Portuguese>
             <Czech>Chemické světlo (Červené jasné)</Czech>
             <Spanish>Luz química (Roja Hi)</Spanish>
@@ -199,7 +199,7 @@
             <Italian>Luce Hi Rossa</Italian>
             <Chinese>超亮紅色光</Chinese>
             <Chinesesimp>超亮红色光</Chinesesimp>
-            <Russian>Яркий Красный свет</Russian>
+            <Russian>Ярке Червоне світло</Russian>
             <Portuguese>Luz forte vermelha</Portuguese>
             <Czech>Červené jasné světlo</Czech>
             <Spanish>Luz roja Hi</Spanish>
@@ -215,7 +215,7 @@
             <Italian>Tipo: Luce - Rossa Hi (30 minuti)&lt;br /&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 超亮紅色 (30分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 超亮红色 (30分钟)&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Ярко-Красный (30 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Ярко-Червоне (30 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Vermelho Forte (30 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Červené jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz - Roja Hi (30 minutos)&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -230,7 +230,7 @@
             <Italian>Luce chimica (Hi Gialla)</Italian>
             <Chinese>螢光棒 (超亮黃色)</Chinese>
             <Chinesesimp>萤光棒 (超亮黄色)</Chinesesimp>
-            <Russian>Химсвет (Ярко-Желтый)</Russian>
+            <Russian>Хімсвітло (Яскраво-Жовте)</Russian>
             <Portuguese>Bastão de Luz (Amarelo Forte)</Portuguese>
             <Czech>Chemické světlo (Žluté jasné)</Czech>
             <Spanish>Luz química (Amarilla Hi)</Spanish>
@@ -246,7 +246,7 @@
             <Italian>Luce Hi Gialla</Italian>
             <Chinese>超亮黃色光</Chinese>
             <Chinesesimp>超亮黄色光</Chinesesimp>
-            <Russian>Яркий Желтый свет</Russian>
+            <Russian>Яскраво-Жовте світло</Russian>
             <Portuguese>Luz forte amarela</Portuguese>
             <Czech>Žluté jasné světlo</Czech>
             <Spanish>Luz amarilla Hi</Spanish>
@@ -262,7 +262,7 @@
             <Italian>Tipo: Luce - Gialla Hi (30 minuti)&lt;br /&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 超亮黃色 (30分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 超亮黄色 (30分钟)&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Ярко-Желтый (30 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Яскраво-Жовте (30 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Amarelo Forte (30 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Žluté jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz - Amarilla Hi (30 minutos)&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -277,7 +277,7 @@
             <Italian>Luce chimica (Hi Bianca)</Italian>
             <Chinese>螢光棒 (超亮白色)</Chinese>
             <Chinesesimp>萤光棒 (超亮白色)</Chinesesimp>
-            <Russian>Химсвет (Ярко-Белый)</Russian>
+            <Russian>Хімсвітло (Яскраво-Біле)</Russian>
             <Portuguese>Bastão de Luz (Branco Forte)</Portuguese>
             <Czech>Chemické světlo (Bílé jasné)</Czech>
             <Spanish>Luz química (Blanca Hi)</Spanish>
@@ -292,7 +292,7 @@
             <Italian>Luce Hi Bianca</Italian>
             <Chinese>超亮白色光</Chinese>
             <Chinesesimp>超亮白色光</Chinesesimp>
-            <Russian>Яркий Белый свет</Russian>
+            <Russian>Яскраво-Біле світло</Russian>
             <Portuguese>Luz forte branca</Portuguese>
             <Czech>Bílé jasné světlo</Czech>
             <Spanish>Luz blanca Hi</Spanish>
@@ -307,7 +307,7 @@
             <Italian>Tipo: Luce - Bianca Hi (30 minuti)&lt;br /&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 超亮白色 (30分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 超亮白色 (30分钟)&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Ярко-Белый (30 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Яскраво-Біле (30 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Branco Forte (30 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Bílé jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz - Blanca Hi (30 minutos)&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -319,7 +319,7 @@
             <Polish>Świetlik (jaskrawy niebieski)</Polish>
             <German>Knicklicht (Blau, Hell)</German>
             <Italian>Luce chimica (Hi Blu)</Italian>
-            <Russian>Химсвет (Ярко-Синий)</Russian>
+            <Russian>Хімсвітло (Яскраво-Синій)</Russian>
             <Portuguese>Bastão de Luz (Azul Forte)</Portuguese>
             <Chinese>螢光棒（超亮藍色）</Chinese>
             <Czech>Chemické světlo (Modré jasné)</Czech>
@@ -332,7 +332,7 @@
             <Japanese>高輝度の青色</Japanese>
             <Polish>Jaskrawe niebieskie światło</Polish>
             <Italian>Luce Hi Blu</Italian>
-            <Russian>Яркий Синий свет</Russian>
+            <Russian>Яскраво-Синє світло</Russian>
             <Portuguese>Luz forte azul</Portuguese>
             <Chinese>超亮藍色光</Chinese>
             <Czech>Modré jasné světlo</Czech>
@@ -345,7 +345,7 @@
             <Japanese>種類: 照明 - 高輝度 青 (30分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - jaskrawe niebieskie (30 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Hi blu (30 minuti)&lt;br/&gt;Rimanenti:1 &lt;br/&gt;Usata in: Mano</Italian>
-            <Russian>Тип: Свет - Ярко-Синий (30 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Яскраво-Синій (30 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Azul Forte (30 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Chinese>類型: 光 - 超亮藍色 (30分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Czech>Typ: Světlo - Modré jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
@@ -358,7 +358,7 @@
             <Japanese>ケミライト (高輝度 緑)</Japanese>
             <Polish>Świetlik (jaskrawy zielony)</Polish>
             <Italian>Luce chimica (Hi Verde)</Italian>
-            <Russian>Химсвет (Ярко-Зеленый)</Russian>
+            <Russian>Хімсвітло (Яскраво-Зелене)</Russian>
             <Portuguese>Bastão de Luz (Verde Forte)</Portuguese>
             <Chinese>螢光棒（超亮綠色）</Chinese>
             <Czech>Chemické světlo (Zelené jasné)</Czech>
@@ -371,7 +371,7 @@
             <Japanese>高輝度の青色</Japanese>
             <Polish>Jaskrawe zielone światło</Polish>
             <Italian>Luce Hi Verde</Italian>
-            <Russian>Яркий Зеленый свет</Russian>
+            <Russian>Яскраво-Зелене світло</Russian>
             <Portuguese>Luz forte verde</Portuguese>
             <Chinese>超亮綠色光</Chinese>
             <Czech>Zelené jasné světlo</Czech>
@@ -384,7 +384,7 @@
             <Japanese>種類: 照明 - 高輝度 緑 (30分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - jaskrawe zielone (30 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Hi verde (30 minuti)&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
-            <Russian>Тип: Свет - Ярко-Зеленый (30 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Яскраво-Зелене (30 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Verde Forte (30 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Chinese>類型: 光 - 超亮綠色 (30分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Czech>Typ: Světlo - Zelené jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
@@ -397,7 +397,7 @@
             <Japanese>ケミライト (高輝度 オレンジ)</Japanese>
             <Polish>Świetlik (ultra-jaskrawy pomarańczowy)</Polish>
             <Italian>Luce chimica (Ultra-Hi Arancione)</Italian>
-            <Russian>Химсвет (Ультраяркий Оранжевый)</Russian>
+            <Russian>Хімсвітло (Ультра-яскраве Помаранчеве)</Russian>
             <Portuguese>Bastão de Luz (Laranja Ultra Forte)</Portuguese>
             <Chinese>螢光棒（極亮橘色）</Chinese>
             <Czech>Chemické světlo (Oranžové velmi jasné)</Czech>
@@ -410,7 +410,7 @@
             <Japanese>ウルトラ高輝度のオレンジ色</Japanese>
             <Polish>Ultra-jaskrawe pomarańczowe światło</Polish>
             <Italian>Luce Ultra-Hi Arancione</Italian>
-            <Russian>Ультраяркий Оранжевый свет</Russian>
+            <Russian>Ультра-яскраве Помаранчеве світло</Russian>
             <Portuguese>Luz ultra forte laranja</Portuguese>
             <Chinese>極亮橘色光</Chinese>
             <Czech>Oranžové velmi jasné světlo</Czech>
@@ -423,7 +423,7 @@
             <Japanese>種類: 照明 - ウルトラ高輝度 オレンジ (5分間)&lt;br /&gt;装填数: 1&lt;br /&gt;次で使用: 携帯</Japanese>
             <Polish>Typ: Światło - ultra-jaskrawe pomarańczowe (5 minut)&lt;br/&gt;Pociski: 1&lt;br/&gt;Używany w: ręce</Polish>
             <Italian>Tipo: Luce - Ultra-Hi (5 minuti)&lt;br/&gt;Rimanenti: 1&lt;br/&gt;Usata in: Mano</Italian>
-            <Russian>Тип: Свет - Ультраяркий Оранжевый (5 минут)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Ультра-яскраве Помаранчеве (5 хвилин)&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Laranja Ultra Forte (5 minutos)&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Chinese>類型: 光 - 極亮橘色 (5分鐘)&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Czech>Typ: Světlo - Oranžové velmi jasné&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
@@ -439,7 +439,7 @@
             <Italian>Luce chimica (IR)</Italian>
             <Chinese>螢光棒 (紅外線)</Chinese>
             <Chinesesimp>萤光棒 (红外线)</Chinesesimp>
-            <Russian>Химсвет (Инфракрасный)</Russian>
+            <Russian>Хімсвітло (Інфрачервоне)</Russian>
             <Portuguese>Bastão de Luz (IV)</Portuguese>
             <Czech>Chemické světlo (Infračervené)</Czech>
             <Spanish>Luz química (IR)</Spanish>
@@ -454,7 +454,7 @@
             <Italian>Luce IR</Italian>
             <Chinese>紅外線光</Chinese>
             <Chinesesimp>红外线光</Chinesesimp>
-            <Russian>Инфракрасный свет</Russian>
+            <Russian>Інфрачервоне світло</Russian>
             <Portuguese>Bastão de luz infravermelho</Portuguese>
             <Czech>Infračervené světlo</Czech>
             <Spanish>Luz IR</Spanish>
@@ -469,7 +469,7 @@
             <Italian>Tipo: Luce - Infrarossi&lt;br /&gt;Usata in: Mano</Italian>
             <Chinese>類型: 光 - 紅外線&lt;br /&gt;發數: 1&lt;br /&gt;使用於: 手</Chinese>
             <Chinesesimp>类型: 光 - 红外线&lt;br /&gt;发数: 1&lt;br /&gt;使用于: 手</Chinesesimp>
-            <Russian>Тип: Свет - Инфракрасный&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
+            <Russian>Тип: Світло - Інфрачервоне&lt;br /&gt;1 штука&lt;br /&gt;В руках</Russian>
             <Portuguese>Tipo: Luz - Infravermelho&lt;br/&gt;Usos: 1&lt;br/&gt;Usado em: Mão</Portuguese>
             <Czech>Typ: Světlo - Infračervené&lt;br/&gt;Počet použití: 1&lt;br/&gt;Použít v ruce</Czech>
             <Spanish>Tipo: Luz infra-roja&lt;br /&gt;Cantidad: 1&lt;br /&gt;Usado en: Mano</Spanish>
@@ -484,7 +484,7 @@
             <Italian>Scudo Luce chimica (Vuoto)</Italian>
             <Chinese>螢光棒保護殼 (空)</Chinese>
             <Chinesesimp>萤光棒保护壳 (空)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Пуст)</Russian>
+            <Russian>Контейнер для Хімсвітла (Пуст)</Russian>
             <Portuguese>Estojo de Luz (Vazio)</Portuguese>
             <Czech>Clona na chemické světlo</Czech>
             <Spanish>Protector de luz química (Vacía)</Spanish>
@@ -499,7 +499,7 @@
             <Italian>Scudo per luci chimiche. Combina con una luce chimica per una luce da lettura.</Italian>
             <Chinese>螢光棒的保護殼. 與螢光棒結合後可充當閱讀燈</Chinese>
             <Chinesesimp>萤光棒的保护壳. 与萤光棒结合后可充当阅读灯.</Chinesesimp>
-            <Russian>Защитный контейнер для Химсвета. Объедините с Химсветом, чтобы подготовить Свет для чтения</Russian>
+            <Russian>Контейнер для Хімсвітла. Об'єднайте з Хімсвітлом, щоб підготувати його для прихованого читання мапи</Russian>
             <Portuguese>Estojo para os bastões de luz. Combine com o bastão de luz para preparar luz de leitura.</Portuguese>
             <Czech>Clona na chemické světlo. Při vložení chemického světla vznikne praktické světlo na čtení.</Czech>
             <Spanish>Protector para luz química. Combina con luz química para preparar una luz de lectura</Spanish>
@@ -514,7 +514,7 @@
             <Italian>Scudo Luce Chimica (Verde)</Italian>
             <Chinese>螢光棒保護殼 (綠色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (绿色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Зел)</Russian>
+            <Russian>Контейнер для Хімсвітла (Зел)</Russian>
             <Portuguese>Estojo de Luz (Verde)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Zelené)</Czech>
             <Spanish>Protector de luz química (Verde)</Spanish>
@@ -529,7 +529,7 @@
             <Italian>Luce da lettura Verde.</Italian>
             <Chinese>綠色閱讀燈</Chinese>
             <Chinesesimp>绿色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Зеленый)</Russian>
+            <Russian>Ночник з Хімсвітла (Зелене)</Russian>
             <Portuguese>Luz de leitura verde.</Portuguese>
             <Czech>Zelené světlo na čtení.</Czech>
             <Spanish>Luz de lectura verde</Spanish>
@@ -544,7 +544,7 @@
             <Italian>Scudo Luce Chimica (Rossa)</Italian>
             <Chinese>螢光棒保護殼 (紅色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (红色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Красн)</Russian>
+            <Russian>Контейнер для Хімсвітла (Черв)</Russian>
             <Portuguese>Estojo de Luz (Vermelho)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Červené)</Czech>
             <Spanish>Protector de luz química (Roja)</Spanish>
@@ -559,7 +559,7 @@
             <Italian>Luce da lettura Rossa.</Italian>
             <Chinese>紅色閱讀燈</Chinese>
             <Chinesesimp>红色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Красный)</Russian>
+            <Russian>Ночник з Хімсвітла (Червоний)</Russian>
             <Portuguese>Luz de leitura vermelha.</Portuguese>
             <Czech>Červené světlo na čtení.</Czech>
             <Spanish>Luz de lectura roja</Spanish>
@@ -574,7 +574,7 @@
             <Italian>Scudo Luce Chimica (Blu)</Italian>
             <Chinese>螢光棒保護殼 (藍色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (蓝色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Син)</Russian>
+            <Russian>Контейнер для Хімсвітла (Син)</Russian>
             <Portuguese>Estojo de Luz (Azul)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Modré)</Czech>
             <Spanish>Protector de luz química (Azul)</Spanish>
@@ -589,7 +589,7 @@
             <Italian>Luce da lettura Blu.</Italian>
             <Chinese>藍色閱讀燈</Chinese>
             <Chinesesimp>蓝色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Синий)</Russian>
+            <Russian>Ночник з Хімсвітла (Синій)</Russian>
             <Portuguese>Luz de leitura azul.</Portuguese>
             <Czech>Modré světlo na čtení.</Czech>
             <Spanish>Luz de lectura azul</Spanish>
@@ -604,7 +604,7 @@
             <Italian>Scudo Luce Chimica (Gialla)</Italian>
             <Chinese>螢光棒保護殼 (黃色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (黄色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Желт)</Russian>
+            <Russian>Контейнер для Хімсвітла (Жовт)</Russian>
             <Portuguese>Estojo de Luz (Amarelo)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Žluté)</Czech>
             <Spanish>Protector de luz química (Amarilla)</Spanish>
@@ -619,7 +619,7 @@
             <Italian>Luce da lettura Gialla.</Italian>
             <Chinese>黃色閱讀燈</Chinese>
             <Chinesesimp>黄色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Желтый)</Russian>
+            <Russian>Ночник з Хімсвітла (Жовтий)</Russian>
             <Portuguese>Luz de leitura amarela.</Portuguese>
             <Czech>Žluté světlo na čtení.</Czech>
             <Spanish>Luz de lectura amarilla</Spanish>
@@ -634,7 +634,7 @@
             <Italian>Scudo Luce Chimica (Arancione)</Italian>
             <Chinese>螢光棒保護殼 (橘色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (橘色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Оранж)</Russian>
+            <Russian>Контейнер для Хімсвітла (Помар)</Russian>
             <Portuguese>Estojo de Luz (Laranja)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Oranžové)</Czech>
             <Spanish>Protector de luz química (Naranja)</Spanish>
@@ -649,7 +649,7 @@
             <Italian>Luce da lettura Arancione.</Italian>
             <Chinese>橘色閱讀燈</Chinese>
             <Chinesesimp>橘色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Оранжевый)</Russian>
+            <Russian>Ночник з Хімсвітла (Помаранчевий)</Russian>
             <Portuguese>Luz de leitura laranja.</Portuguese>
             <Czech>Oranžové světlo na čtení.</Czech>
             <Spanish>Luz de lectura naranja</Spanish>
@@ -664,7 +664,7 @@
             <Italian>Scudo Luce Chimica (Bianca)</Italian>
             <Chinese>螢光棒保護殼 (白色)</Chinese>
             <Chinesesimp>萤光棒保护壳 (白色)</Chinesesimp>
-            <Russian>Контейнер для Химсвета (Белый)</Russian>
+            <Russian>Контейнер для Хімсвітла (Білий)</Russian>
             <Portuguese>Estojo de Luz (Branco)</Portuguese>
             <Czech>Clona s vloženým chemickým světlem (Bílé)</Czech>
             <Spanish>Protector de luz química (Blanca)</Spanish>
@@ -679,7 +679,7 @@
             <Italian>Luce da lettura Bianca.</Italian>
             <Chinese>白色閱讀燈</Chinese>
             <Chinesesimp>白色阅读灯。</Chinesesimp>
-            <Russian>Ночник из Химсвета (Белый)</Russian>
+            <Russian>Ночник з Хімсвітла (Білий)</Russian>
             <Portuguese>Luz de leitura branca.</Portuguese>
             <Czech>Bílé světlo na čtení.</Czech>
             <Spanish>Luz de lectura blanca</Spanish>

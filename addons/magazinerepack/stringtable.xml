@@ -10,7 +10,7 @@
             <Japanese>弾倉詰め替え</Japanese>
             <Korean>탄약 채우기</Korean>
             <Polish>Przepakowywanie magazynków</Polish>
-            <Russian>Перепаковка Магазинов</Russian>
+            <Russian>Перепакування Магазинів</Russian>
             <Portuguese>Preenchimento de Carregador</Portuguese>
             <French>Remplissage des chargeurs</French>
             <Czech>Přepáskování zásobníků</Czech>
@@ -24,7 +24,7 @@
             <Japanese>弾頭毎の所有時間</Japanese>
             <Korean>구경 당 시간</Korean>
             <Polish>Czas na nabój</Polish>
-            <Russian>Время на патрон</Russian>
+            <Russian>Час на патрон</Russian>
             <Portuguese>Tempo por projétil</Portuguese>
             <French>Temps par cartouche</French>
             <Czech>Čas na náboj</Czech>
@@ -38,7 +38,7 @@
             <Japanese>弾倉毎の所有時間</Japanese>
             <Korean>탄창 당 시간</Korean>
             <Polish>Czas na magazynek</Polish>
-            <Russian>Время на магазин</Russian>
+            <Russian>Час на магазин</Russian>
             <Portuguese>Tempo por carregador</Portuguese>
             <French>Temps par chargeur</French>
             <Czech>Čas na zásobník</Czech>
@@ -52,7 +52,7 @@
             <Japanese>ベルトリンク毎の所有時間</Japanese>
             <Korean>탄약띠 당 시간</Korean>
             <Polish>Czas na taśmę</Polish>
-            <Russian>Время на звено ленты</Russian>
+            <Russian>Час на ланку стрічки</Russian>
             <Portuguese>Tempo por carregador de cinto</Portuguese>
             <French>Temps par bande</French>
             <Czech>Čas na článek pásu</Czech>
@@ -67,7 +67,7 @@
             <Italian>Riempi Caricatori</Italian>
             <Portuguese>Reorganizar Carregadores</Portuguese>
             <Hungarian>Újratárazás </Hungarian>
-            <Russian>Перепаковать магазины</Russian>
+            <Russian>Перепакувати Магазини</Russian>
             <Japanese>弾倉を詰め替え</Japanese>
             <Korean>탄창 다시 채우기</Korean>
             <Chinesesimp>重新整理弹匣</Chinesesimp>
@@ -83,7 +83,7 @@
             <Italian>Riempendo i caricatori...</Italian>
             <Portuguese>Reorganizando Carregadores...</Portuguese>
             <Hungarian>Újratárazás...</Hungarian>
-            <Russian>Перепаковка магазинов...</Russian>
+            <Russian>Перепакування Магазинів...</Russian>
             <Japanese>弾倉を詰め替えしています・・・</Japanese>
             <Korean>다시 채우는중...</Korean>
             <Chinesesimp>重新整理弹匣中 ...</Chinesesimp>
@@ -99,7 +99,7 @@
             <Italian>%1 caricatore(i) pieno e %2 munizione(i) extra</Italian>
             <Portuguese>%1 carregador(es) cheio(s) e %2 disparo(s) a mais</Portuguese>
             <Hungarian>%1 teljes tár és %2 extra lőszer</Hungarian>
-            <Russian>%1 полных магазина(ов) и %2 патрона(ов)</Russian>
+            <Russian>%1 повних магазин(ів) та %2 патрон(ів)</Russian>
             <Japanese>%1 個の満杯の弾倉とあふれた %2 発の弾薬</Japanese>
             <Korean>%1개의 꽉찬 탄창과 %2발의 총알이 남았다</Korean>
             <Chinesesimp>%1个满的弹匣与%2发额外子弹</Chinesesimp>
@@ -126,7 +126,7 @@
             <French>Remplissage interrompu.</French>
             <German>Umpacken unterbrochen</German>
             <Spanish>Reorganización interrumpida</Spanish>
-            <Russian>Перепаковка прервана</Russian>
+            <Russian>Перепаковка перервана</Russian>
             <Czech>Páskování přerušeno</Czech>
             <Polish>Przepakowywanie przerwane</Polish>
             <Hungarian>Újratárazás megszakítva</Hungarian>
@@ -142,7 +142,7 @@
             <French>%1 chargeur(s) plein(s) et %2 chargeur(s) partiel(s).</French>
             <German>%1 volle(s) Magazin(e) und %2 angefangene(s) Magazin(e)</German>
             <Spanish>%1 Llenos y %2 Incompletos</Spanish>
-            <Russian>%1 полных и %2 неполных</Russian>
+            <Russian>%1 повних та %2 неповних магазинів</Russian>
             <Czech>%1 plný a %2 částečně</Czech>
             <Polish>Pełnych: %1.&lt;br/&gt;Częściowo pełnych: %2.</Polish>
             <Hungarian>%1 teljes és %2 részleges</Hungarian>

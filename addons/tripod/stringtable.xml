@@ -4,7 +4,7 @@
         <Key ID="STR_ACE_Tripod_DisplayName">
             <English>SSWT Kit</English>
             <German>Scharfschützendreibein</German>
-            <Russian>Снайперский штатив</Russian>
+            <Russian>Снайперська тринога</Russian>
             <Polish>Trójnóg snajperski</Polish>
             <Spanish>Equipo SSWT</Spanish>
             <French>Kit SSWT</French>
@@ -21,7 +21,7 @@
         <Key ID="STR_ACE_Tripod_PlaceDown">
             <English>Place SSWT Kit</English>
             <German>Scharfschützendreibein aufstellen</German>
-            <Russian>Установить снайперский штатив</Russian>
+            <Russian>Розмістити снайперську триногу</Russian>
             <Polish>Postaw trójnóg snajperski</Polish>
             <Spanish>Colocar equipo SSWT</Spanish>
             <French>Placer le kit SSWT</French>
@@ -44,7 +44,7 @@
             <Portuguese>Pegar kit SSWT</Portuguese>
             <French>Prendre le kit SSWT</French>
             <Hungarian>SSWT készlet felvétele</Hungarian>
-            <Russian>Подобрать снайперский штатив</Russian>
+            <Russian>Підібрати снайперську триногу</Russian>
             <Italian>Prendi Kit SSWT</Italian>
             <Japanese>SSWT キットを拾う</Japanese>
             <Korean>SSWT 키트 줍기</Korean>
@@ -61,7 +61,7 @@
             <Portuguese>Ajustar kit SSWT</Portuguese>
             <French>Régler le kit SSWT</French>
             <Hungarian>SSWT készlet állítása</Hungarian>
-            <Russian>Выровнять снайперский штатив</Russian>
+            <Russian>Регулувати снайперську триногу</Russian>
             <Italian>Aggiusta Kit SSWT</Italian>
             <Japanese>SSWT キットを調節</Japanese>
             <Korean>SSWT 키트 조절</Korean>
@@ -95,7 +95,7 @@
             <Portuguese>ajuste</Portuguese>
             <French>Régler</French>
             <Hungarian>szabályzás</Hungarian>
-            <Russian>подстройка</Russian>
+            <Russian>підлаштування</Russian>
             <Italian>regola</Italian>
             <Japanese>調節</Japanese>
             <Korean>조절</Korean>

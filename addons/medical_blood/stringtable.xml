@@ -7,7 +7,7 @@
             <Spanish>Sangre</Spanish>
             <Italian>Sangue</Italian>
             <Polish>Krew</Polish>
-            <Russian>Кровь</Russian>
+            <Russian>Кров</Russian>
             <German>Blut</German>
             <Czech>Krev</Czech>
             <Portuguese>Sangue</Portuguese>
@@ -26,7 +26,7 @@
             <Italian>Abilita Perdite di Sangue</Italian>
             <Chinesesimp>开启血液滴落效果</Chinesesimp>
             <Chinese>開啟血液滴落效果</Chinese>
-            <Russian>Разрешить капли крови</Russian>
+            <Russian>Увімкнути краплі крові</Russian>
             <Portuguese>Permitir gotas de sangue</Portuguese>
             <Czech>Povolit kapky krve</Czech>
             <Spanish>Habilitar manchas de sangre</Spanish>
@@ -36,7 +36,7 @@
             <English>Enables the creation of blood drops when units are bleeding or take damage.</English>
             <Japanese>ユニットが出血かダメージを受けた時に、血痕を残すようにします。</Japanese>
             <French>Si une unité saigne, elle laissera des traces de sang derrière elle.</French>
-            <Russian>Разрешает создание капель крови при кровотечении или получении урона</Russian>
+            <Russian>Дозволяє створення крапель при кровотечі або пошкодженнях</Russian>
             <Portuguese>Permitir a criação de gotas de sangue quando as unidades recebem ferimentos ou estão sangrando.</Portuguese>
             <Chinese>啟用出血效果當單位失血或受傷的時候。</Chinese>
             <Czech>Povoluje vytváření kapek krve na zemi když jednotka krvácí nebo utrpí zranění.</Czech>
@@ -50,7 +50,7 @@
             <English>Max Blood Objects</English>
             <Japanese>最大血痕数</Japanese>
             <French>Quantité de sang à afficher</French>
-            <Russian>Макс. кол-во капель крови</Russian>
+            <Russian>Макс. кол-во крапель крові</Russian>
             <Portuguese>Limite de objetos de sangue</Portuguese>
             <Chinese>最大血跡數</Chinese>
             <Italian>Massimo numero di chiazze di sangue</Italian>
@@ -64,7 +64,7 @@
             <English>Sets the maximum number of blood drop objects which can be spawned, excessive amounts can cause FPS lag.</English>
             <Japanese>生成される血痕オブジェクト数を設定できます。極端に増やすと FPS ラグを引き起こします。</Japanese>
             <French>Définit le nombre maximal de traces de sangs pouvant être affichées.\nUne quantité excessive peut engendrer une baisse de FPS.</French>
-            <Russian>Задает макс. количество создаваемых объектов капель крови. Чрезмерное количество может вызвать задержку FPS</Russian>
+            <Russian>Задає макс. кількість створюваних об'єктів крапель крові. Надмірна кількість може вплинути на FPS</Russian>
             <Portuguese>Define o limite máximo de objetos de gota de sangue que podem ser criados, quantidades excessivas podem causar lag de FPS.</Portuguese>
             <Chinese>設定最大可存在的血跡數量。太極端的數量會導致幀數低落或卡頓</Chinese>
             <Italian>Imposta il numero massimo di chiazze di sangue che possono essere depositate, quantità eccessive possono causare del lag di FPS.</Italian>
@@ -78,7 +78,7 @@
             <English>Blood Lifetime</English>
             <Japanese>血痕の寿命</Japanese>
             <French>Durée d'affichage du sang</French>
-            <Russian>Время жизни капель крови</Russian>
+            <Russian>Тривалість існування крапель крові</Russian>
             <Portuguese>Duração do Sangue</Portuguese>
             <Chinese>血跡時長</Chinese>
             <Italian>Durata del sangue</Italian>
@@ -92,7 +92,7 @@
             <English>Controls the lifetime of blood drop objects.</English>
             <Japanese>血痕オブジェクトの寿命を決定します。</Japanese>
             <French>Définit la durée d'affichage des traces de sang.</French>
-            <Russian>Управляет временем жизни объектов капель крови.</Russian>
+            <Russian>Управляє тривалістю існування об'єктів крапель крові</Russian>
             <Portuguese>Controla o tempo de vida que um objeto de gota de sangue tem.</Portuguese>
             <Chinese>控制血跡在地上的時長</Chinese>
             <Italian>Controlla la durata delle chiazze di sangue.</Italian>
@@ -112,7 +112,7 @@
             <Italian>Solo Giocatori</Italian>
             <Chinesesimp>只有玩家</Chinesesimp>
             <Chinese>只有玩家</Chinese>
-            <Russian>Только игроки</Russian>
+            <Russian>Тільки гравці</Russian>
             <Portuguese>Apenas Jogadores</Portuguese>
             <Czech>Pouze hráči</Czech>
             <Spanish>Solo jugadores</Spanish>

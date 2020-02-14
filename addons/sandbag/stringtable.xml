@@ -4,7 +4,7 @@
         <Key ID="STR_ACE_Sandbag_sandbag_displayName">
             <English>Sandbag</English>
             <German>Sandsack</German>
-            <Russian>Мешок с песком</Russian>
+            <Russian>Мішок з піском</Russian>
             <Polish>Worek z piaskiem</Polish>
             <Spanish>Saco de arena</Spanish>
             <French>Sac de sable</French>
@@ -21,7 +21,7 @@
         <Key ID="STR_ACE_Sandbag_sandbagEmpty_displayName">
             <English>Sandbag (empty)</English>
             <German>Sandsack (leer)</German>
-            <Russian>Мешок с песком (пустой)</Russian>
+            <Russian>Мішок з піском (порожній)</Russian>
             <Polish>Worek na piasek</Polish>
             <Spanish>Saco de arena (vacio)</Spanish>
             <French>Sac de sable (vide)</French>
@@ -38,7 +38,7 @@
         <Key ID="STR_ACE_Sandbag_CANNOTSB">
             <English>Cannot build here</English>
             <German>Nicht möglich</German>
-            <Russian>Установка на этом месте невозможна</Russian>
+            <Russian>Тут не можна будувати</Russian>
             <Polish>Nie można tu budować</Polish>
             <Spanish>No se puede construir aqui</Spanish>
             <French>Impossible de construire ici.</French>
@@ -55,7 +55,7 @@
         <Key ID="STR_ACE_Sandbag_PICKUPSB">
             <English>Pick up Sandbag</English>
             <German>Sandsack abbauen</German>
-            <Russian>Взять мешок с песком</Russian>
+            <Russian>Взяти мішок з піском</Russian>
             <Polish>Zabierz worek</Polish>
             <Spanish>Coger saco de arena</Spanish>
             <French>Prendre le sac de sable</French>
@@ -72,7 +72,7 @@
         <Key ID="STR_ACE_Sandbag_CARRYSB">
             <English>Carry Sandbag</English>
             <German>Sandsack tragen</German>
-            <Russian>Нести мешок с песком</Russian>
+            <Russian>Нести мішок з піском</Russian>
             <Polish>Przenieś worek</Polish>
             <Spanish>Portar saco de arena</Spanish>
             <French>Porter le sac de sable</French>
@@ -89,7 +89,7 @@
         <Key ID="STR_ACE_Sandbag_ENDCARRYSB">
             <English>End Carrying</English>
             <German>Tragen beenden</German>
-            <Russian>Завершить переноску</Russian>
+            <Russian>Завершити перенесення</Russian>
             <Polish>Zostaw worek</Polish>
             <Spanish>Dejar de portar</Spanish>
             <French>Arrêter de porter</French>
@@ -106,7 +106,7 @@
         <Key ID="STR_ACE_Sandbag_DropSandbag">
             <English>Drop Sandbag</English>
             <German>Sandsack ablegen</German>
-            <Russian>Положить мешок</Russian>
+            <Russian>Покласти мішок</Russian>
             <Polish>Upuść worek</Polish>
             <Spanish>Soltar saco de arena</Spanish>
             <French>Lâcher le sac de sable</French>
@@ -123,7 +123,7 @@
         <Key ID="STR_ACE_Sandbag_ConfirmDeployment">
             <English>Confirm Deployment</English>
             <German>Aufbauen</German>
-            <Russian>Подтвердить установку</Russian>
+            <Russian>Підтвердити розміщення</Russian>
             <Polish>Potwierdź rozłożenie</Polish>
             <Spanish>Confirmar despliegue</Spanish>
             <French>Confirmer l'installation</French>
@@ -139,7 +139,7 @@
         <Key ID="STR_ACE_Sandbag_CancelDeployment">
             <English>Cancel Deployment</English>
             <German>Abbrechen</German>
-            <Russian>Отменить установку</Russian>
+            <Russian>Скасувати розміщення</Russian>
             <Polish>Anuluj rozłożenie</Polish>
             <Spanish>Cancelar despliegue</Spanish>
             <French>Annuler l'installation</French>
@@ -155,7 +155,7 @@
         <Key ID="STR_ACE_Sandbag_DeploySandbag">
             <English>Deploy Sandbag</English>
             <German>Sandsack aufbauen</German>
-            <Russian>Установить мешок с песком</Russian>
+            <Russian>Розмістити мішок з піском</Russian>
             <Polish>Rozłóż worek z piaskiem</Polish>
             <Spanish>Desplegar saco de arena</Spanish>
             <French>Installer un sac de sable</French>
@@ -171,7 +171,7 @@
         <Key ID="STR_ACE_Sandbag_SANDBOX">
             <English>Sandbag Box</English>
             <German>Sandsack Kiste</German>
-            <Russian>Ящик мешков с песком</Russian>
+            <Russian>Ящик мішків для піску</Russian>
             <Polish>Skrzynia worków na piasek</Polish>
             <Spanish>Caja de sacos de arena</Spanish>
             <French>Caisse de sacs de sable</French>
@@ -188,7 +188,7 @@
         <Key ID="STR_ACE_Sandbag_NOSAND">
             <English>Here is no sand</English>
             <German>Hier gibt es keinen Sand</German>
-            <Russian>Здесь нет песка</Russian>
+            <Russian>Тут немає піску</Russian>
             <Polish>Tu nie ma piasku</Polish>
             <Spanish>Aqui no hay arena</Spanish>
             <French>Il n'y a pas de sable ici.</French>
@@ -211,7 +211,7 @@
             <Hungarian>Forgatás</Hungarian>
             <Polish>Obrót</Polish>
             <Portuguese>Rotaciona</Portuguese>
-            <Russian>Bращать</Russian>
+            <Russian>Повернути</Russian>
             <Japanese>回転</Japanese>
             <Korean>돌리기</Korean>
             <Chinesesimp>旋转</Chinesesimp>

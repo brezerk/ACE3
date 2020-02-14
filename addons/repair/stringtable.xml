@@ -11,7 +11,7 @@
             <Czech>Náhradní pásy</Czech>
             <Italian>Cingolo di scorta</Italian>
             <Hungarian>Pót lánctalp</Hungarian>
-            <Russian>Запасная гусеница</Russian>
+            <Russian>Запасний трак</Russian>
             <Japanese>予備履帯</Japanese>
             <Korean>예비 궤도</Korean>
             <Chinesesimp>备用履带</Chinesesimp>
@@ -28,7 +28,7 @@
             <Portuguese>Estepe</Portuguese>
             <Italian>Ruota di scorta</Italian>
             <Hungarian>Pótkerék</Hungarian>
-            <Russian>Запасное колесо</Russian>
+            <Russian>Запасне колесо</Russian>
             <Japanese>予備タイヤ</Japanese>
             <Korean>예비 바퀴</Korean>
             <Chinesesimp>备用轮胎</Chinesesimp>
@@ -44,7 +44,7 @@
             <Portuguese>Trocar roda</Portuguese>
             <Italian>Sostituisci la ruota</Italian>
             <Hungarian>Kerék cseréje</Hungarian>
-            <Russian>Поменять колесо</Russian>
+            <Russian>Поміняти колесо</Russian>
             <Czech>Vyměnit kolo</Czech>
             <Japanese>タイヤを変える</Japanese>
             <Korean>바퀴 교체</Korean>
@@ -57,7 +57,7 @@
             <German>Ersetze Reifen...</German>
             <Polish>Wymienianie koła...</Polish>
             <Portuguese>Trocando roda...</Portuguese>
-            <Russian>Замена колеса...</Russian>
+            <Russian>Заміна колеса...</Russian>
             <Czech>Měním kolo...</Czech>
             <Spanish>Cambiando rueda...</Spanish>
             <Italian>Sostituendo la ruota...</Italian>
@@ -73,7 +73,7 @@
             <German>Reifen ersetzt</German>
             <Polish>Koło zostało wymienione</Polish>
             <Portuguese>Roda trocada</Portuguese>
-            <Russian>Колесо заменено</Russian>
+            <Russian>Колесо замінено</Russian>
             <Czech>Kolo vyměněno</Czech>
             <Spanish>Rueda cambiada</Spanish>
             <Italian>Ruota sostituita</Italian>
@@ -94,7 +94,7 @@
             <Portuguese>Remover roda</Portuguese>
             <Italian>Rimuovi la ruota</Italian>
             <Hungarian>Kerék leszerelése</Hungarian>
-            <Russian>Снять колесо</Russian>
+            <Russian>Зняти колесо</Russian>
             <Japanese>タイヤを外す</Japanese>
             <Korean>바퀴 제거</Korean>
             <Chinesesimp>卸下轮胎</Chinesesimp>
@@ -106,7 +106,7 @@
             <German>Entferne Reifen...</German>
             <Polish>Zdejmowanie koła...</Polish>
             <Portuguese>Removendo roda...</Portuguese>
-            <Russian>Снятие колеса...</Russian>
+            <Russian>Зняття колеса...</Russian>
             <Czech>Odstraňuji kolo...</Czech>
             <Spanish>Quitando rueda...</Spanish>
             <Italian>Rimuovendo la ruota...</Italian>
@@ -122,7 +122,7 @@
             <German>Reifen entfernt</German>
             <Polish>Koło zostało zdjęte</Polish>
             <Portuguese>Roda removida</Portuguese>
-            <Russian>Колесо снято</Russian>
+            <Russian>Колесо знято</Russian>
             <Czech>Kolo odstraněno</Czech>
             <Spanish>Rueda quitada</Spanish>
             <Italian>Ruota rimossa</Italian>
@@ -138,7 +138,7 @@
             <German>Kette wechseln</German>
             <Polish>Wymień gąsienicę</Polish>
             <Portuguese>Trocar esteira</Portuguese>
-            <Russian>Заменить гусеницу</Russian>
+            <Russian>Замінити трак</Russian>
             <Czech>Vyměnit pás</Czech>
             <Spanish>Cambiar oruga</Spanish>
             <Italian>Cambia cingolo</Italian>
@@ -154,7 +154,7 @@
             <German>Tausche Kette aus...</German>
             <Polish>Wymienianie gąsienicy...</Polish>
             <Portuguese>Trocando esteira...</Portuguese>
-            <Russian>Замена гусеницы...</Russian>
+            <Russian>Заміна трака...</Russian>
             <Czech>Měním pás...</Czech>
             <Spanish>Cambiando oruga...</Spanish>
             <Italian>Sostituendo il cingolo...</Italian>
@@ -170,7 +170,7 @@
             <German>Kette ausgetauscht</German>
             <Polish>Gąsienica została wymieniona</Polish>
             <Portuguese>Esteira trocada</Portuguese>
-            <Russian>Гусеница заменена</Russian>
+            <Russian>Трак замінений</Russian>
             <Czech>Pás vyměněn</Czech>
             <Spanish>Oruga cambiada</Spanish>
             <Italian>Cingolo sostituito</Italian>
@@ -186,7 +186,7 @@
             <German>Entferne Kette</German>
             <Polish>Zdejmij gąsienicę</Polish>
             <Portuguese>Remover esteira</Portuguese>
-            <Russian>Снять гусеницу</Russian>
+            <Russian>Зняти трак</Russian>
             <Czech>Odstranit pás</Czech>
             <Spanish>Quitar oruga</Spanish>
             <Italian>Rimuovi cingolo</Italian>
@@ -202,7 +202,7 @@
             <German>Entferne Kette...</German>
             <Polish>Zdejmowanie gąsienicy...</Polish>
             <Portuguese>Removendo esteira...</Portuguese>
-            <Russian>Снятие гусеницы...</Russian>
+            <Russian>Зняття трака...</Russian>
             <Czech>Odstraňuji pás...</Czech>
             <Spanish>Quitando oruga...</Spanish>
             <Italian>Rimuovendo il cingolo...</Italian>
@@ -218,7 +218,7 @@
             <German>Kette enfernt</German>
             <Polish>Gąsienica została zdjęta</Polish>
             <Portuguese>Esteira trocada</Portuguese>
-            <Russian>Гусеница снята</Russian>
+            <Russian>Трак знятий</Russian>
             <Czech>Pás odstraněn</Czech>
             <Spanish>Oruga quitada</Spanish>
             <Italian>Cingolo rimosso</Italian>
@@ -234,7 +234,7 @@
             <German>Vollständige Reperatur</German>
             <Polish>Pełna naprawa</Polish>
             <Portuguese>Reparo completo</Portuguese>
-            <Russian>Полный ремонт</Russian>
+            <Russian>Повний ремонт</Russian>
             <Czech>Kompletní oprava</Czech>
             <Spanish>Reparación completa</Spanish>
             <Italian>Riparazione completa</Italian>
@@ -250,7 +250,7 @@
             <German>Entferne Fahrzeug...</German>
             <Polish>Naprawianie pojazdu...</Polish>
             <Portuguese>Reparando veículo...</Portuguese>
-            <Russian>Ремонт транспорта...</Russian>
+            <Russian>Ремонт техніки...</Russian>
             <Czech>Opravuji vozidlo...</Czech>
             <Spanish>Reparando vehículo...</Spanish>
             <Italian>Riparando il veicolo...</Italian>
@@ -266,7 +266,7 @@
             <German>Möglichkeit zur vollständigen Reperatur</German>
             <Polish>Lokaliz. pełnej naprawy</Polish>
             <Portuguese>Localizações de reparo completo</Portuguese>
-            <Russian>Места полного ремонта</Russian>
+            <Russian>Місця повного ремонту</Russian>
             <Czech>Oblast pro kompletní opravu</Czech>
             <Spanish>Lugares de reparación completa</Spanish>
             <Italian>Luoghi Riparazione Completa</Italian>
@@ -282,7 +282,7 @@
             <German>Welche Fahrzeugteile können vollständig in Stand gesetzt werden?</German>
             <Polish>W jakich miejscach pojazd może zostać w pełni naprawiony?</Polish>
             <Portuguese>Em quais locais um veículo pode ser reparado por completo?</Portuguese>
-            <Russian>В каких местах транспорт может быть полностью отремеонтирован?</Russian>
+            <Russian>В яких місцях техніка може бути повністю відремонтована?</Russian>
             <Spanish>¿En qué lugares puede un vehículo ser reparado totalmente?</Spanish>
             <Czech>V které oblasti může být vozidlo plně opraveno?</Czech>
             <Italian>In quali luoghi è possibile riparare completamente un veicolo?</Italian>
@@ -297,7 +297,7 @@
             <German>Erlaube vollständige Reperatur</German>
             <Polish>Zezwól na pełną naprawę</Polish>
             <Portuguese>Permitir reparo completo</Portuguese>
-            <Russian>Полный ремонт выполняют</Russian>
+            <Russian>Дозволити повний ремонт</Russian>
             <Czech>Povolit kompletní opravu</Czech>
             <Spanish>Permitir reparación completa</Spanish>
             <Italian>Consenti Riparazione Completa</Italian>
@@ -312,7 +312,7 @@
             <English>Who can perform a full repair on a vehicle?</English>
             <German>Wer ist zur vollständigen Reperatur im Stande?</German>
             <Polish>Kto może przeprowadzić pełną naprawę pojazdu?</Polish>
-            <Russian>Кто может выполнять полный ремонт?</Russian>
+            <Russian>Хто може виконувати повний ремонт техніки?</Russian>
             <Portuguese>Quem pode reparar o veículo por completo?</Portuguese>
             <Spanish>¿Quién puede realizar una reparación completa de un vehículo?</Spanish>
             <Czech>Kdo může provést úplné opravy na vozidle?</Czech>
@@ -330,7 +330,7 @@
             <Polish>Dodaj części zam.</Polish>
             <Portuguese>Adicionar partes sobressalentes</Portuguese>
             <Spanish>Añadir repuestos</Spanish>
-            <Russian>Добавлять запчасти</Russian>
+            <Russian>Додавати запчастини</Russian>
             <Czech>Přidat náhradní díly</Czech>
             <Italian>Aggiungi Parti di Ricambio</Italian>
             <French>Ajouter des pièces de rechange</French>
@@ -346,7 +346,7 @@
             <Polish>Czy dodać do pojazdów części zamienne? Wymaga włączonego cargo.</Polish>
             <Portuguese>Adicionar partes sobressalentes aos veículos (requer o componente de carga)?</Portuguese>
             <Spanish>¿Añadir repuestos para vehículos (requiere componente de carga)?</Spanish>
-            <Russian>Добавлять запасные части в технику (требуется модуль Грузоперевозок)?</Russian>
+            <Russian>Додавати запчастини в техніку (потребує модуль Вантажоперевезень)?</Russian>
             <Czech>Přidat náhradní díly do vozidla (vyžaduje úložný prostor)?</Czech>
             <Italian>Aggiungi parti di ricambio ai veicoli (richiede componente Cargo)?</Italian>
             <French>Ajoute des pièces de rechange aux véhicules (nécessite le système de cargaison).</French>
@@ -377,7 +377,7 @@
             <German>Zeige Text bei Reperatur an</German>
             <Polish>Wyświetl tekst przy naprawie</Polish>
             <Portuguese>Mostrar texto quando reparar</Portuguese>
-            <Russian>Отображать текст при ремонте</Russian>
+            <Russian>Відображати текст при ремонті</Russian>
             <Czech>Zobrazit text při opravě</Czech>
             <Spanish>Mostrar texto en la reparación</Spanish>
             <Italian>Mostra testo mentre ripari</Italian>
@@ -392,7 +392,7 @@
             <German>Zeige eine Nachricht, wann immer du ein Fahrzeug reparierst</German>
             <Polish>Pokaż informację, kiedy wykonujesz czynności związane z naprawą pojazdu.</Polish>
             <Portuguese>Mostra uma notificação quando você repara um veículo</Portuguese>
-            <Russian>Отображать оповещение каждый раз, когда вы ремонтируете транспорт</Russian>
+            <Russian>Відображати сповіщення при кожному ремонті техніки</Russian>
             <Spanish>Mostrar una notificación cada vez que se reparare un vehículo</Spanish>
             <Czech>Zobrazit oznámení kdykoliv opravíš vozidlo</Czech>
             <Italian>Mostra una notifica quando stai riparando un veicolo</Italian>
@@ -412,7 +412,7 @@
             <Portuguese>Reparando...</Portuguese>
             <Italian>Riparando...</Italian>
             <Hungarian>javítása...</Hungarian>
-            <Russian>Ремонтируем...</Russian>
+            <Russian>Ремонтується...</Russian>
             <Japanese>修理しています・・・</Japanese>
             <Korean>수리중...</Korean>
             <Chinesesimp>维修中...</Chinesesimp>
@@ -429,7 +429,7 @@
             <Portuguese>Reparando %1...</Portuguese>
             <Italian>Riparando %1...</Italian>
             <Hungarian>%1 javítása...</Hungarian>
-            <Russian>Ремонтируем %1...</Russian>
+            <Russian>Ремонтується %1...</Russian>
             <Japanese>%1 を修理しています・・・</Japanese>
             <Korean>%1 수리중...</Korean>
             <Chinesesimp>维修%1中...</Chinesesimp>
@@ -446,7 +446,7 @@
             <Portuguese>Reparado %1</Portuguese>
             <Italian>%1 Riparata/o</Italian>
             <Hungarian>%1 megjavítva</Hungarian>
-            <Russian>%1 отремонтирован</Russian>
+            <Russian>%1 відремонтовано</Russian>
             <Japanese>%1 を修理しました</Japanese>
             <Korean>%1 수리됨</Korean>
             <Chinesesimp>已维修%1</Chinesesimp>
@@ -458,7 +458,7 @@
             <German>Bauteil vollständig repariert</German>
             <Polish>W pełni naprawiono część</Polish>
             <Portuguese>Parte totalmente reparada</Portuguese>
-            <Russian>Полностью отремонтированная часть</Russian>
+            <Russian>Повністю відремонтована частина</Russian>
             <Czech>Kompletně opravená část</Czech>
             <Spanish>Parte totalmente reparado</Spanish>
             <Italian>Parte riparata completamente</Italian>
@@ -473,7 +473,7 @@
             <German>Bauteil zum Teil repariert</German>
             <Polish>Częściowo naprawiono: %1</Polish>
             <Portuguese>%1 parcialmente reparado</Portuguese>
-            <Russian>Частично отремонтировано: %1</Russian>
+            <Russian>Частково відремонтовано: %1</Russian>
             <Spanish>Parcialmente reparada %1</Spanish>
             <Czech>%1 - částečně opraveno</Czech>
             <Italian>%1 parzialmente riparato</Italian>
@@ -488,7 +488,7 @@
             <German>%1 vollständig repariert</German>
             <Polish>W pełni naprawiono: %1</Polish>
             <Portuguese>%1 totalmente reparado</Portuguese>
-            <Russian>Полностью отремонтировано: %1</Russian>
+            <Russian>Повністю відремонтовано: %1</Russian>
             <Czech>%1 - kompletně opraveno</Czech>
             <Spanish>Totalmente reparada %1</Spanish>
             <Italian>%1 completamente riparato</Italian>
@@ -503,7 +503,7 @@
             <German>%1 teilweise repariert</German>
             <Polish>Częściowo naprawiono: %1</Polish>
             <Portuguese>%1 parcialmente reparado</Portuguese>
-            <Russian>Частично отремонтировано: %1</Russian>
+            <Russian>Частково відремонтовано: %1</Russian>
             <Spanish>Parcialmente reparada %1</Spanish>
             <Czech>%1 - částečně opraveno</Czech>
             <Italian>%1 parzialmente riparato</Italian>
@@ -540,7 +540,7 @@
             <Portuguese>Chassi</Portuguese>
             <Italian>Scafo</Italian>
             <Hungarian>Test</Hungarian>
-            <Russian>Корпус</Russian>
+            <Russian>Шасі</Russian>
             <Japanese>機体</Japanese>
             <Korean>선체</Korean>
             <Chinesesimp>车壳</Chinesesimp>
@@ -557,7 +557,7 @@
             <Portuguese>Motor</Portuguese>
             <Italian>Motore</Italian>
             <Hungarian>Motor</Hungarian>
-            <Russian>Двигатель</Russian>
+            <Russian>Двигун</Russian>
             <Japanese>エンジン</Japanese>
             <Korean>엔진</Korean>
             <Chinesesimp>引擎</Chinesesimp>
@@ -567,7 +567,7 @@
         <Key ID="STR_ACE_Repair_HitHStabilizerL1">
             <English>Left Horizontal Stabilizer</English>
             <Polish>Lewy statecznik poziomy</Polish>
-            <Russian>Левый горизонтальный стабилизатор</Russian>
+            <Russian>Лівий горизонтальний стабілізатор</Russian>
             <Portuguese>Estabilizador Horizontal Esquerdo</Portuguese>
             <Spanish>Estabilizador horizontal izquierdo</Spanish>
             <Czech>Levý horizontální stabilizátor</Czech>
@@ -583,7 +583,7 @@
         <Key ID="STR_ACE_Repair_HitHStabilizerR1">
             <English>Right Horizontal Stabilizer</English>
             <Polish>Prawy statecznik poziomy</Polish>
-            <Russian>Правый горизонтальный стабилизатор</Russian>
+            <Russian>Правий горизонтальний стабілізатор</Russian>
             <Portuguese>Estabilizador Horizontal Direito</Portuguese>
             <Spanish>Estabilizador horizontal derecho</Spanish>
             <Czech>Pravý horizontální stabilizátor</Czech>
@@ -600,7 +600,7 @@
             <English>Vertical Stabilizer</English>
             <Czech>Vertikální Stabilizátor</Czech>
             <Polish>Statecznik pionowy</Polish>
-            <Russian>Вертикальный стабилизатор</Russian>
+            <Russian>Вертикальний стабілізатор</Russian>
             <Portuguese>Estabilizador Vertical</Portuguese>
             <Spanish>Estabilizador vertical</Spanish>
             <Italian>Stabilizzatore Verticale</Italian>
@@ -622,7 +622,7 @@
             <Portuguese>Tanque de Combustível</Portuguese>
             <Italian>Serbatoio</Italian>
             <Hungarian>Üzemanyagtank</Hungarian>
-            <Russian>Топливный бак</Russian>
+            <Russian>Паливний бак</Russian>
             <Japanese>燃料タンク</Japanese>
             <Korean>연료 탱크</Korean>
             <Chinesesimp>油箱</Chinesesimp>
@@ -634,7 +634,7 @@
             <German>Getriebe</German>
             <Czech>Převodovka</Czech>
             <Polish>Skrzynia biegów</Polish>
-            <Russian>Трансмиссия</Russian>
+            <Russian>Трансмісія</Russian>
             <Portuguese>Transmissão</Portuguese>
             <Spanish>Transmisión</Spanish>
             <Italian>Trasmissione</Italian>
@@ -682,7 +682,7 @@
             <German>Leitwerk</German>
             <Polish>Ogon</Polish>
             <Czech>Ocas</Czech>
-            <Russian>Хвост</Russian>
+            <Russian>Хвіст</Russian>
             <Spanish>Tail</Spanish>
             <Portuguese>Cauda</Portuguese>
             <Italian>Coda</Italian>
@@ -698,7 +698,7 @@
             <German>Pitotrohr</German>
             <Polish>Rurka Pitota</Polish>
             <Czech>Pilotova Trubice</Czech>
-            <Russian>Кокпит</Russian>
+            <Russian>Pitot Tube</Russian>
             <Portuguese>Tubo de Pitot </Portuguese>
             <Spanish>Tubo del pitot </Spanish>
             <Italian>Tubo di Pitot</Italian>
@@ -713,7 +713,7 @@
             <English>Static Port</English>
             <German>Statik Port</German>
             <Polish>Port statyczny</Polish>
-            <Russian>Статический иллюминатор</Russian>
+            <Russian>Приймач повітряного тиску</Russian>
             <Portuguese>Porta Estática</Portuguese>
             <Spanish>Puerto estático</Spanish>
             <Czech>Statický port</Czech>
@@ -729,7 +729,7 @@
             <Czech>Munice</Czech>
             <German>Munition</German>
             <Polish>Amunicja</Polish>
-            <Russian>Боеприпасы</Russian>
+            <Russian>Боєукладка</Russian>
             <Portuguese>Munição</Portuguese>
             <Spanish>Munición</Spanish>
             <Italian>Munizioni</Italian>
@@ -750,7 +750,7 @@
             <Portuguese>Torre</Portuguese>
             <Italian>Torretta</Italian>
             <Hungarian>Lövegtorony</Hungarian>
-            <Russian>Башню</Russian>
+            <Russian>Турель</Russian>
             <Japanese>砲塔</Japanese>
             <Korean>포탑</Korean>
             <Chinesesimp>炮塔</Chinesesimp>
@@ -767,7 +767,7 @@
             <Portuguese>Canhão</Portuguese>
             <Italian>Cannone</Italian>
             <Hungarian>Ágyú</Hungarian>
-            <Russian>Пушку</Russian>
+            <Russian>Гармата</Russian>
             <Japanese>砲</Japanese>
             <Korean>포</Korean>
             <Chinesesimp>枪</Chinesesimp>
@@ -784,7 +784,7 @@
             <Portuguese>Comandante Torre</Portuguese>
             <Italian>Comandante Torretta</Italian>
             <Hungarian>Parancsnok Lövegtorony</Hungarian>
-            <Russian>Башня командира</Russian>
+            <Russian>Командирська башта</Russian>
             <Japanese>車長の砲塔</Japanese>
             <Korean>지휘관 포탑</Korean>
             <Chinesesimp>指挥官 炮塔</Chinesesimp>
@@ -801,7 +801,7 @@
             <Portuguese>Comandante Canhão</Portuguese>
             <Italian>Comandante Cannone</Italian>
             <Hungarian>Parancsnok Ágyú</Hungarian>
-            <Russian>Пушка командира</Russian>
+            <Russian>Командирська гармата</Russian>
             <Japanese>車長の砲</Japanese>
             <Korean>지휘관 포</Korean>
             <Chinesesimp>指挥官 枪</Chinesesimp>
@@ -812,7 +812,7 @@
             <English>Missiles</English>
             <German>Rakete</German>
             <Portuguese>Mísseis</Portuguese>
-            <Russian>Ракеты</Russian>
+            <Russian>Ракети</Russian>
             <Czech>Rakety</Czech>
             <Polish>Rakiety</Polish>
             <Spanish>Misiles</Spanish>
@@ -834,7 +834,7 @@
             <Portuguese>Esteira Esquerda</Portuguese>
             <Italian>Cingolo sinistro</Italian>
             <Hungarian>Bal lánctalp</Hungarian>
-            <Russian>Левую гусеницу</Russian>
+            <Russian>Лівий трак</Russian>
             <Japanese>左の履帯</Japanese>
             <Korean>왼쪽 궤도</Korean>
             <Chinesesimp>左履带</Chinesesimp>
@@ -850,7 +850,7 @@
             <Portuguese>Esteira Direita</Portuguese>
             <Italian>Cingolo destro</Italian>
             <Hungarian>Jobb lánctalp</Hungarian>
-            <Russian>Правую гусеницу</Russian>
+            <Russian>Правий трак</Russian>
             <Japanese>右の履帯</Japanese>
             <Korean>오른쪽 궤도</Korean>
             <Chinesesimp>右履带</Chinesesimp>
@@ -866,7 +866,7 @@
             <Portuguese>Roda Dianteira Esquerda</Portuguese>
             <Italian>Ruota frontale sinistra</Italian>
             <Hungarian>Bal első kerék</Hungarian>
-            <Russian>Левое переднее колесо</Russian>
+            <Russian>Ліве переднє колесо</Russian>
             <Japanese>左の前輪</Japanese>
             <Korean>왼쪽 앞바퀴</Korean>
             <Chinesesimp>左前轮</Chinesesimp>
@@ -882,7 +882,7 @@
             <Portuguese>Roda Dianteira Direita</Portuguese>
             <Italian>Ruota frontale destra</Italian>
             <Hungarian>Jobb első kerék</Hungarian>
-            <Russian>Правое переднее колесо</Russian>
+            <Russian>Праве переднє колесо</Russian>
             <Japanese>右の前輪</Japanese>
             <Korean>오른쪽 앞바퀴</Korean>
             <Chinesesimp>右前轮</Chinesesimp>
@@ -898,7 +898,7 @@
             <Portuguese>Segunda Roda Dianteira Esquerda</Portuguese>
             <Italian>Seconda ruota frontale sinistra</Italian>
             <Hungarian>Második bal első kerék</Hungarian>
-            <Russian>Второе переднее левое колесо</Russian>
+            <Russian>Друге ліве переднє колесо</Russian>
             <Japanese>左の 2 つめの前輪</Japanese>
             <Korean>왼쪽 두번째 바퀴</Korean>
             <Chinesesimp>第二左前轮</Chinesesimp>
@@ -914,7 +914,7 @@
             <Portuguese>Segunda Roda Dianteira Direita</Portuguese>
             <Italian>Seconda ruota frontale destra</Italian>
             <Hungarian>Második jobb hátsó kerék</Hungarian>
-            <Russian>Второе правое переднее колесо</Russian>
+            <Russian>Друге праве переднє колесо</Russian>
             <Japanese>右の 2 つめの前輪</Japanese>
             <Korean>오른쪽 두번째 바퀴</Korean>
             <Chinesesimp>第二右前轮</Chinesesimp>
@@ -930,7 +930,7 @@
             <Portuguese>Roda Intermediária Esquerda</Portuguese>
             <Italian>Ruota centrale sinistra</Italian>
             <Hungarian>Bal középső kerék</Hungarian>
-            <Russian>Левое среднее колесо</Russian>
+            <Russian>Ліве середнє колесо</Russian>
             <Japanese>左の中央の前輪</Japanese>
             <Korean>왼쪽 가운데 바퀴</Korean>
             <Chinesesimp>左中轮</Chinesesimp>
@@ -946,7 +946,7 @@
             <Portuguese>Roda Intermediária Direita</Portuguese>
             <Italian>Ruota centrale destra</Italian>
             <Hungarian>Jobb középső kerék</Hungarian>
-            <Russian>Правое среднее колесо</Russian>
+            <Russian>Праве середнє колесо</Russian>
             <Japanese>右の中央の前輪</Japanese>
             <Korean>오른족 가운데 바퀴</Korean>
             <Chinesesimp>右中轮</Chinesesimp>
@@ -962,7 +962,7 @@
             <Portuguese>Roda Traseira Esquerda</Portuguese>
             <Italian>Ruota posteriore sinistra</Italian>
             <Hungarian>Bal hátsó kerék</Hungarian>
-            <Russian>Левое заднее колесо</Russian>
+            <Russian>Ліве заднє колесо</Russian>
             <Japanese>左の後輪</Japanese>
             <Korean>왼쪽 뒤쪽 바퀴</Korean>
             <Chinesesimp>左后轮</Chinesesimp>
@@ -978,7 +978,7 @@
             <Portuguese>Roda Traseira Direita</Portuguese>
             <Italian>Ruota posteriore destra</Italian>
             <Hungarian>Jobb hátsó kerék</Hungarian>
-            <Russian>Правое заднее колесо</Russian>
+            <Russian>Праве заднє колесо</Russian>
             <Japanese>右の後輪</Japanese>
             <Korean>오른쪽 뒤쪽 바퀴</Korean>
             <Chinesesimp>右后轮</Chinesesimp>
@@ -994,7 +994,7 @@
             <Portuguese>Aviônica</Portuguese>
             <Italian>Avionica</Italian>
             <Hungarian>Avionika</Hungarian>
-            <Russian>Авионику</Russian>
+            <Russian>Авионика</Russian>
             <Japanese>アビオニクス</Japanese>
             <Korean>항공 전자</Korean>
             <Chinesesimp>航电系统</Chinesesimp>
@@ -1010,7 +1010,7 @@
             <Portuguese>Rotor Principal</Portuguese>
             <Italian>Rotore principale</Italian>
             <Hungarian>Főrotor</Hungarian>
-            <Russian>Несущий винт</Russian>
+            <Russian>Несучий гвинт</Russian>
             <Japanese>主翼</Japanese>
             <Korean>주 로터</Korean>
             <Chinesesimp>主旋翼</Chinesesimp>
@@ -1027,7 +1027,7 @@
             <Portuguese>Rotor de Cauda</Portuguese>
             <Italian>Rotore di coda</Italian>
             <Hungarian>Farokrotor</Hungarian>
-            <Russian>Рулевой винт</Russian>
+            <Russian>Хвостовий ротор</Russian>
             <Japanese>テイル ローター</Japanese>
             <Korean>꼬리 로터</Korean>
             <Chinesesimp>尾桨</Chinesesimp>
@@ -1039,7 +1039,7 @@
             <German>Seilwinde</German>
             <Polish>Wyciągarka</Polish>
             <Portuguese>Guincho</Portuguese>
-            <Russian>Лебедка</Russian>
+            <Russian>Мотовило</Russian>
             <Spanish>Cabrestante</Spanish>
             <Czech>Naviják</Czech>
             <Italian>Gancio</Italian>
@@ -1060,7 +1060,7 @@
             <Portuguese>Vidro (à direita)</Portuguese>
             <Italian>Vetro destro</Italian>
             <Hungarian>Jobb szélvédő</Hungarian>
-            <Russian>Стекло (справа)</Russian>
+            <Russian>Скло (праве)</Russian>
             <Japanese>ガラス (右)</Japanese>
             <Korean>유리 (오른쪽)</Korean>
             <Chinesesimp>玻璃 (右)</Chinesesimp>
@@ -1073,11 +1073,11 @@
             <Spanish>Ventana (izquierda)</Spanish>
             <French>Vitre (gauche)</French>
             <Polish>Szyba (lewa)</Polish>
-            <Czech>Sklo (pravé)</Czech>
+            <Czech>Скло (ліве)</Czech>
             <Portuguese>Vidro (à esquerda)</Portuguese>
             <Italian>Vetro sinistro</Italian>
             <Hungarian>Bal szélvédő</Hungarian>
-            <Russian>Стекло (слава)</Russian>
+            <Russian>Скло (ліве)</Russian>
             <Japanese>ガラス (左)</Japanese>
             <Korean>유리 (왼쪽)</Korean>
             <Chinesesimp>玻璃 (左)</Chinesesimp>
@@ -1086,6 +1086,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_HitGlass">
             <English>Glass</English>
+            <Russian>Скло</Russian>
             <German>Scheibe</German>
             <Spanish>Ventana</Spanish>
             <French>Vitre</French>
@@ -1094,7 +1095,6 @@
             <Portuguese>Vidro</Portuguese>
             <Italian>Vetro</Italian>
             <Hungarian>Üveg</Hungarian>
-            <Russian>Стекло</Russian>
             <Japanese>ガラス</Japanese>
             <Korean>유리</Korean>
             <Chinesesimp>玻璃</Chinesesimp>
@@ -1110,7 +1110,7 @@
             <Spanish>ERA</Spanish>
             <French>Blindage réactif</French>
             <Portuguese>ERA</Portuguese>
-            <Russian>ДЗ</Russian>
+            <Russian>Динамічний Захист</Russian>
             <Japanese>ERA</Japanese>
             <Korean>폭발반응장갑</Korean>
             <Chinesesimp>爆炸式反应装甲</Chinesesimp>
@@ -1121,7 +1121,7 @@
             <German>Reperatureinstellungen</German>
             <Polish>Ustawienia naprawy</Polish>
             <Portuguese>Preferências de reparo</Portuguese>
-            <Russian>Ремонт</Russian>
+            <Russian>Параметри Ремонту</Russian>
             <Spanish>Ajustes de reparación</Spanish>
             <Czech>Nastavení oprav</Czech>
             <Italian>Impostazioni Riparazioni</Italian>
@@ -1136,7 +1136,7 @@
             <German>Stellt ein Reperatursystem für alle Arten von Fahrzeugen zur Verfügung.</German>
             <Polish>Dostarcza rozbudowany system naprawy dla wszystkich typów pojazdów.</Polish>
             <Portuguese>Provém um sistema de reparo para todos os veículos</Portuguese>
-            <Russian>Предоставляет систему ремонта для всех типов транспортных средств.</Russian>
+            <Russian>Забеспечує систему ремонту для всіх типів техніки</Russian>
             <Spanish>Proporciona un sistema de reparación para todo tipo de vehículos.</Spanish>
             <Czech>Poskytuje rozsáhlý systém oprav pro všechny typy vozidel.</Czech>
             <Italian>Fornisce un sistema di riparazione per tutti i tipi di veicoli.</Italian>
@@ -1151,7 +1151,7 @@
             <German>Jeder</German>
             <Polish>Ktokolwiek</Polish>
             <Portuguese>Qualquer um</Portuguese>
-            <Russian>Кто угодно</Russian>
+            <Russian>Будь-хто</Russian>
             <Czech>Kdokoliv</Czech>
             <Spanish>Cualquiera</Spanish>
             <Italian>Chiunque</Italian>
@@ -1167,7 +1167,7 @@
             <German>Pionier</German>
             <Polish>Tylko mechanicy</Polish>
             <Portuguese>Somente engenheiro</Portuguese>
-            <Russian>Только инженеры</Russian>
+            <Russian>Тільки Механік</Russian>
             <Czech>Pouze inženýr</Czech>
             <Spanish>Solo ingeniero</Spanish>
             <Italian>Solo Geniere</Italian>
@@ -1187,7 +1187,7 @@
             <Chinese>只有維修專精兵</Chinese>
             <Polish>Tylko zaawansowani mechanicy</Polish>
             <Korean>고급 정비공만</Korean>
-            <Russian>Только продвинутые инженеры</Russian>
+            <Russian>Тільки Інженер-Механік</Russian>
             <Portuguese>Somente engenheiro avançado</Portuguese>
             <French>Ing. avancés uniquement</French>
             <Czech>Pouze pokročilý inženýr</Czech>
@@ -1199,7 +1199,7 @@
             <German>Erlaube Radwechsel</German>
             <Polish>Wymiana kół</Polish>
             <Portuguese>Permite rodas</Portuguese>
-            <Russian>Разрешить замену колес</Russian>
+            <Russian>Дозволити заміну коліс</Russian>
             <Czech>Možnost Výměny Kol</Czech>
             <Spanish>Permitir rueda</Spanish>
             <Italian>Consenti Ruota</Italian>
@@ -1214,7 +1214,7 @@
             <German>Wer kann Radwechsel durchführern?</German>
             <Polish>Kto może zdejmować i zmieniać koła?</Polish>
             <Portuguese>Quem pode remover e trocar rodas?</Portuguese>
-            <Russian>Кто может снимать и заменять колеса?</Russian>
+            <Russian>Хто може знімати та замінювати колеса?</Russian>
             <Czech>Kdo může odstranit a vyměnit kola?</Czech>
             <Spanish>¿Quién puede quitar y cambiar las ruedas?</Spanish>
             <Italian>Chi può rimuovere e sostituire le ruote?</Italian>
@@ -1229,7 +1229,7 @@
             <German>Erlaube Reperatur</German>
             <Polish>Możliwość naprawy</Polish>
             <Portuguese>Permite reparo</Portuguese>
-            <Russian>Разрешить ремонт</Russian>
+            <Russian>Дозволити ремонт</Russian>
             <Czech>Možnost Opravování</Czech>
             <Spanish>Permitir reparación</Spanish>
             <Italian>Consenti Riparazioni</Italian>
@@ -1244,7 +1244,7 @@
             <German>Wer kann eine Reperatur durchführen?</German>
             <Polish>Kto może wykonywać czynności związane z naprawą pojazdów?</Polish>
             <Portuguese>Quem pode executar ações de reparo?</Portuguese>
-            <Russian>Кто может выполнять ремонт?</Russian>
+            <Russian>Кому дозволено виконувати ремонт?</Russian>
             <Czech>Kdo může provádět opravy?</Czech>
             <Spanish>¿Quién puede realizar reparaciones?</Spanish>
             <Italian>Chi può eseguire riparazioni?</Italian>
@@ -1259,7 +1259,7 @@
             <German>Reparaturlimit</German>
             <Polish>Próg naprawy</Polish>
             <Portuguese>Limite de reparo</Portuguese>
-            <Russian>Лимит ремкомплекта</Russian>
+            <Russian>Обмеження Інструментів</Russian>
             <Spanish>Umbral de reparación</Spanish>
             <Czech>Práh oprav</Czech>
             <Italian>Limite Riparazioni</Italian>
@@ -1274,7 +1274,7 @@
             <German>Der maximale Schaden, der von einem Reperatursatz behoben werden kann?</German>
             <Polish>Jaki jest maksymalny poziom uszkodzeń jaki może zostać naprawiony przy pomocy narzędzi?</Polish>
             <Portuguese>Qual é o dano máximo que pode ser reparado com um kit de ferramentas?</Portuguese>
-            <Russian>Какой максимальный урон можно починить с помощью ремкомплекта?</Russian>
+            <Russian>Максимальні пошкодження, що можна відремонтувати за допомогою Інструментів?</Russian>
             <Spanish>¿Cuál es el daño máximo que puede ser reparado con una caja de herramientas?</Spanish>
             <Czech>Jaké maximální poškození může být opraveno pomocí opravárenské sady?</Czech>
             <Italian>Qual'è il danno massimo che può essere riparato con il Toolkit?</Italian>
@@ -1289,7 +1289,7 @@
             <German>Reparaturlimit (Pionier)</German>
             <Polish>Próg naprawy (mechanik)</Polish>
             <Portuguese>Limite de reparo (Engenheiro)</Portuguese>
-            <Russian>Лимит инженера</Russian>
+            <Russian>Обмеження Механіка</Russian>
             <Spanish>Umbral de Reparación (Ingeniero)</Spanish>
             <Czech>Práh oprav (Inženýr)</Czech>
             <Italian>Limite Riparazioni (Geniere)</Italian>
@@ -1304,7 +1304,7 @@
             <German>Der maximale Schaden, der von einem Pionier behoben werden kann?</German>
             <Polish>Jaki jest maksymalny poziom uszkodzeń jaki może zostać naprawiony przez mechanika?</Polish>
             <Portuguese>Qual é o dano máximo que pode ser reparado com um engenheiro?</Portuguese>
-            <Russian>Какой максимальный урон может починить инженер?</Russian>
+            <Russian>Максимальні пошкодження, яке може відремонтувати Механік?</Russian>
             <Spanish>¿Cuál es el daño máximo que puede ser reparado por un ingeniero?</Spanish>
             <Czech>Jaké maximální poškození může být opraveno pomoci inženýra?</Czech>
             <Italian>Qual'è il danno massimo che può essere riparato da un Geniere?</Italian>
@@ -1319,7 +1319,7 @@
             <German>Entferne Reperatursatz bei Verwendung</German>
             <Polish>Usuń narzędzia po użyciu</Polish>
             <Portuguese>Remover kit de ferramentas</Portuguese>
-            <Russian>Удалять ремкомплект после использования</Russian>
+            <Russian>Видаляти ремкомплект після використання</Russian>
             <Spanish>Eliminar conjunto de herramientas al usarlo</Spanish>
             <Czech>Odstranit sadu nástrojů po použití</Czech>
             <Italian>Rimuovi Toolkit dopo l'uso</Italian>
@@ -1334,7 +1334,7 @@
             <German>Soll der Reperatursatz bei Verwendung entfernt werden?</German>
             <Polish>Czy zestaw naprawczy powinien zostać usunięty po jego użyciu?</Polish>
             <Portuguese>O kit de ferramentas deve ser removido após uso?</Portuguese>
-            <Russian>Следует ли удалять ремкомплект после использования?</Russian>
+            <Russian>Чи необхідно видаляти ремкомплект після використання?</Russian>
             <Spanish>¿Deben retirarse las herramientas al usarlas?</Spanish>
             <Czech>Má být odstraněna sada nástroju po použití?</Czech>
             <Italian>Il Toolkit dev'essere rimosso dopo l'uso?</Italian>
@@ -1349,7 +1349,7 @@
             <German>Irgendwo</German>
             <Polish>Wszędzie</Polish>
             <Portuguese>Qualquer lugar</Portuguese>
-            <Russian>Где угодно</Russian>
+            <Russian>Де завгодно</Russian>
             <Czech>Kdekoliv</Czech>
             <Spanish>En cualquier sitio</Spanish>
             <Italian>Ovunque</Italian>
@@ -1364,7 +1364,7 @@
             <German>Nur Reperaturfahrzeug</German>
             <Polish>Przy pojazdach naprawczych</Polish>
             <Portuguese>Somente veículos de reparo</Portuguese>
-            <Russian>Только у ремонтного транспорта</Russian>
+            <Russian>Тільки у ремонтної техніки</Russian>
             <Spanish>Reparar solo en vehículo</Spanish>
             <Czech>Pouze opravárenské vozidlo</Czech>
             <Italian>Solo Veicoli Riparazioni</Italian>
@@ -1379,7 +1379,7 @@
             <German>Nur Reperatureinrichtung</German>
             <Polish>Przy budynkach naprawczych</Polish>
             <Portuguese>Somente instalação de reparo</Portuguese>
-            <Russian>Только у ремонтных сооружений</Russian>
+            <Russian>Тільки у ремонтних об'єктів</Russian>
             <Spanish>Reparar solo en instalación</Spanish>
             <Czech>Pouze opravárenské zařízení</Czech>
             <Italian>Solo Strutture Riparazioni</Italian>
@@ -1394,7 +1394,7 @@
             <German>Reperatureinrichtung oder Reperaturfahrzeug</German>
             <Polish>Przy budynkach i pojazdach naprawczych</Polish>
             <Portuguese>Instalação e veículo de reparo</Portuguese>
-            <Russian>Только у ремонтного транспорта или ремонтных сооружений</Russian>
+            <Russian>Тільки у ремонтних об'єктів або техніки</Russian>
             <Spanish>Reparar en instalación o vehículo</Spanish>
             <Czech>Opravárenské zařízení nebo vozidlo</Czech>
             <Italian>Strutture Riparazioni o Veicoli</Italian>
@@ -1409,7 +1409,7 @@
             <German>Weise Pionier zu</German>
             <Polish>Przydziel inżyniera</Polish>
             <Portuguese>Definir engenheiro</Portuguese>
-            <Russian>Назначить инженером</Russian>
+            <Russian>Призначити Механіком</Russian>
             <Czech>Přiřadit Inženýra</Czech>
             <Spanish>Asignar ingeniero</Spanish>
             <Italian>Assegna Geniere</Italian>
@@ -1439,7 +1439,7 @@
             <German>Eine Aufzählung von Einheiten, die als Pionier gelten, und durch Kommata getrennt sind.</German>
             <Polish>Lista nazw jednostek, które są sklasyfikowane jako inżynierowie, oddzielone przecinkami.</Polish>
             <Portuguese>Lista de nomes de unidades que serão classificadas como engenheiros, separadas por vírgulas.</Portuguese>
-            <Russian>Список имен юнитов, которые будут классифицированы как инженеры, разделенный запятыми.</Russian>
+            <Russian>Список імен юнітів, які будуть класифіковані як Механіки (інженери), розділений комами</Russian>
             <Spanish>Lista de los nombres de las unidades que serán clasificados como ingeniero, separados por comas.</Spanish>
             <Czech>Seznam jmen jednotek, které budou klasifikovány jako inženýr, oddělit čárkami.</Czech>
             <Italian>Lista di unità che verranno classificate come genieri, separate da virgole.</Italian>
@@ -1454,7 +1454,7 @@
             <German>Ist Pionier</German>
             <Polish>Poziom wyszkolenia</Polish>
             <Portuguese>É engenheiro</Portuguese>
-            <Russian>Это инженер</Russian>
+            <Russian>Є Механіком</Russian>
             <Spanish>Es un ingeniero</Spanish>
             <Czech>Inženýr</Czech>
             <Italian>E' Geniere</Italian>
@@ -1469,7 +1469,7 @@
             <German>Wählt die Eignungsstufe zur Ausübung des Pioniers für diese Einheit</German>
             <Polish>Wybierz biegłość w dziedzinie naprawy danej jednostki</Polish>
             <Portuguese>Selecione o nível de habilidade da unidade em engenhraria</Portuguese>
-            <Russian>Укажите уровень инженерного мастерства для юнита</Russian>
+            <Russian>Вкажіть рівень інженерної майстерності для юніта</Russian>
             <Spanish>Selecciona el nivel de conocimientos de ingeniería de la unidad</Spanish>
             <Czech>Vyberte úroveň dovednosti inženýra pro jednotku</Czech>
             <Italian>Seleziona il livello di abilità geniere dell'unità</Italian>
@@ -1484,7 +1484,7 @@
             <German>Keine</German>
             <Polish>Żadny</Polish>
             <Portuguese>Nenhum</Portuguese>
-            <Russian>Нет</Russian>
+            <Russian>Немає</Russian>
             <Czech>Nikdo</Czech>
             <Spanish>Ningún</Spanish>
             <Italian>Nessuna</Italian>
@@ -1500,7 +1500,7 @@
             <German>Pionier</German>
             <Polish>Mechanik</Polish>
             <Portuguese>Engenheiro</Portuguese>
-            <Russian>Инженер</Russian>
+            <Russian>Механік</Russian>
             <Czech>Inženýr</Czech>
             <Spanish>Ingeniero</Spanish>
             <Italian>Geniere</Italian>
@@ -1521,7 +1521,7 @@
             <Chinese>專精</Chinese>
             <Polish>Zaaw. mechanik</Polish>
             <Korean>고급 정비공</Korean>
-            <Russian>Продв. Инженер</Russian>
+            <Russian>Інженер-Механік</Russian>
             <Portuguese>Engenheiro Avançado</Portuguese>
             <French>Ing. avancé</French>
             <Czech>Pokročilý Inženýr</Czech>
@@ -1533,7 +1533,7 @@
             <German>Weist einen oder mehrere Einheiten der Pionierklasse zu.</German>
             <Polish>Przydziel klasę inżyniera do jednej lub kilku jednostek </Polish>
             <Portuguese>Defina um ou mais unidades como engenheiro</Portuguese>
-            <Russian>Назначить одного или нескольких юнитов инженерами</Russian>
+            <Russian>Призначити одного або декількох юнітів механіками</Russian>
             <Spanish>Asignar una o varias unidades como ingeniero</Spanish>
             <Czech>Přiřaďte jednu nebo více osob jako inženýra</Czech>
             <Italian>Assegna una o più unità come genieri</Italian>
@@ -1548,7 +1548,7 @@
             <German>Weise Reperaturfahrzeug zu</German>
             <Polish>Przydziel pojazd naprawczy</Polish>
             <Portuguese>Defina veículo de reparo</Portuguese>
-            <Russian>Назначить ремонтный транспорт</Russian>
+            <Russian>Призначити техніку як ремонтну</Russian>
             <Spanish>Asignar vehículo de reparación</Spanish>
             <Czech>Přiřaďte opraváresnké vozidlo</Czech>
             <Italian>Assegna Veicolo Riparazioni</Italian>
@@ -1578,7 +1578,7 @@
             <German>Eine Aufzählung von Fahrzeugen, die als Reperaturfahrzeug gelten, getrennt durch Kommata</German>
             <Polish>Lista nazw pojazdów, które są sklasyfikowane jako pojazdy naprawcze, oddzielone przecinkami.</Polish>
             <Portuguese>Lista de veículos que serão classificadas como veículo de reparo. Separado por vígulas.</Portuguese>
-            <Russian>Список транспортных средств, которые будут классифицированы как ремонтные, разделенный запятыми.</Russian>
+            <Russian>Список техніки, що буде класифікована як ремонтна, розділений комами.</Russian>
             <Spanish>Lista de los vehículos que se clasifican como vehículo de reparación, separados por comas.</Spanish>
             <Czech>Seznam vozidel, která budou klasifikována jako opravárenská, oddělit čárkami.</Czech>
             <Italian>Lista di Veicoli che verranno considerati veicoli riparazioni, separati da virgole.</Italian>
@@ -1593,7 +1593,7 @@
             <German>Ist Reparaturfahrzeug</German>
             <Polish>Jest poj. naprawczym</Polish>
             <Portuguese>É veículo de reparo</Portuguese>
-            <Russian>Это ремонтный транспорт</Russian>
+            <Russian>Це ремонтна техніка</Russian>
             <Spanish>Es un vehículo de reparación</Spanish>
             <Czech>Opravárenské vozidlo</Czech>
             <Italian>E' Veicolo Riparazioni</Italian>
@@ -1608,7 +1608,7 @@
             <German>Gilt dieses Fahrzeug als Reperaturfahrzeug?</German>
             <Polish>Czy pojazd jest zklasyfikowany jako pojazd naprawczy?</Polish>
             <Portuguese>O veículo é classificado como reparo?</Portuguese>
-            <Russian>Классифицируется ли этот транспорт как ремонтный?</Russian>
+            <Russian>Класифікувати техніку як ремонтну?</Russian>
             <Spanish>¿Está el vehículo clasificado como un vehículo de reparación?</Spanish>
             <Czech>Je vozidlo klasifikováno jako opravárenské?</Czech>
             <Italian>Il veicolo è classificato dome veicolo riparazioni?</Italian>
@@ -1623,7 +1623,7 @@
             <German>Weist ein oder mehr Fahrzeuge als Reperaturfahrzeug zu</German>
             <Polish>Przydziel klasę pojazdu naprawczego do jednego lub kilku pojazdów.</Polish>
             <Portuguese>Definir um ou mais veículos como reparo</Portuguese>
-            <Russian>Назначить одно или несколько транспортных средств ремонтными</Russian>
+            <Russian>Призначити один або кілька транспортних засобів ремонтними</Russian>
             <Spanish>Asignar uno o varios vehículos como vehículo de reparación</Spanish>
             <Czech>Přiřaďte jedno nebo více vozidel jako opravárenské vozidlo</Czech>
             <Italian>Assegna uno o più veicoli come veicoli riparazioni</Italian>
@@ -1638,7 +1638,7 @@
             <German>Weise Reperatureinrichtung zu</German>
             <Polish>Przydziel budynek naprawczy</Polish>
             <Portuguese>Definir instalação de reparo</Portuguese>
-            <Russian>Назначить ремонтное сооружение</Russian>
+            <Russian>Призначити ремонтний об'экт</Russian>
             <Spanish>Asignar instalación de reparación</Spanish>
             <Czech>Přiřaďte opravárenské zařízení</Czech>
             <Italian>Assegna Struttura Riparazioni</Italian>
@@ -1668,7 +1668,7 @@
             <German>Eine Aufzählung von Objekten, die als Reperatureinrichtung gelten, und durch Kommata getrennt sind.</German>
             <Polish>Lista nazw budynków, które są sklasyfikowane jako budynki naprawcze, oddzielone przecinkami.</Polish>
             <Portuguese>Lista de objetos que serão classificados como instalações de reparo. separado por vírgulas.</Portuguese>
-            <Russian>Список объектов, которые будут классифицированы как ремонтные, разделенный запятыми.</Russian>
+            <Russian>Список об'єктів, які будуть класифіковані як ремонтні, розділений комами</Russian>
             <Spanish>Lista de los objetos que se clasifican como instalaciones para la reparación, separados por comas.</Spanish>
             <Czech>Seznam objektů, které budou klasifikovány jako opravárenské zařízení, oddělit čárkami.</Czech>
             <Italian>Lista di oggetti che verranno classificati come strutture riparazioni, separate da virgole.</Italian>
@@ -1683,7 +1683,7 @@
             <German>Ist Reperatureinrichtung</German>
             <Polish>Jest bud. naprawczym</Polish>
             <Portuguese>É uma instalação de reparo</Portuguese>
-            <Russian>Это ремонтное сооружение</Russian>
+            <Russian>Це ремонтний об'єкт</Russian>
             <Spanish>Es una instalación de reparación</Spanish>
             <Czech>Opravárenské zařízení</Czech>
             <Italian>E' Struttura Riparazioni</Italian>
@@ -1698,7 +1698,7 @@
             <German>Ist das Objekt als Reperatureinrichtung zugewiesen?</German>
             <Polish>Czy budynek jest zklasyfikowany jako budynek naprawczy?</Polish>
             <Portuguese>O objeto é classificado como instalação de reparo?</Portuguese>
-            <Russian>Классифицируется ли этот объект как ремонтное сооружение?</Russian>
+            <Russian>Класифікувати цей об'єкт як ремонтний?</Russian>
             <Spanish>¿Está el objeto clasificado como una instalación de reparación?</Spanish>
             <Czech>Je objekt klasifikován jako opravárenské zařízení?</Czech>
             <Italian>L'oggetto è classificato come struttura riparazioni?</Italian>
@@ -1712,7 +1712,7 @@
             <English>Assign one or multiple objects as a repair Facility</English>
             <German>Weist eines oder mehrere Objekte als Reperatureinrichtung zu</German>
             <Polish>Przydziel klasę budynku naprawczego do jednego lub kilku budynków.</Polish>
-            <Russian>Назначить один или несколько объектов ремонтными сооружениями</Russian>
+            <Russian>Призначити один або кілька об'єктів в якості ремонтних</Russian>
             <Portuguese>Definir um ou mais objetos como instalação de reparos</Portuguese>
             <Spanish>Asignar uno o varios objetos como una instalación de reparación</Spanish>
             <Czech>Přiřaďte jeden nebo více objektů jako opravárenské zařízení</Czech>
@@ -1729,7 +1729,7 @@
             <Polish>Dodaj części zam.</Polish>
             <Portuguese>Adicionar partes sobressalentes</Portuguese>
             <Spanish>Añadir repuestos</Spanish>
-            <Russian>Добавить запчасти</Russian>
+            <Russian>Додати запчастини</Russian>
             <Czech>Přidat náhradní díly</Czech>
             <Italian>Aggiungi Parti di Ricambio</Italian>
             <French>Ajouter des pièces de rechange</French>
@@ -1744,7 +1744,7 @@
             <Polish>Dodaj części zamienne do jednego lub wielu obiektów.</Polish>
             <Portuguese>Adicionar partes sobressalentes para um ou mais objetos</Portuguese>
             <Spanish>Añadir repuestos a uno o varios objetos</Spanish>
-            <Russian>Добавить запасные части в одно или несколько транспортных средств</Russian>
+            <Russian>Додати запчастини в один або кілька транспортних засобів</Russian>
             <Czech>Přidat náhradní díly do jednoho nebo více objektů</Czech>
             <Italian>Aggiungi parti di ricambio ad uno o più oggetti</Italian>
             <French>Ajoute des pièces de rechange à un ou plusieurs objets.</French>
@@ -1775,7 +1775,7 @@
             <Polish>Lista obiektów, które otrzymają części zamienne, oddzielone przecinkiem.</Polish>
             <Portuguese>Lista de objetos que ganharão partes sobressalentes, dividos por vírgulas.</Portuguese>
             <Spanish>Lista de los objetos que tendrán repuestos añadidos, separados por comas.</Spanish>
-            <Russian>Список транспортных средств, в которые будут добавляться запчасти, разделенный запятыми.</Russian>
+            <Russian>Список транспортних засобів, в які будуть додаватися запчастини, розділений комами</Russian>
             <Czech>Seznam objektů, které dostanou náhradní díly, oddělit čárkami.</Czech>
             <Italian>Lista di oggetti a cui verranno aggiunte parti di ricambio, separate da virgole.</Italian>
             <French>Liste d'objets dans lesquels des pièces de rechange seront ajoutées, séparés par des virgules.</French>
@@ -1790,7 +1790,7 @@
             <Polish>Część</Polish>
             <Portuguese>Parte</Portuguese>
             <Spanish>Pieza</Spanish>
-            <Russian>Запчасть</Russian>
+            <Russian>Запчастина</Russian>
             <Czech>Díl</Czech>
             <Italian>Parte</Italian>
             <French>Pièce</French>
@@ -1805,7 +1805,7 @@
             <Polish>Część zamienna.</Polish>
             <Portuguese>Parte sobressalente</Portuguese>
             <Spanish>Pieza de recambio.</Spanish>
-            <Russian>Запасная часть.</Russian>
+            <Russian>Запасна частина</Russian>
             <Czech>Náhradní díl.</Czech>
             <Italian>Parte di ricambio.</Italian>
             <French>Pièce de rechange</French>
@@ -1820,7 +1820,7 @@
             <Polish>Ilość</Polish>
             <Portuguese>Quantidade</Portuguese>
             <Spanish>Cantidad</Spanish>
-            <Russian>Количество</Russian>
+            <Russian>Кількість</Russian>
             <Czech>Množství</Czech>
             <Italian>Quantità</Italian>
             <French>Quantité</French>
@@ -1835,7 +1835,7 @@
             <Polish>Ilość wybranych części zamiennych.</Polish>
             <Portuguese>Número de partes sobressalentes.</Portuguese>
             <Spanish>Número de piezas de repuesto seleccionados.</Spanish>
-            <Russian>Число выбранных запасных частей.</Russian>
+            <Russian>Число вибраних запасних частин</Russian>
             <Czech>Počet vybraných náhradních dílů.</Czech>
             <Italian>Numero di parti di ricambio selezionate.</Italian>
             <French>Nombre de pièces de rechange séléctionnées.</French>
@@ -1849,7 +1849,7 @@
             <German>Erfordernisse zur Reifenreperatur</German>
             <Polish>Wym. naprawy kół</Polish>
             <Spanish>Requisitos de reparación de ruedas</Spanish>
-            <Russian>Для ремонта колес требуется</Russian>
+            <Russian>Для ремонту коліс потрібно</Russian>
             <Portuguese>Requerimentos para reparo de rodas</Portuguese>
             <Czech>Vyžaduje opravu kol</Czech>
             <Italian>Requisiti riparazione ruote</Italian>
@@ -1864,7 +1864,7 @@
             <German>Gegenstänge, die zum Entfernen/Austauschen eines Reifens benötigt werden</German>
             <Polish>Przedmioty potrzebne do wymiany kół</Polish>
             <Spanish>Elementos necesarios para quitar/cambiar ruedas</Spanish>
-            <Russian>Предметы, которые требуются для снятия/замены колес</Russian>
+            <Russian>Предмети, що необхідні для зняття/заміни коліс</Russian>
             <Portuguese>Itens requeridos para remover/trocar rodas</Portuguese>
             <Czech>Položka vyžaduje odstraněná/vyměněná kola</Czech>
             <Italian>Oggetti richiesti per riparare/rimuovere ruote</Italian>
@@ -1876,6 +1876,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_MiscRepairRequiredItems_DisplayName">
             <English>Misc Repair Requirements</English>
+            <Russian>Різні вимоги до ремонту</Russian>
             <Japanese>部分修理条件</Japanese>
             <Chinese>額外修理條件</Chinese>
             <French>Exigences pour réparations diverses</French>
@@ -1887,6 +1888,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_MiscRepairRequiredItems_Description">
             <English>Items required to repair a specific vehicle component or remove/replace tracks.</English>
+            <Russian>Предмети, що необхідні для ремонту конкретного компонента техніки або зняття/заміни траків</Russian>
             <Japanese>車両の特定コンポーネントか履帯の除去/交換にアイテムを必要とします。</Japanese>
             <Chinese>是否需要物品來修復一些特別載具部位或者移除/替換履帶</Chinese>
             <French>Outils nécessaires pour la réparation d'un équipement spécifique du véhicule, et pour le démontage ou le remplacement des chenilles.</French>
@@ -1898,6 +1900,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_FullRepairRequiredItems_DisplayName">
             <English>Full Repair Requirements</English>
+            <Russian>Вимоги до повного ремонту</Russian>
             <Japanese>完全修理条件</Japanese>
             <Chinese>完整修復條件</Chinese>
             <French>Exigences pour réparations complètes</French>
@@ -1909,6 +1912,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_FullRepairRequiredItems_Description">
             <English>Items required to perform a full vehicle repair.</English>
+            <Russian>Предмети, що необхідні для повного ремонту техніки</Russian>
             <Japanese>車両の完全修理にアイテムを必要とします。</Japanese>
             <Chinese>是否需要物品來完整修復載具</Chinese>
             <French>Outils nécessaires pour effectuer une réparation complète des véhicules.</French>
@@ -1925,7 +1929,7 @@
             <Czech>Pro opravu je zapotřebí vypnout motor</Czech>
             <Portuguese>O motor deve estar desligado para manutenção</Portuguese>
             <French>Le moteur doit être arrêté pour la réparation.</French>
-            <Russian>Двигатель должен быть выключен для ремонта</Russian>
+            <Russian>Двигун повинен бути вимкнений для ремонту</Russian>
             <Japanese>修理のためにエンジンを停止させる必要があります。</Japanese>
             <Polish>Silnik musi być wyłączony w celu naprawy</Polish>
             <Korean>수리를 위해서는 엔진을 꺼야만 합니다</Korean>
@@ -1941,7 +1945,7 @@
             <Chinese>備用履帶</Chinese>
             <Chinesesimp>备用履带</Chinesesimp>
             <Polish>Zapasowe Gąsienice</Polish>
-            <Russian>Запасные траки</Russian>
+            <Russian>Запасні траки</Russian>
             <Portuguese>Esteiras Reservas</Portuguese>
             <French>Chenilles de rechange</French>
             <Czech>Náhradní pásy</Czech>
@@ -1955,7 +1959,7 @@
             <Chinese>設定載具在貨艙內攜帶的備用履帶數量</Chinese>
             <Chinesesimp>设定载具在货舱内携带的备用履带数量。</Chinesesimp>
             <Polish>Liczba zapasowych gąsienic w ładunku.</Polish>
-            <Russian>Количество запасных траков в грузовом отсеке</Russian>
+            <Russian>Кількість запасних траків у вантажному відсіку</Russian>
             <Portuguese>Número de esteiras reservas na Carga</Portuguese>
             <French>Nombre de chenilles de rechange dans la cargaison.</French>
             <Czech>Počet náhradních pásů v nákladovém prostoru vozidla.</Czech>
@@ -1969,7 +1973,7 @@
             <Chinese>備用輪胎</Chinese>
             <Chinesesimp>备用轮胎</Chinesesimp>
             <Polish>Zapasowe Koła</Polish>
-            <Russian>Запасные колеса</Russian>
+            <Russian>Запасні колеса</Russian>
             <Portuguese>Pneus Reservas</Portuguese>
             <French>Roues de secours</French>
             <Czech>Náhradní kola</Czech>
@@ -1983,7 +1987,7 @@
             <Chinese>設定載具在貨艙內攜帶的備用輪胎數量</Chinese>
             <Chinesesimp>设定载具在货舱内携带的备用轮胎数量。</Chinesesimp>
             <Polish>Liczba zapasowych kół w ładunku.</Polish>
-            <Russian>Количество запасных колес в грузовом отсеке</Russian>
+            <Russian>Кількість запасних коліс в вантажному відсіку</Russian>
             <Portuguese>Número de pneus reservas na Carga</Portuguese>
             <French>Nombre de roues de secours dans la cargaison.</French>
             <Czech>Počet náhradních kol v nákladovém prostoru vozidla.</Czech>
@@ -1997,7 +2001,7 @@
             <Chinese>維修時自動關閉引擎</Chinese>
             <Italian>Motore spento automaticamente durante la riparazione</Italian>
             <Polish>Automatycznie wyłącz silnik podczas napraw</Polish>
-            <Russian>Автоотключение двигателя при ремонте</Russian>
+            <Russian>Автовідключення двигуна при ремонті</Russian>
             <Portuguese>Desligar motor automaticamente enquanto reparar</Portuguese>
             <French>Arrêt auto du moteur lors d'une réparation</French>
             <Czech>Automaticky vypnout motor při opravách</Czech>
@@ -2011,7 +2015,7 @@
             <Chinese>維修時自動關閉引擎</Chinese>
             <Italian>Spegne automaticamente il motore quando si fanno riparazioni.</Italian>
             <Polish>Automatycznie wyłącz silnik podczas napraw.</Polish>
-            <Russian>Автоматически отключать двигатель при выполнении ремонта</Russian>
+            <Russian>Автоматично відключати двигун при виконанні ремонту</Russian>
             <Portuguese>Automaticamente desliga o motor quando iniciar o reparo do veículo.</Portuguese>
             <French>Coupe automatiquement le moteur lorsque des réparations sont effectuées.</French>
             <Czech>Automaticky vypne motor při zahájení oprav.</Czech>

@@ -20,7 +20,7 @@
         <Key ID="STR_ACE_Dogtags_checkItem">
             <English>Check Dog Tag</English>
             <Polish>Sprawdź nieśmiertelnik</Polish>
-            <Russian>Проверить жетон</Russian>
+            <Russian>Перевірити жетон</Russian>
             <Czech>Zkontrolovat známku</Czech>
             <Japanese>ドッグ タグを見る</Japanese>
             <German>Hundemarke prüfen</German>
@@ -36,7 +36,7 @@
         <Key ID="STR_ACE_Dogtags_checkDogtag">
             <English>Check</English>
             <Polish>Sprawdź</Polish>
-            <Russian>Проверить</Russian>
+            <Russian>Перевірити</Russian>
             <Czech>Zkontroluj</Czech>
             <Japanese>見る</Japanese>
             <German>Prüfen</German>
@@ -52,7 +52,7 @@
         <Key ID="STR_ACE_Dogtags_takeDogtag">
             <English>Take</English>
             <Polish>Zabierz</Polish>
-            <Russian>Взять</Russian>
+            <Russian>Взяти</Russian>
             <Czech>Vezmi</Czech>
             <Japanese>取る</Japanese>
             <German>Nehmen</German>
@@ -68,7 +68,7 @@
         <Key ID="STR_ACE_Dogtags_takeDogtagSuccess">
             <English>Dogtag taken from %1...</English>
             <Polish>Zabrałeś nieśmiertelnik %1...</Polish>
-            <Russian>Жетон снят с %1...</Russian>
+            <Russian>Жетон знятий з %1...</Russian>
             <Czech>Sebral jsem známku od %1...</Czech>
             <Japanese>%1からドッグ タグを取っています・・・</Japanese>
             <German>Hundemarke von %1 genommen ...</German>
@@ -84,7 +84,7 @@
         <Key ID="STR_ACE_Dogtags_dogtagAlreadyTaken">
             <English>Somebody else has already taken the dogtag...</English>
             <Polish>Ktoś już zabrał ten nieśmiertelnik...</Polish>
-            <Russian>Кто-то уже забрал жетон...</Russian>
+            <Russian>Хтось вже забрав жетон...</Russian>
             <Czech>Někdo jiný už vzal identifikační známku...</Czech>
             <Japanese>すでにドッグ タグは取られています・・・</Japanese>
             <German>Jemand anderes hat bereits die Hundemarke genommen ...</German>
@@ -103,7 +103,7 @@
             <Japanese>確認中のドッグタグを画面上で表示します</Japanese>
             <Italian>Display su schermo per il controllo delle piastrine</Italian>
             <Polish>Wyświetlacz ekranowy dla sprawdzania nieśmiertelników</Polish>
-            <Russian>Экран для проверки жетонов</Russian>
+            <Russian>Екран перевірки жетонів</Russian>
             <Portuguese>Tela de Exibição para verificar dogtags</Portuguese>
             <Spanish>Visualización en pantalla para</Spanish>
             <French>Affichage à l'écran pour le contrôle des plaques.</French>

@@ -11,7 +11,7 @@
             <German>AUSRÜSTUNG DES FLUGGERÄTS</German>
             <French>ÉQUIPEMENT DE L'AÉRONEF</French>
             <Polish>WYPOSAŻENIE POJAZDU POWIETRZNEGO</Polish>
-            <Russian>СНАРЯЖЕНИЕ САМОЛЕТА</Russian>
+            <Russian>СПОРЯДЖЕННЯ АВІАТЕХНІКИ</Russian>
             <Portuguese>LOADOUT DA AERONAVE</Portuguese>
             <Czech>VÝZBROJ LETADLA</Czech>
         </Key>
@@ -25,7 +25,7 @@
             <German>Ausrüstung für %1</German>
             <French>Équipements pour %1</French>
             <Polish>Wyposażenia dla %1</Polish>
-            <Russian>Оснащение %1</Russian>
+            <Russian>Оснащення %1</Russian>
             <Portuguese>Loadouts para %1</Portuguese>
             <Czech>Sady výzbroje pro %1</Czech>
         </Key>
@@ -39,7 +39,7 @@
             <German>Konfiguriere Außenlaststationen</German>
             <French>Configurer les pylônes</French>
             <Polish>Konfiguruj Pylony</Polish>
-            <Russian>Настройка Пилонов</Russian>
+            <Russian>Налаштування пілонів</Russian>
             <Portuguese>Configurar Pylons</Portuguese>
             <Czech>Nastavit pylony</Czech>
         </Key>
@@ -53,7 +53,7 @@
             <German>ACE Außenlaststationen</German>
             <French>ACE Pylônes</French>
             <Polish>Pylony ACE</Polish>
-            <Russian>ACE Пилоны</Russian>
+            <Russian>ACE Пілони</Russian>
             <Portuguese>ACE Pylons</Portuguese>
             <Czech>ACE Pylony</Czech>
         </Key>
@@ -82,7 +82,7 @@
             <German>Außenlaststationen, die rot markiert sind, müssen manuell aufmunitioniert werden.</German>
             <French>Les pylônes colorés en rouge devront être réarmés manuellement.</French>
             <Polish>Pylony, które są w kolorze czerwonym muszą być manualnie dozbrojone.</Polish>
-            <Russian>Пилоны, окрашенные красным, должны быть переоборудованы вручную</Russian>
+            <Russian>Пілони, позначені червоним, мають бути переобладнані вручну</Russian>
             <Portuguese>Pylons que estão coloridos de vermelho, precisarão ser rearmados manualmente.</Portuguese>
             <Czech>Pylony označené červeně budou muset být manuálně přezbrojeny.</Czech>
         </Key>
@@ -96,7 +96,7 @@
             <German>%1 konfiguriert dieses Fluggerät bereits!</German>
             <French>%1 est déjà en train de configurer cet aéronef !</French>
             <Polish>%1 już konfiguruje ten pojazd!</Polish>
-            <Russian>%1 уже настраивает эту авиатехнику!</Russian>
+            <Russian>%1 вже налаштовує цю авіатехніку!</Russian>
             <Portuguese>%1 já está configurando essa aeronave!</Portuguese>
             <Czech>%1 už nastavuje výzbroj tohoto letadla!</Czech>
         </Key>
@@ -110,7 +110,7 @@
             <German>Ersetze Außenlaststation %1 von insgesamt %2</German>
             <French>Remplacement du pylône %1 sur %2...</French>
             <Polish>Wymiana pylonów %1 z %2...</Polish>
-            <Russian>Замена пилона %1 из %2...</Russian>
+            <Russian>Заміна пілона %1 з %2...</Russian>
             <Portuguese>Substituindo pylon %1 de %2...</Portuguese>
             <Czech>Nahrazuji pylon %1 z %2...</Czech>
         </Key>
@@ -124,7 +124,7 @@
             <German>Gestoppt bei Außenlaststation %1</German>
             <French>Arrêté au pylône %1 !</French>
             <Polish>Zatrzymano na pylonie %1!</Polish>
-            <Russian>Остановлено на пилоне %1!</Russian>
+            <Russian>Зупинено на пілоні %1!</Russian>
             <Portuguese>Parado no pylon %1!</Portuguese>
             <Czech>Přerušeno na pylonu %1!</Czech>
         </Key>
@@ -138,7 +138,7 @@
             <German>Fahrzeug zu weit entfernt</German>
             <French>Véhicule trop éloigné.</French>
             <Polish>Pojazd za daleko</Polish>
-            <Russian>Техника слишком далеко</Russian>
+            <Russian>Техніка занадто далеко</Russian>
             <Portuguese>Veículo muito longe</Portuguese>
             <Czech>Vozidlo je příliš daleko</Czech>
         </Key>
@@ -151,7 +151,7 @@
             <German>Aktiviert Außenlaststationsmenü im Zeus</German>
             <French>Activer le menu des pylônes (Zeus)</French>
             <Polish>Aktywuj Menu Pylonów dla Zeus'a</Polish>
-            <Russian>Активировать Меню пилонов для Зевса</Russian>
+            <Russian>Активувати Меню пілонів для Зевса</Russian>
             <Portuguese>Ativar Menu de Pylon para Zeus</Portuguese>
             <Czech>Povolit menu s pylony pro Zeuse</Czech>
         </Key>
@@ -164,7 +164,7 @@
             <German>Aktiviert die Nutzung im Zeus</German>
             <French>Permet l'utilisation des modules Zeus.</French>
             <Polish>Aktywuj wykorzystanie modułu zeus'a.</Polish>
-            <Russian>Позволяет использовать модуль Зевса</Russian>
+            <Russian>Дозволяє використовувати модуль Зевса</Russian>
             <Portuguese>Permite usar o módulo de Zeus</Portuguese>
             <Czech>Povoluje použití daného Zeus modulu.</Czech>
         </Key>
@@ -177,7 +177,7 @@
             <German>Aktiviert Außenlaststationsmenü von Munitionstransportern</German>
             <French>Activer le menu des pylônes (camions de munitions)</French>
             <Polish>Aktywuj Menu Pylonów dla Ciężarówek z amunicją</Polish>
-            <Russian>Меню пилонов из грузовика боеприпасов</Russian>
+            <Russian>Меню пілонів з техніки з боєприпасами</Russian>
             <Portuguese>Ativar Menu de Pylons de Caminhões de Munição</Portuguese>
             <Czech>Povolit menu s pylony z muničních náklaďáků.</Czech>
         </Key>
@@ -190,7 +190,7 @@
             <German>Aktiviert die Nutzung von Außenlaststationsmenü von Munitionstransportern.</German>
             <French>Permet l'utilisation du menu des pylônes à partir des camions de ravitaillement de munitions.</French>
             <Polish>Aktywuj wykorzystanie menu pylonów z ciężarówek z amunicją.</Polish>
-            <Russian>Позволяет использовать меню пилонов из грузовика с боеприпасами</Russian>
+            <Russian>Дозволяє використовувати меню пілонів з техніки з боєприпасами</Russian>
             <Portuguese>Permite abrir o menu de pylons através de veículos de munição.</Portuguese>
             <Czech>Povoluje použití menu na nastavení pylonů z náklaďáků s municí.</Czech>
         </Key>
@@ -203,7 +203,7 @@
             <German>Dieses Flugzeug hat keine Außenlaststationen</German>
             <French>Cet aéronef n'a pas de pylônes.</French>
             <Polish>Ten pojazd nie posiada pylonów</Polish>
-            <Russian>Эта авиатехника не имеет пилонов</Russian>
+            <Russian>Ця авіатехніка не має пілонів</Russian>
             <Portuguese>Essa aeronave não possui pylons</Portuguese>
             <Czech>Toto letadlo nemá pylony</Czech>
         </Key>
@@ -216,7 +216,7 @@
             <German>Die Konfiguration für das Außenlaststationen ist im Zeus deaktiviert</German>
             <French>Le module de configuration des pylônes est désactivé pour Zeus.</French>
             <Polish>Konfiguracja modułu pylonów jest wyłączona dla zeus'a</Polish>
-            <Russian>Модуль Настройка пилонов отключен для Zeus</Russian>
+            <Russian>Модуль Налаштування пілонів відключений для Зевса</Russian>
             <Portuguese>O Módulo de configurar pylons está desativado para o Zeus</Portuguese>
             <Czech>Nastavení pylonů je vypnuto pro Zeuse</Czech>
         </Key>
@@ -230,7 +230,7 @@
             <German>Neue Außenlaststationen. aufmunitionieren</German>
             <French>Réarmer les nouveaux pylônes</French>
             <Polish>Dozbrój Nowe Pylony</Polish>
-            <Russian>Перевооружать новые пилоны</Russian>
+            <Russian>Переозброювати нові пілони</Russian>
             <Portuguese>Rearmar novos pylons</Portuguese>
             <Czech>Přezbrojit nové pylony</Czech>
         </Key>
@@ -244,7 +244,7 @@
             <German>Neue Außenlaststationen. automatisch vom nächsten Munitionsfahrzeug aufmunitionieren</German>
             <French>Réarme automatiquement les nouveaux pylônes à partir du véhicule de ravitaillement le plus proche.</French>
             <Polish>Automatycznie dozbrajaj nowe pylony z najbliższego pojazdu dozbrajania.</Polish>
-            <Russian>Автоматически перевооружать новые пилоны из ближайшей техники с боеприпасами</Russian>
+            <Russian>Автоматично переозброювати нові пілони з найближчого пункту (техніки) перезарядки</Russian>
             <Portuguese>Automaticamente rearmas novos pylons com o veículo de munição mais próximo</Portuguese>
             <Czech>Automaticky přezbrojit nové pylony z nejbližšího vozidla s municí.</Czech>
         </Key>
@@ -258,7 +258,7 @@
             <German>Zeit pro Außenlaststation</German>
             <French>Durée par pylône</French>
             <Polish>Czas na Pylon</Polish>
-            <Russian>Время на пилон</Russian>
+            <Russian>Час на пілон</Russian>
             <Portuguese>Tempo por pylon</Portuguese>
             <Czech>Čas na pylon</Czech>
         </Key>
@@ -272,7 +272,7 @@
             <German>Die benötigte Zeit, um einzelne Außenlaststationen zu ersetzen (in Sekunden).</German>
             <French>Le temps nécessaire pour remplacer chaque pylône (en secondes).</French>
             <Polish>Czas, jaki trwa wymiana każdego z pylonów (w sekundach).</Polish>
-            <Russian>Время для замены каждого пилона (в секундах)</Russian>
+            <Russian>Тривалість заміни кожного пілона (в секундах)</Russian>
             <Portuguese>O tempo necessário para substituir cada pylon (em segundos)</Portuguese>
             <Czech>Udává čas jaký trvá nahrazení každého pylonu (ve vteřinách).</Czech>
         </Key>
@@ -286,7 +286,7 @@
             <German>Suchdistanz</German>
             <French>Distance ravitaillement</French>
             <Polish>Dystans Szukania</Polish>
-            <Russian>Дальность поиска</Russian>
+            <Russian>Дальність пошуку</Russian>
             <Portuguese>Distância de procura</Portuguese>
             <Czech>Vzdálenost hledání munice</Czech>
         </Key>
@@ -300,7 +300,7 @@
             <German>Die Distanz, die ein Fahrzeug von einem Munitionsfahrzeug entfernt sein darf.</German>
             <French>La distance maximale à laquelle un aéronef doit se trouver du véhicule de ravitaillement.</French>
             <Polish>Dystans, w jakim pojazd musi być od pojazdu dozbrajania.</Polish>
-            <Russian>Дальность от авиатехники до грузовика (пункта) с боеприпасами</Russian>
+            <Russian>Дальність від авіатехніки до пункту (техніки) перезарядки</Russian>
             <Portuguese>A distância que a aeronave precisa estar de um veículo de munições.</Portuguese>
             <Czech>Maximální vzdálenost ze které je možné letadlo přezbrojit s vozidlem s municí.</Czech>
         </Key>
@@ -314,7 +314,7 @@
             <German>Benötigt Pionier</German>
             <French>Ingénieur requis</French>
             <Polish>Wymaga Mechanika</Polish>
-            <Russian>Требуется Инженер</Russian>
+            <Russian>Потрібен Механік</Russian>
             <Portuguese>Requer um engenheiro</Portuguese>
             <Czech>Vyžadovat Inženýra</Czech>
         </Key>
@@ -328,7 +328,7 @@
             <German>Benötigt einen Pionier.</German>
             <French>Requiert un ingénieur.</French>
             <Polish>Wymaga mechanika.</Polish>
-            <Russian>Требуется роль Инженера</Russian>
+            <Russian>Потрібна роль Механіка</Russian>
             <Portuguese>É necessário uma unidade definida como engenheiro para interagir com pylons.</Portuguese>
             <Czech>Vyžaduje, aby hráč byl Inženýr.</Czech>
         </Key>
@@ -342,7 +342,7 @@
             <German>Benötigt Werkzeugkasten</German>
             <French>Trousse à outils requise</French>
             <Polish>Wymaga Narzędzi</Polish>
-            <Russian>Требуется Набор инструментов</Russian>
+            <Russian>Потрібен Набір інструментів</Russian>
             <Portuguese>Requer Kit de Ferramentas</Portuguese>
             <Czech>Vyžadovat sadu nářadí (toolkit).</Czech>
         </Key>
@@ -356,7 +356,7 @@
             <German>Benötigt einen Werkzeugkasten im Inventar.</German>
             <French>Requiert une trousse à outils dans l'inventaire.</French>
             <Polish>Wymaga narzędzi w ekwipunku.</Polish>
-            <Russian>Требуется наличие Набора инструментов в инвентаре</Russian>
+            <Russian>Потрібен Набір інструментів в інвентарі</Russian>
             <Portuguese>Requer um Kit de Ferramentas no inventário.</Portuguese>
             <Czech>Vyžaduje, aby hráč měl ve svém inventáři sadu nářadí (toolkit).</Czech>
         </Key>

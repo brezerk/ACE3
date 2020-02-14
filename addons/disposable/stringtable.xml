@@ -9,7 +9,7 @@
             <Polish>Zużyta rura</Polish>
             <Spanish>Lanzador utilizado</Spanish>
             <Hungarian>Elhasznált kilövőcső</Hungarian>
-            <Russian>Отстрелянная труба</Russian>
+            <Russian>Відстріляний тубус</Russian>
             <Italian>Lanciatore usato</Italian>
             <Portuguese>Tubo utilizado</Portuguese>
             <Japanese>使用済み</Japanese>
@@ -26,7 +26,7 @@
             <Polish>Zużyta rura granatnika jednorazowego użytku</Polish>
             <Spanish>Lanzador desechable utilizado</Spanish>
             <Hungarian>Elhasznált eldobható rakétavető</Hungarian>
-            <Russian>Отстрелянная одноразовая пусковая установка</Russian>
+            <Russian>Відстріляна одноразова ПУ</Russian>
             <Italian>Lanciarazzi monouso già utilizzato</Italian>
             <Portuguese>Lança foguetes descartável utilizado</Portuguese>
             <Japanese>使い終わったロケット ランチャーの筒部分</Japanese>
@@ -43,7 +43,7 @@
             <Polish>Wstępnie załadowana atrapa pocisku</Polish>
             <Spanish>Precargado misil inerte</Spanish>
             <Hungarian>Előtöltött műrakéta</Hungarian>
-            <Russian>Предзаряженная ракетная болванка</Russian>
+            <Russian>Попередньо заряджена болванка ракети</Russian>
             <Italian>Missile inerte precaricato</Italian>
             <Portuguese>Míssel inerte pré-carregado</Portuguese>
             <Japanese>仮置きのミサイルをあらかじめ装填</Japanese>

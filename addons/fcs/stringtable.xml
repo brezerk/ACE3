@@ -8,7 +8,7 @@
             <Polish>Naświetl cel / Zmierz odległość</Polish>
             <Czech>Označit cíl / Změřit vzdálenost</Czech>
             <Spanish>Iluminar objetivo / Medir distancia</Spanish>
-            <Russian>Подсветить цель / Замерить расстояние</Russian>
+            <Russian>Підсвітити ціль / Заміряти відстань</Russian>
             <Hungarian>Célpont lézerezése / Távolság Bemérése</Hungarian>
             <Italian>Misura la distanza</Italian>
             <Portuguese>Marcar com laser / Medir Distância</Portuguese>
@@ -24,7 +24,7 @@
             <Polish>Wyzerowany na</Polish>
             <Czech>Nastaveno na</Czech>
             <French>Zéroté à</French>
-            <Russian>Выставлено на</Russian>
+            <Russian>Виставлено на</Russian>
             <Hungarian>Nullázási táv</Hungarian>
             <Portuguese>Fixado em</Portuguese>
             <Italian>Azzeramento a</Italian>
@@ -43,7 +43,7 @@
             <Hungarian>FCS tartomány állítása (Fel)</Hungarian>
             <Portuguese>Ajustar distância do FCS (Acima)</Portuguese>
             <Italian>Aumentare la distanza dell'FCS</Italian>
-            <Russian>Диапазон СУО (Выше)</Russian>
+            <Russian>Налаштувати СКВ (Вище)</Russian>
             <Japanese>FCS による距離を調節 (上げ)</Japanese>
             <Korean>사통장치 거리 조정 (위로)</Korean>
             <Chinesesimp>调整火控系统距离 (上)</Chinesesimp>
@@ -59,7 +59,7 @@
             <Hungarian>FCS tartomány állítása (Le)</Hungarian>
             <Portuguese>Ajustar distância do FCS (Abaixo)</Portuguese>
             <Italian>Ridurre la distanza dell'FCS</Italian>
-            <Russian>Диапазон СУО (Ниже)</Russian>
+            <Russian>Налаштувати СКВ (Нижче)</Russian>
             <Japanese>FCS による距離を調節 (下げ)</Japanese>
             <Korean>사통장치 거리 조정 (아래로)</Korean>
             <Chinesesimp>调整火控系统距离 (下)</Chinesesimp>
@@ -75,7 +75,7 @@
             <Hungarian>FCS visszaállítása</Hungarian>
             <Portuguese>Reiniciar FCS</Portuguese>
             <Italian>Azzeramento dell'FCS</Italian>
-            <Russian>Обнулить СУО</Russian>
+            <Russian>Скинути СКВ</Russian>
             <Japanese>FCS を初期化</Japanese>
             <Korean>사통장치 초기화</Korean>
             <Chinesesimp>重置火控系统</Chinesesimp>
@@ -91,7 +91,7 @@
             <Hungarian>FCS visszaállítva.</Hungarian>
             <Portuguese>FCS reiniciado.</Portuguese>
             <Italian>L'FCS è stato azzerato</Italian>
-            <Russian>СУО обнулен.</Russian>
+            <Russian>Налаштування СКВ скинуті</Russian>
             <Japanese>FCS は初期化されました</Japanese>
             <Korean>사통장치 초기화됨</Korean>
             <Chinesesimp>火控系统已被重置</Chinesesimp>
