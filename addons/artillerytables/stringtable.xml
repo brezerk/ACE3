@@ -35,7 +35,7 @@
             <Portuguese>Resistência do Ar</Portuguese>
             <French>Résistance de l'air</French>
             <Hungarian>Légellenállás</Hungarian>
-            <Russian>Опір повітря</Russian>
+            <Russian>Моделювати опір повітря</Russian>
             <Italian>Resistenza dell'Aria</Italian>
             <Japanese>空気抵抗</Japanese>
             <Korean>공기저항</Korean>
@@ -52,7 +52,7 @@
             <Portuguese>Para disparos do jogador, modelo de resistência de ar e efeitos de vento</Portuguese>
             <French>Pour les tirs des joueurs, simule la résistance de l'air et les effets du vent.</French>
             <Hungarian>Játékos általi lövésekhez, legyen-e számított légellenállás és szélhatás</Hungarian>
-            <Russian>Для пострілів гравця. Моделює опір повітря та ефекти вітру</Russian>
+            <Russian>Для пострілів гравця. Моделює опір повітря та ефекти відхилення вітром</Russian>
             <Italian>Per Proiettili dei Giocatori, simula la Resistenza dell'Aria e gli Effetti del Vento</Italian>
             <Japanese>プレイヤが射撃すると、空気抵抗モデルと風による影響を与えます。</Japanese>
             <Korean>플레이어 사격시 공기저항과 바람에 영향을 받습니다</Korean>

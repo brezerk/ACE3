@@ -604,7 +604,7 @@
             <Korean>카메라 조종 반전</Korean>
             <Chinese>反轉攝影機控制</Chinese>
             <Chinesesimp>反转摄影机控制</Chinesesimp>
-            <Russian>Інвертувати управління камерою</Russian>
+            <Russian>Інвертувати керування камерою</Russian>
             <Portuguese>Inverter controles da câmera</Portuguese>
             <Czech>Obrátit ovládání kamery</Czech>
         </Key>
@@ -618,7 +618,7 @@
             <Korean>모드 아이콘 허가</Korean>
             <Chinese>啟用模組圖示</Chinese>
             <Chinesesimp>启用模组图示</Chinesesimp>
-            <Russian>Включити іконки модів</Russian>
+            <Russian>Відображати іконки модів</Russian>
             <Portuguese>Ativar ícones de mods</Portuguese>
             <Czech>Zapnout ikony modů</Czech>
         </Key>
@@ -674,7 +674,7 @@
             <Korean>누락 된 항목 / 사용 할 수 없는 항목 기록</Korean>
             <Chinese>記錄遺失/無法使用的項目</Chinese>
             <Chinesesimp>记录遗失/无法使用的项目</Chinesesimp>
-            <Russian>Вести журнал недоступних предметів</Russian>
+            <Russian>Вести журнал предметів, що недоступні</Russian>
             <Portuguese>Registrar em log itens indisponíveis/não encontrados</Portuguese>
             <Czech>Zalogovat chybějící/nedostupné předměty</Czech>
         </Key>
@@ -1037,7 +1037,7 @@
             <Chinese>啟用臉譜/聲音/徽章選項</Chinese>
             <Italian>Abilita volti, voci e insegne</Italian>
             <Polish>Aktywuj zakładki twarz / głos / insygnia</Polish>
-            <Russian>Включити вкладки Осіб / Голосів / Відзнак</Russian>
+            <Russian>Відображати вкладки Осіб / Голосів / Відзнак</Russian>
             <Portuguese>Ativar as abas de rostos / vozes / insígnias</Portuguese>
             <Czech>Povolit záložky s tvářemi, hlasy a insigniemi</Czech>
         </Key>

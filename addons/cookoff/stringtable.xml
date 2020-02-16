@@ -92,7 +92,7 @@
             <Italian>Abilita Esplosione munizioni</Italian>
             <Chinese>開啟彈藥殉爆效果</Chinese>
             <Chinesesimp>开启弹药殉爆效果</Chinesesimp>
-            <Russian>Дозволити займання боєкомплекту</Russian>
+            <Russian>Займання боєкомплекту</Russian>
             <Portuguese>Permitir cozinhar munição</Portuguese>
             <Czech>Povolit vznícení munice</Czech>
         </Key>
@@ -147,7 +147,7 @@
             <Chinesesimp>殉爆发生机率系数</Chinesesimp>
             <French>Coefficient de probabilité d'auto-inflammation</French>
             <Polish>Współczynnik prawdopodobieństwa samozapłonu</Polish>
-            <Russian>Коефіцієнт вірогідності займання</Russian>
+            <Russian>Коефіцієнт ймовірності займання</Russian>
             <Portuguese>Probabilidade de Cozinhar</Portuguese>
             <Czech>Koeficient pravděpodobnosti vznícení munice</Czech>
         </Key>
