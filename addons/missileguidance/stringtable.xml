@@ -11,7 +11,7 @@
             <Italian>Guida missili avanzata</Italian>
             <Portuguese>Orientação avançada de Míssil</Portuguese>
             <Hungarian>Fejlett rakétairányító</Hungarian>
-            <Russian>Продвинутое наведение ракет</Russian>
+            <Russian>Розширене наведення ракетами</Russian>
             <Japanese>高度なミサイルの誘導</Japanese>
             <Korean>고급 미사일 유도</Korean>
             <Chinesesimp>进阶飞弹制导</Chinesesimp>
@@ -21,7 +21,7 @@
             <English>Advanced missile guidance, or AMG, provides multiple enhancements to missile locking and firing. It is also a framework required for missile weapon types.</English>
             <Polish>Zaawansowane namierzanie rakiet, lub ZNR, dostarcza wiele poprawek do systemu namierzania rakiet oraz dodaje nowe tryby strzału. Jest to wymagana opcja dla broni rakietowych.</Polish>
             <Italian>Guida dei missili avanzata, o AMG, offre diversi miglioramenti alla teleguida di missili. E' anche un sistema necessario per i tipi di armi missile.</Italian>
-            <Russian>Продвинутое наведение ракет, или ПНР, обеспечивает множество усовершествований для наведения и стрельбы ракет. Также, это система, необходимая для всех ракетных типов оружия.</Russian>
+            <Russian>Розширене наведення ракет (AMG) забезпечує вдосконалення при наведенні та пуску ракет. Ця система є обов'язковою для всієї ракетної зброї.</Russian>
             <Spanish>El guiado avanzado de misiles, o AMG en sus siglas en inglés, ofrece múltiples mejoras en el fijado y disparo de misiles. Es también un sistema requerido para armas de tipo misil.</Spanish>
             <German>Das Erweiterte Raketenlenksystem, auch ERls genannt, bietet viele Verbesserungen zum Aufschalten und Feuern mittels gelenkter Raketen. </German>
             <French>Le guidage avancé de missile, ou AMG en anglais, apporte de multiples améliorations au verrouillage et au tir de missiles. C'est aussi un framework requis pour toute arme de type missile.</French>
@@ -76,7 +76,7 @@
             <Italian>Hydra-70 DAGR Missile a Guida Laser</Italian>
             <Portuguese>Míssil guiado a laser Hydra-70 DAGR </Portuguese>
             <Hungarian>Hydra-70 DAGR lézer-irányított rakéta</Hungarian>
-            <Russian>Управляемая ракета лазерного наведения Hydra-70 DAGR</Russian>
+            <Russian>Ракета Hydra-70 DAGR з лазерним наведенням</Russian>
             <Japanese>ハイドラ-70 DAGR レーザ誘導ミサイル</Japanese>
             <Korean>Hydra-70 DAGR 레이저 유도 미사일</Korean>
             <Chinesesimp>九头蛇-70mm 制导航空火箭弹</Chinesesimp>
@@ -127,7 +127,7 @@
             <Italian>Missile a Guida Laser Hellfire II AGM-114K</Italian>
             <Portuguese>Míssil guiado a laser Hellfire II AGM-114K</Portuguese>
             <Hungarian>Hellfire II AGM-114K lézer-irányított rakéta</Hungarian>
-            <Russian>Управляемая ракета лазерного наведения Hellfire II AGM-114K</Russian>
+            <Russian>Ракета Hellfire II AGM-114K з лазерним наведенням</Russian>
             <Japanese>ヘルファイア II AGM-114K レーザ誘導ミサイル</Japanese>
             <Korean>Hellfire II AGM-114K 레이저 유도 미사일</Korean>
             <Chinesesimp>地狱火II型AGM-114K空地制导破甲弹</Chinesesimp>
@@ -143,7 +143,7 @@
             <Portuguese>Desligado</Portuguese>
             <French>Éteint</French>
             <Hungarian>Ki</Hungarian>
-            <Russian>Выкл.</Russian>
+            <Russian>Вимн.</Russian>
             <Italian>Spento</Italian>
             <Japanese>無効</Japanese>
             <Korean>끄기</Korean>
@@ -160,7 +160,7 @@
             <Portuguese>Somente jogador</Portuguese>
             <French>Seulement les joueurs</French>
             <Hungarian>Csak játékosok</Hungarian>
-            <Russian>Только игрок</Russian>
+            <Russian>Тільки гравець</Russian>
             <Italian>Solo Giocatore</Italian>
             <Japanese>プレイヤーのみ</Japanese>
             <Korean>오직 플레이어만</Korean>
@@ -177,7 +177,7 @@
             <Portuguese>Jogador e IA</Portuguese>
             <French>Joueurs et IA</French>
             <Hungarian>Játékosok és AI</Hungarian>
-            <Russian>Игрок и боты</Russian>
+            <Russian>Гравець та боти</Russian>
             <Italian>Giocatore ed IA</Italian>
             <Japanese>プレイヤーと AI</Japanese>
             <Chinesesimp>玩家和AI</Chinesesimp>
@@ -188,7 +188,7 @@
         <Key ID="STR_ACE_MissileGuidance_CycleFireMode">
             <English>Cycle Fire Mode</English>
             <German>Wechsle Feuermodus</German>
-            <Russian>Переключение режимов огня</Russian>
+            <Russian>Перемикання режимів вогню</Russian>
             <Czech>Přepínání režimů palby</Czech>
             <Polish>Przełącz tryb ognia</Polish>
             <French>Guidage missiles - Changer le mode de tir</French>

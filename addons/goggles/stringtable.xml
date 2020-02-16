@@ -10,7 +10,7 @@
             <Japanese>ゴーグル</Japanese>
             <Korean>고글</Korean>
             <Polish>Gogle</Polish>
-            <Russian>Очки</Russian>
+            <Russian>Окуляри</Russian>
             <Portuguese>Óculos</Portuguese>
             <French>Lunettes</French>
             <Czech>Brýle</Czech>
@@ -26,7 +26,7 @@
             <Japanese>ACE ゴーグル</Japanese>
             <Korean>ACE 고글</Korean>
             <Polish>ACE Gogle</Polish>
-            <Russian>ACE Очки</Russian>
+            <Russian>ACE Окуляри</Russian>
             <Portuguese>ACE Óculos</Portuguese>
             <French>ACE Lunettes</French>
             <Czech>ACE Brýle</Czech>
@@ -39,7 +39,7 @@
             <Spanish>Mostrar efectos de las gafas en tercera persona</Spanish>
             <Czech>Zobrazit efekt brýlí v třetí osobě</Czech>
             <French>Effets des lunettes à la 3ème personne</French>
-            <Russian>Отображать эффект очков от третьего лица</Russian>
+            <Russian>Відображати ефекти окулярів від третьої особи</Russian>
             <Hungarian>Szemüveg-effekt mutatása külső nézetből</Hungarian>
             <Polish>Włącz efekty gogli w trzeciej osobie</Polish>
             <Portuguese>Mostrar efeitos de óculos em Terceira Pessoa</Portuguese>
@@ -56,7 +56,7 @@
             <Spanish>Limpiar gafas</Spanish>
             <Czech>Vyčistit brýle</Czech>
             <French>Essuyer les lunettes</French>
-            <Russian>Протереть очки</Russian>
+            <Russian>Протирати окуляри</Russian>
             <Hungarian>Szemüveg letörlése</Hungarian>
             <Polish>Wytrzyj gogle</Polish>
             <Portuguese>Limpar Óculos</Portuguese>
@@ -69,7 +69,7 @@
         </Key>
         <Key ID="STR_ACE_Goggles_effects_displayName">
             <English>Goggle Effects</English>
-            <Russian>Эффект очков</Russian>
+            <Russian>Ефекти окулярів</Russian>
             <Japanese>ゴーグルによる効果</Japanese>
             <Polish>Efekty gogli</Polish>
             <German>Brilleneffekt</German>
@@ -85,7 +85,7 @@
         </Key>
         <Key ID="STR_ACE_Goggles_effects_tintOnly">
             <English>Tint</English>
-            <Russian>Тонировка</Russian>
+            <Russian>Тонування</Russian>
             <Japanese>色彩のみ</Japanese>
             <Polish>Winieta</Polish>
             <German>Tönung</German>
@@ -101,7 +101,7 @@
         </Key>
         <Key ID="STR_ACE_Goggles_enabled_tintAndEffects">
             <English>Tint + Effects</English>
-            <Russian>Тонировка + эффекты</Russian>
+            <Russian>Тонування + ефекти</Russian>
             <Japanese>色彩 + 効果</Japanese>
             <Polish>Winieta + Efekty</Polish>
             <German>Tönung + Effekte</German>
@@ -117,6 +117,7 @@
         </Key>
         <Key ID="STR_ACE_Goggles_SettingShowClearGlasses">
             <English>Show Wipe Goggles self interaction</English>
+            <Russian>Показати в меню взаємодії "Протерти Окуляри"</Russian>
             <Polish>Pokaż interakcję Wyczyść Gogle</Polish>
             <Italian>Mostra interazione automatica per la pulizia degli occhiali</Italian>
             <Czech>Ukaž Vyčistit brýle v menu Interakce (vlastní)</Czech>

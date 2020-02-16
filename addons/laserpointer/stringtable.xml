@@ -5,7 +5,7 @@
             <English>Laser Pointer</English>
             <French>Pointeur laser</French>
             <German>Laserpointer</German>
-            <Russian>Лазерный прицел</Russian>
+            <Russian>Лазерний приціл</Russian>
             <Czech>Laserové ukazovátko</Czech>
             <Polish>Wskaźnik laserowy</Polish>
             <Hungarian>Lézer-pointer</Hungarian>
@@ -22,7 +22,7 @@
             <English>Laser Pointer (red)</English>
             <French>Pointeur laser (rouge)</French>
             <German>Laserpointer (rot)</German>
-            <Russian>Лазерный прицел (красный)</Russian>
+            <Russian>Лазерний приціл (червоний)</Russian>
             <Czech>Laserové ukazovátko (Červené)</Czech>
             <Polish>Wskaźnik laserowy (czerwony)</Polish>
             <Hungarian>Lézer-pointer (piros)</Hungarian>
@@ -39,7 +39,7 @@
             <English>Laser Pointer (green)</English>
             <French>Pointeur laser (vert)</French>
             <German>Laserpointer (grün)</German>
-            <Russian>Лазерный прицел (зелёный)</Russian>
+            <Russian>Лазерний приціл (зелений)</Russian>
             <Czech>Laserové ukazovátko (Zelené)</Czech>
             <Polish>Wskaźnik laserowy (zielony)</Polish>
             <Hungarian>Lézer-pointer (zöld)</Hungarian>
@@ -56,7 +56,7 @@
             <English>Emits visible light. </English>
             <French>Émet de la lumière visible.</French>
             <German>Strahlt sichtbares Licht aus. </German>
-            <Russian>Испускает узкий пучок видимого света.</Russian>
+            <Russian>Випромінює пучок видимого світла</Russian>
             <Czech>Vyzařuje viditelné světlo.</Czech>
             <Polish>Wydziela widzialne światło.</Polish>
             <Hungarian>Látható fényt bocsát ki.</Hungarian>
@@ -77,7 +77,7 @@
             <Italian>&lt;t color='#9cf953'&gt;Uso: &lt;/t&gt;Laser ON/OFF</Italian>
             <Polish>&lt;t color='#9cf953'&gt;Użyj: &lt;/t&gt;wł./wył. laser</Polish>
             <Portuguese>&lt;t color='#9cf953'&gt;Uso: &lt;/t&gt;Ativar/Desativar laser</Portuguese>
-            <Russian>&lt;t color='#9cf953'&gt;Использовать: &lt;/t&gt;ВКЛ/ВЫКЛ лазер</Russian>
+            <Russian>&lt;t color='#9cf953'&gt;Використати: &lt;/t&gt;УВІМК/ВИМК лазер</Russian>
             <Spanish>&lt;t color='#9cf953'&gt;Usar: &lt;/t&gt;Encender/Apagar láser</Spanish>
             <Hungarian>&lt;t color='#9cf953'&gt;Használat: &lt;/t&gt;Lézer BE/KI kapcsolása</Hungarian>
             <Japanese>&lt;t color='#9cf953'&gt;つかう: &lt;/t&gt;レーザの起動/停止</Japanese>
@@ -107,7 +107,7 @@
             <English>IR Laser</English>
             <German>IR-Laser</German>
             <Polish>Laser IR</Polish>
-            <Russian>ИК-лазер</Russian>
+            <Russian>ІЧ-лазер</Russian>
             <French>Laser IR</French>
             <Spanish>Láser IR</Spanish>
             <Italian>Laser IR</Italian>
@@ -124,7 +124,7 @@
             <English>Switch Laser / IR Laser</English>
             <German>Umschalten Laser / IR-Laser</German>
             <Polish>Przełącz Laser / Laser IR</Polish>
-            <Russian>Изменить режим Лазер / ИК-лазер</Russian>
+            <Russian>Змінити лазер / ІЧ-лазер</Russian>
             <French>Alterner laser/laser IR</French>
             <Italian>Alterna Laser / IR Laser</Italian>
             <Spanish>Cambiar láser / Láser IR</Spanish>

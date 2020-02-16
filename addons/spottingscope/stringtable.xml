@@ -4,7 +4,7 @@
         <Key ID="STR_ACE_SpottingScope_DisplayName">
             <English>Spotting Scope</English>
             <German>Teleskop</German>
-            <Russian>Зрительная труба</Russian>
+            <Russian>Підзорна труба</Russian>
             <Polish>Teleskop</Polish>
             <Spanish>Telescopio</Spanish>
             <French>Longue-vue</French>
@@ -21,7 +21,7 @@
         <Key ID="STR_ACE_SpottingScope_PickUp">
             <English>Pick up Spotting Scope</English>
             <German>Teleskop aufnehmen</German>
-            <Russian>Поднять зрительная трубу</Russian>
+            <Russian>Підняти підзорну трубу</Russian>
             <Polish>Zabierz teleskop</Polish>
             <Spanish>Coger telescopio</Spanish>
             <French>Récupérer la longue-vue</French>
@@ -38,7 +38,7 @@
         <Key ID="STR_ACE_SpottingScope_PlaceDown">
             <English>Place Spotting Scope</English>
             <German>Teleskop aufstellen</German>
-            <Russian>Установить зрительная трубу</Russian>
+            <Russian>Розмістити підзорну трубу</Russian>
             <Polish>Ustaw teleskop</Polish>
             <Spanish>Colocar telescopio</Spanish>
             <French>Placer la longue-vue</French>

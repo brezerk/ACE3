@@ -10,7 +10,7 @@
             <Chinesesimp>ACE夜视镜</Chinesesimp>
             <French>ACE Vision Nocturne</French>
             <Polish>ACE Noktowizja</Polish>
-            <Russian>ACE ПНВ</Russian>
+            <Russian>ACE Нічне бачення</Russian>
             <Portuguese>ACE Visão Noturna</Portuguese>
             <Czech>ACE Noční vidění</Czech>
             <Turkish>ACE Gece Görüşü</Turkish>
@@ -23,7 +23,7 @@
             <Italian>Occhiali notturni (Gen1)</Italian>
             <Polish>Gogle noktowizyjne (Gen1)</Polish>
             <Portuguese>Óculos de visão noturna (Gen1)</Portuguese>
-            <Russian>ПНВ (Gen1)</Russian>
+            <Russian>ПНБ (Gen1)</Russian>
             <Spanish>Gafas de visión nocturna (Gen1)</Spanish>
             <Hungarian>Éjjellátó szemüveg (1. Gen.)</Hungarian>
             <Japanese>暗視装置 (第1世代)</Japanese>
@@ -40,7 +40,7 @@
             <Italian>Occhiali notturni (Gen2)</Italian>
             <Polish>Gogle noktowizyjne (Gen2)</Polish>
             <Portuguese>Óculos de visão noturna (Gen2)</Portuguese>
-            <Russian>ПНВ (Gen2)</Russian>
+            <Russian>ПНБ (Gen2)</Russian>
             <Spanish>Gafas de visión nocturna (Gen2)</Spanish>
             <Hungarian>Éjjellátó szemüveg (2. Gen.)</Hungarian>
             <Japanese>暗視装置 (第2世代)</Japanese>
@@ -57,7 +57,7 @@
             <Italian>Occhiali notturni (Gen3)</Italian>
             <Polish>Gogle noktowizyjne (Gen3)</Polish>
             <Portuguese>Óculos de visão noturna (Gen3)</Portuguese>
-            <Russian>ПНВ (Gen3)</Russian>
+            <Russian>ПНБ (Gen3)</Russian>
             <Spanish>Gafas de visión nocturna (Gen3)</Spanish>
             <Hungarian>Éjjellátó szemüveg (3. Gen.)</Hungarian>
             <Japanese>暗視装置 (第3世代)</Japanese>
@@ -74,7 +74,7 @@
             <Italian>Occhiali notturni (Gen3, Marroni)</Italian>
             <Polish>Gogle noktowizyjne (Gen3, brązowe)</Polish>
             <Portuguese>Óculos de visão noturna (Gen3, marrons)</Portuguese>
-            <Russian>ПНВ (Gen3, Коричневый)</Russian>
+            <Russian>ПНБ (Gen3, Коричневий)</Russian>
             <Spanish>Gafas de visión nocturna (Gen3, marrón)</Spanish>
             <Hungarian>Éjjellátó szemüveg (3. Gen., barna)</Hungarian>
             <Japanese>暗視装置 (第3世代、ブラウン)</Japanese>
@@ -91,7 +91,7 @@
             <Italian>Occhiali notturni (Gen3, Verdi)</Italian>
             <Polish>Gogle noktowizyjne (Gen3, zielone)</Polish>
             <Portuguese>Óculos de visão noturna (Gen3, verdes)</Portuguese>
-            <Russian>ПНВ (Gen3, Зелёный)</Russian>
+            <Russian>ПНБ (Gen3, Зелений)</Russian>
             <Spanish>Gafas de visión nocturna (Gen3, verde)</Spanish>
             <Hungarian>Éjjellátó szemüveg (3. Gen., zöld)</Hungarian>
             <Japanese>暗視装置 (第3世代、グリーン)</Japanese>
@@ -108,7 +108,7 @@
             <Italian>Occhiali notturni (Gen3, Neri)</Italian>
             <Polish>Gogle noktowizyjne (Gen3, czarne)</Polish>
             <Portuguese>Óculos de visão noturna (Gen3, pretos)</Portuguese>
-            <Russian>ПНВ (Gen3, Чёрный)</Russian>
+            <Russian>ПНБ (Gen3, Чорний)</Russian>
             <Spanish>Gafas de visión nocturna (Gen3, negro)</Spanish>
             <Hungarian>Éjjellátó szemüveg (3. Gen., fekete)</Hungarian>
             <Japanese>暗視装置 (第3世代、ブラック)</Japanese>
@@ -125,7 +125,7 @@
             <Italian>Occhiali notturni (Gen4)</Italian>
             <Polish>Gogle noktowizyjne (Gen4)</Polish>
             <Portuguese>Óculos de visão noturna (Gen4)</Portuguese>
-            <Russian>ПНВ (Gen4)</Russian>
+            <Russian>ПНБ (Gen4)</Russian>
             <Spanish>Gafas de visión nocturna (Gen4)</Spanish>
             <Hungarian>Éjjellátó szemüveg (4. Gen.)</Hungarian>
             <Japanese>暗視装置 (第4世代)</Japanese>
@@ -140,7 +140,7 @@
             <Spanish>Gafas de visión nocturna (Panorámicas)</Spanish>
             <Polish>Gogle noktowizyjne (panoramiczne)</Polish>
             <Czech>Noktovizor (Širokoúhlý)</Czech>
-            <Russian>ПНВ (Широкоугольный)</Russian>
+            <Russian>ПНБ (Ширококутний)</Russian>
             <French>JVN (Large)</French>
             <Hungarian>Éjjellátó szemüveg (széles látószögű)</Hungarian>
             <Portuguese>Óculos de visão noturna (Panorâmico)</Portuguese>
@@ -158,7 +158,7 @@
             <Polish>Czułość: %1</Polish>
             <Czech>Jas: %1</Czech>
             <French>Luminosité : %1</French>
-            <Russian>Яркость: %1</Russian>
+            <Russian>Яскравість: %1</Russian>
             <Hungarian>Fényerő: %1</Hungarian>
             <Portuguese>Luminosidade: %1</Portuguese>
             <Italian>Luminosità: %1</Italian>
@@ -175,7 +175,7 @@
             <Polish>Zwiększ czułość noktowizji</Polish>
             <Czech>Zvýšení jasu noktovizoru</Czech>
             <French>Augmenter la luminosité des JVN</French>
-            <Russian>Увеличить яркость ПНВ</Russian>
+            <Russian>Збільшити яскравість ПНБ</Russian>
             <Hungarian>Éjjellátó fényerejének növelése</Hungarian>
             <Portuguese>Aumentar Luminosidade do EVN</Portuguese>
             <Italian>Aumenta la luminosità dell'NVG</Italian>
@@ -191,7 +191,7 @@
             <Polish>Zmniejsz czułość noktowizji</Polish>
             <Czech>Snížení jasu noktovizoru</Czech>
             <French>Abaisser la luminosité des JVN</French>
-            <Russian>Уменьшить яркость ПНВ</Russian>
+            <Russian>Зменшити яскравість ПНБ</Russian>
             <Hungarian>Éjjellátó fényerejének csökkentése</Hungarian>
             <Portuguese>Diminuir Luminosidade do EVN</Portuguese>
             <Italian>Riduci la luminosità dell'NVG</Italian>
@@ -203,7 +203,7 @@
         <Key ID="STR_ACE_NightVision_Module_DisplayName">
             <English>Nightvision</English>
             <German>Nachtsicht</German>
-            <Russian>Ночное видение</Russian>
+            <Russian>Нічне Бачення</Russian>
             <Portuguese>Visão Noturna</Portuguese>
             <Czech>Noční vidění</Czech>
             <Polish>Noktowizja</Polish>
@@ -219,7 +219,7 @@
         <Key ID="STR_ACE_NightVision_Module_Description">
             <English>Settings for night vision.</English>
             <German>Einstellungen für Nachtsichtgeräte.</German>
-            <Russian>Настройки приборов ночного видения</Russian>
+            <Russian>Налаштування приладів нічного бачення</Russian>
             <Portuguese>Ajustes para visão noturna.</Portuguese>
             <Czech>Nastavení nočního vidění</Czech>
             <Polish>Ustawienia noktowizorów</Polish>
@@ -234,7 +234,7 @@
         <Key ID="STR_ACE_NightVision_DisableNVGsWithSights_DisplayName">
             <English>Disable NVGs in scope</English>
             <German>Deakt. NS mit Visier</German>
-            <Russian>Убирать ПНВ при прицеливании</Russian>
+            <Russian>Убирати ПНБ при прицілюванні</Russian>
             <Portuguese>Desabilitar visão noturna nas lunetas</Portuguese>
             <Czech>Zakázat noktovizor u puškohledů</Czech>
             <Polish>Wył. NVG przy celowaniu</Polish>
@@ -249,7 +249,7 @@
         <Key ID="STR_ACE_NightVision_DisableNVGsWithSights_Description">
             <English>Blocks the usage of night vision goggles whilst aiming down the sight.</English>
             <German>Blockiert die Nachtsichtbrillen beim Verwenden des Visiers.</German>
-            <Russian>Блокирует использование головного ПНВ при прицеливании</Russian>
+            <Russian>Блокує використання ПНБ на голові при прицілюванні</Russian>
             <Portuguese>Bloqueia o uso de visão noturna ao utilizar a mira.</Portuguese>
             <Czech>Zabraňuje používání noktovizoru při použití mířidel.</Czech>
             <Polish>Uniemożliwia korzystanie z gogli noktowizyjnych przy celowaniu.</Polish>
@@ -270,7 +270,7 @@
             <Chinesesimp>夜视镜雾气程度</Chinesesimp>
             <French>Épaisseur du brouillard (JVN)</French>
             <Polish>Skala Mgły NVG</Polish>
-            <Russian>Степень размытия ПНВ</Russian>
+            <Russian>Ступінь розмиття ПНБ</Russian>
             <Portuguese>Escala de Névoa na NVG</Portuguese>
             <Czech>Míra mlhy pro noktovizor</Czech>
             <Spanish>Escala de niebla NVG</Spanish>
@@ -284,7 +284,7 @@
             <Chinesesimp>透过雾气来缩减夜视镜的可视距离。</Chinesesimp>
             <French>Le brouillard est utilisé pour limiter la visibilité.</French>
             <Polish>Mgła jest wykorzystywana do ograniczenia widoczności.</Polish>
-            <Russian>Туман используется для ограничения видимости</Russian>
+            <Russian>Ефект туману використовується для обмеження видимості</Russian>
             <Portuguese>Névoa é usada para limitar visibilidade.</Portuguese>
             <Czech>Mlha je použita pro omezení dohledu.</Czech>
             <Spanish>Niebla es usada para limitar la visibilidad</Spanish>
@@ -298,7 +298,7 @@
             <Chinesesimp>夜视镜效果程度</Chinesesimp>
             <French>Intensité des effets</French>
             <Polish>Skala Efektów NVG</Polish>
-            <Russian>Степень эффектов ПНВ</Russian>
+            <Russian>Ступінь ефектів ПНБ</Russian>
             <Portuguese>Intensidade de efeito da Visão Noturna</Portuguese>
             <Czech>Míra efektu pro noktovizor</Czech>
             <Spanish>Escala del efecto NVG</Spanish>
@@ -312,7 +312,7 @@
             <Chinesesimp>调整模糊与亮度的效果。[设值为0会关闭所有夜视镜的特殊效果]</Chinesesimp>
             <French>Effets de flou et de luminosité. [Régler cette option sur 0 désactivera TOUS les effets de vision nocturne.]</French>
             <Polish>Efekty rozmazania i jasności [Ustawienie na 0 wyłączy WSZYSTKIE efekty noktowizji]</Polish>
-            <Russian>Эффекты размытия и яркости [Установка на 0 отключит ВСЕ эффекты ПНВ]</Russian>
+            <Russian>Ефекти розмиття і яскравості [Установка на 0 відключить ВСЕ ефекти ПНБ]</Russian>
             <Portuguese>Efeitos de borrão e brilho [Definir 0 desativa TODOS os efeitos da Visão Noturna]</Portuguese>
             <Czech>Rozostření a jas [Nastavení na 0 vypne VŠECHNY efekty nočního vidění]</Czech>
             <Spanish>Efectos de emborronado y brillo [Configuración a 0 deshabilita todos los efectos de visión nocturna]</Spanish>
@@ -326,7 +326,7 @@
             <French>Flou de visée</French>
             <Italian>Blur durante la mira</Italian>
             <Polish>Rozmazanie podczas celowania z narządów celowniczych</Polish>
-            <Russian>Размытие при опущеном прицеле</Russian>
+            <Russian>Розмиття при опущеном прицілі</Russian>
             <Portuguese>Borrão ao mirar</Portuguese>
             <Czech>Rozostření při použití mířidel</Czech>
             <Spanish>Emborronado al mirar</Spanish>
@@ -340,7 +340,7 @@
             <French>Intensité du bruit (JVN)</French>
             <Italian>Fattore di Disturbo del NVG</Italian>
             <Polish>Skala Szumu NVG</Polish>
-            <Russian>Степень шума ПНВ</Russian>
+            <Russian>Ступінь шуму ПНБ</Russian>
             <Portuguese>Intensidade de Ruído/Efeito Granulado</Portuguese>
             <Czech>Míra šumu pro noktovizor</Czech>
             <Spanish>Escala de ruido/granulado NVG</Spanish>
@@ -354,7 +354,7 @@
             <French>Intensité du bruit de l'image lorsque vous portez des JVN.</French>
             <Italian>Intensità del disturbo dell'immagine quando i NVG sono equipaggiati</Italian>
             <Polish>Intensywność efektu szumu podczas noszenia gogli noktowizyjnych</Polish>
-            <Russian>Интенсивность шума при использовании ПНВ</Russian>
+            <Russian>Інтенсивність шуму при використанні ПНБ</Russian>
             <Portuguese>Intensidade de Ruído de Imagem ao utilizar Visão Noturna</Portuguese>
             <Czech>Intezita šumu při používání noktovizoru</Czech>
             <Spanish>Intensidad de ruido de la imagen cuando se usa NVG</Spanish>
@@ -368,7 +368,7 @@
             <French>Effets d'obturateur</French>
             <Italian>Effetti lampeggianti</Italian>
             <Polish>Efekt Shutter</Polish>
-            <Russian>Эффекты затвора</Russian>
+            <Russian>Ефекти затвора</Russian>
             <Portuguese>Efeito de Obturador</Portuguese>
             <Czech>Efekt závěrky</Czech>
             <Spanish>Efecto de obturador</Spanish>
@@ -382,7 +382,7 @@
             <French>Effet d'obturateur à rideau dû aux flashs du canon.</French>
             <Italian>Effetto lampeggiante dato dal lampo dello sparo</Italian>
             <Polish>Efekt rolling shutter z błysków wylotowych</Polish>
-            <Russian>Эффект затвора при вспышках выстрелов</Russian>
+            <Russian>Ефект затвора при спалахах пострілів</Russian>
             <Portuguese>Efeito de rolamento de Obturador de flashes de focinho</Portuguese>
             <Czech>Efekt závěrky z důsledku výšlehu při střelbě</Czech>
             <Spanish>Efecto obturador por los fogonazos de la boca del cañón</Spanish>

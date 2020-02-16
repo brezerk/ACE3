@@ -5,7 +5,7 @@
             <English>Medic AI</English>
             <German>Sanitäts KI</German>
             <Japanese>AI 衛生兵</Japanese>
-            <Russian>ИИ Медик</Russian>
+            <Russian>Боти в ролі Медиків</Russian>
             <French>Médecine IA</French>
             <Portuguese>IA Médico</Portuguese>
             <Chinese>AI醫療兵</Chinese>
@@ -19,7 +19,7 @@
             <English>AI will respond to injury and unconsciousness</English>
             <German>KI reagiert auf Verletzungen und Bewusstlosigkeit</German>
             <Japanese>AI が負傷者と気絶している人に対して行動するようになります。</Japanese>
-            <Russian>ИИ будет реагировать на травмы и потерю сознания</Russian>
+            <Russian>Боти будуть реагувати на травми та втрату свідомості</Russian>
             <French>Les unités IA seront sensibles aux blessures, ainsi qu'à la perte de connaissance.</French>
             <Portuguese>A IA irá responder a ferimentos e perdas de consciência</Portuguese>
             <Chinese>AI對於受傷及無意識單位會有所反應</Chinese>
@@ -32,7 +32,7 @@
             <English>Only Server and HC</English>
             <German>Nur Server und HC</German>
             <Spanish>Sólo Server y HC</Spanish>
-            <Russian>Только сервер и HC</Russian>
+            <Russian>Тільки Сервер та Headless Client</Russian>
             <Japanese>サーバーと HC のみ</Japanese>
             <Polish>Tylko serwer i HC</Polish>
             <French>Seulement sur le serveur ou le HC</French>

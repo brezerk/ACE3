@@ -6,7 +6,7 @@
             <French>Pince coupante</French>
             <German>Drahtschneider</German>
             <Spanish>Cortador de cables</Spanish>
-            <Russian>Клещи-кусачки</Russian>
+            <Russian>Дроторіз</Russian>
             <Czech>Štípací kleště</Czech>
             <Polish>Nożyce do cięcia drutu</Polish>
             <Hungarian>Drótvágó</Hungarian>
@@ -22,7 +22,7 @@
             <English>Wirecutter</English>
             <German>Schneidet Draht.</German>
             <Spanish>Cortador de cables</Spanish>
-            <Russian>Позволяют быстро перекусывать сеточные конструкции.</Russian>
+            <Russian>Дроторіз дозволяє швидко розрізати дроти та сіткові конструкції</Russian>
             <Czech>Štípací kleště</Czech>
             <Polish>Służą do cięcia drutu i płotów</Polish>
             <French>Pince coupante</French>
@@ -45,7 +45,7 @@
             <Portuguese>Cortar Cerca</Portuguese>
             <Italian>Taglia</Italian>
             <Hungarian>Drótkerítés átvágása</Hungarian>
-            <Russian>Разрезать забор</Russian>
+            <Russian>Розрізати сітку</Russian>
             <Japanese>フェンスを切断する</Japanese>
             <Korean>철조망 자르기</Korean>
             <Chinesesimp>剪断护栏</Chinesesimp>
@@ -60,9 +60,9 @@
             <Czech>Přestřihávám plot / dráty...</Czech>
             <French>Cisaillement de l'obstacle...</French>
             <Portuguese>Cortando Cerca / Arame...</Portuguese>
+            <Russian>Розрізається сітка  / дріт...</Russian>
             <Italian>Sto tagliando...</Italian>
             <Hungarian>Drótok elvágása...</Hungarian>
-            <Russian>Разрезаем забор / провода...</Russian>
             <Japanese>フェンス/ワイヤを切断しています・・・</Japanese>
             <Korean>철망/철조망 자르는중...</Korean>
             <Chinesesimp>剪断护栏/刺网中...</Chinesesimp>
@@ -79,7 +79,7 @@
             <Portuguese>Cerca cortada</Portuguese>
             <Italian>Fatto!</Italian>
             <Hungarian>Drótkerítés átvágva</Hungarian>
-            <Russian>Забор разрезан</Russian>
+            <Russian>Сітка розрізана</Russian>
             <Japanese>フェンスを切断しました</Japanese>
             <Korean>절단됨</Korean>
             <Chinesesimp>护栏已被剪断</Chinesesimp>

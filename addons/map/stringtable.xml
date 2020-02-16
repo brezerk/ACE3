@@ -10,7 +10,7 @@
             <Portuguese>Mapa</Portuguese>
             <French>Carte</French>
             <Hungarian>Térkép</Hungarian>
-            <Russian>Карта</Russian>
+            <Russian>Мапа</Russian>
             <Italian>Mappa</Italian>
             <Japanese>地図</Japanese>
             <Korean>지도</Korean>
@@ -27,7 +27,7 @@
             <Portuguese>Iluminação do mapa</Portuguese>
             <French>Éclairage de la carte</French>
             <Hungarian>Térkép megvilágítása</Hungarian>
-            <Russian>Освещение карты</Russian>
+            <Russian>Освітлення мапи</Russian>
             <Italian>Illuminazione Mappa</Italian>
             <Japanese>地図に照明</Japanese>
             <Korean>지도에 조명</Korean>
@@ -40,7 +40,7 @@
             <German>Simuliere Kartenbeleuchtung auf Basis des Umgebungslichts sowie der mitgeführten Gegenstände?</German>
             <Polish>Symuluj oświetlenie mapy bazujące na oświetleniu otoczenia oraz przedmiotach gracza?</Polish>
             <French>Simule l'éclairage de la carte en fonction de l'éclairage ambiant et des objets du joueur.</French>
-            <Russian>Симулировать освещение карты на основе окружающего света и приборов игрока?</Russian>
+            <Russian>Симулювати освітлення мапи на базі навколишнього освітлення та приладів гравця?</Russian>
             <Portuguese>Simular a luz do mapa baseado em luz ambiente e itens do jogador?</Portuguese>
             <Spanish>Simular iluminación de mapa basada en la iluminación ambiente y los elementos de los jugadores?</Spanish>
             <Czech>Simulovat nasvícení mapy v závisloti na okolí a předmětů hráče?</Czech>
@@ -54,7 +54,7 @@
             <English>Map flashlight glow</English>
             <German>Kartenbeleuchtung durch Dritte erkennbar</German>
             <Polish>Poświata latarki</Polish>
-            <Russian>Свет фонаря на карте</Russian>
+            <Russian>Світло ліхтаря на мапі</Russian>
             <Portuguese>Brilho de lanterna no mapa</Portuguese>
             <Spanish>Resplandor de linterna en el mapa</Spanish>
             <Czech>Nasvícení mapy pomocí baterky</Czech>
@@ -70,7 +70,7 @@
             <German>Kartenbeleuchtung mittels Taschenlampe durch Dritte erkennbar?</German>
             <Polish>Pokaż poświatę światła latarki na graczu, który używa latarki na widoku mapy?</Polish>
             <French>Ajoute une lueur externe aux joueurs éclairant leur carte avec une lampe.</French>
-            <Russian>Добавить свет при использовании фонаря на карте?</Russian>
+            <Russian>Додати підсвітлення гравцям при використання ліхтаря на мапі?</Russian>
             <Portuguese>Adicionar brilho externo para jogadores que usam lanterna no mapa?</Portuguese>
             <Spanish>Añadir resplandor externo a los jugadores que utilizan la linterna en el mapa?</Spanish>
             <Czech>Přidat externí záři hráči který používá baterku v mapě?</Czech>
@@ -89,7 +89,7 @@
             <Portuguese>Tremor de mapa</Portuguese>
             <French>Tremblement de la carte</French>
             <Hungarian>Térkép-rázkódás</Hungarian>
-            <Russian>Тряска карты</Russian>
+            <Russian>Тремтіння мапи</Russian>
             <Italian>Scuoti la mappa</Italian>
             <Japanese>地図を揺らしますか</Japanese>
             <Korean>지도 흔들림</Korean>
@@ -106,7 +106,7 @@
             <Portuguese>Tremer o mapa enquanto caminha?</Portuguese>
             <French>La carte tremble lorsque le joueur marche en la regardant.</French>
             <Hungarian>Rázkódjon-e a térkép mozgáskor?</Hungarian>
-            <Russian>Заставлять карту трястись при ходьбе?</Russian>
+            <Russian>Відображати тремтіння мапи під час ходьби?</Russian>
             <Italian>Far scuotere la mappa mentre cammini?</Italian>
             <Japanese>歩いているときは地図を揺らしますか?</Japanese>
             <Korean>걸을때 지도보면 흔들리게 합니까?</Korean>
@@ -122,7 +122,7 @@
             <Portuguese>Limitar zoom do mapa</Portuguese>
             <French>Limiter le zoom sur carte</French>
             <Hungarian>Térkép-nagyítás korlátozása</Hungarian>
-            <Russian>Ограничить приближение карты</Russian>
+            <Russian>Обмежити приближення мапи</Russian>
             <Italian>Limita lo zoom in mappa</Italian>
             <Japanese>地図の拡大を制限しますか</Japanese>
             <Korean>지도 확대 제한</Korean>
@@ -138,7 +138,7 @@
             <Portuguese>Limitar a quantidade de zoom disponível para o mapa?</Portuguese>
             <French>Limite le niveau de zoom sur la carte.</French>
             <Hungarian>Korlátozva legyen-e a nagyítás mennyisége a térképnél?</Hungarian>
-            <Russian>Ограничить максимальное приближение, доступное на карте?</Russian>
+            <Russian>Обмежити максимальне приближення, доступне на мапі?</Russian>
             <Italian>Limita l'ammontare di zoom disponibile per la mappa?</Italian>
             <Japanese>地図上で利用できる拡大倍率を制限しますか?</Japanese>
             <Korean>지도 확대에 제한을 둡니까?</Korean>
@@ -154,7 +154,7 @@
             <Portuguese>Mostrar coordenadas no cursor</Portuguese>
             <French>Afficher les coordonnées du curseur</French>
             <Hungarian>Kurzor-koordináták mutatása</Hungarian>
-            <Russian>Показывать координаты курсора</Russian>
+            <Russian>Показувати координати курсора</Russian>
             <Italian>Mostra coordinate sul cursore</Italian>
             <Japanese>カーソル先で座標を表示しますか</Japanese>
             <Korean>커서에 좌표를 보이게 합니까</Korean>
@@ -170,7 +170,7 @@
             <Portuguese>Mostrar as coordenadas de grade no ponteiro do mouse?</Portuguese>
             <French>Affiche les coordonnées de la grille sur le pointeur de souris.</French>
             <Hungarian>Mutatva legyen-e a kurzornál található rész rácskoordinátája?</Hungarian>
-            <Russian>Показывать координаты около курсора мыши?</Russian>
+            <Russian>Показувати координати поруч з курсором миші?</Russian>
             <Italian>Mostra la griglia coordinate sul cursore mouse?</Italian>
             <Japanese>カーソルに合わせた先を地図座標で表示しますか?</Japanese>
             <Korean>지도에서 커서 옆에 좌표가 뜨게 합니까?</Korean>
@@ -185,7 +185,7 @@
             <Portuguese>Este módulo permite que você personalize a tela de mapa.</Portuguese>
             <French>Ce module permet de personnaliser l'écran de carte.</French>
             <Hungarian>Ez a modul lehetővé teszi a térképnézet testreszabását.</Hungarian>
-            <Russian>Этот модуль позволяет настроить отображение карты.</Russian>
+            <Russian>Цей модуль дозволяє налаштувати відображення мапи</Russian>
             <Spanish>Este módulo permite personalizar la pantalla del mapa.</Spanish>
             <Italian>Questo modulo ti permette di customizzare lo schermo della mappa.</Italian>
             <Japanese>このモジュールは地図画面を変更できます。</Japanese>
@@ -202,7 +202,7 @@
             <Portuguese>Rastreio de forças azuis</Portuguese>
             <French>Suivi des Forces Alliées (SFA)</French>
             <Hungarian>Blue Force követés</Hungarian>
-            <Russian>Система слежения Blue Force Tracking</Russian>
+            <Russian>Система стеження Blue Force Tracking (BFT)</Russian>
             <Italian>Blue Force Tracking</Italian>
             <Japanese>ブルー フォース トラッキング</Japanese>
             <Korean>GPS피아식별기</Korean>
@@ -218,7 +218,7 @@
             <Spanish>Activar BFT</Spanish>
             <French>Activer le SFA</French>
             <Hungarian>BFT engedélyezése</Hungarian>
-            <Russian>Включить BFT</Russian>
+            <Russian>Активувати BFT</Russian>
             <Italian>Abilita BFT</Italian>
             <Japanese>BFT を有効化</Japanese>
             <Korean>GPS피아식별기 켜기</Korean>
@@ -234,7 +234,7 @@
             <Spanish>Activar Blue Force Tracking. Por defecto: No</Spanish>
             <French>Active le SFA. Valeur par défaut : désactivé.</French>
             <Hungarian>Blue Force követés engedélyezése. Alapértelmezett: Nem</Hungarian>
-            <Russian>Включает систему служения BFT. По-умолчанию: Нет</Russian>
+            <Russian>Вмикати систему стеження BFT. За замовчуванням: Ні</Russian>
             <Italian>Abilita Blue Force Tracking. Default: No</Italian>
             <Japanese>ブルー フォース トラッキングを有効化します。標準: 無効</Japanese>
             <Korean>GPS피아식별기 켭니다. 기본설정: 아니요</Korean>
@@ -250,7 +250,7 @@
             <Portuguese>Intervalo</Portuguese>
             <French>Intervalle</French>
             <Hungarian>Intervallum</Hungarian>
-            <Russian>Интервал</Russian>
+            <Russian>Інтервал оновлення</Russian>
             <Italian>Intervallo</Italian>
             <Japanese>間隔</Japanese>
             <Korean>간격</Korean>
@@ -266,7 +266,7 @@
             <Portuguese>Frequência em que os marcadores devem ser atualizados (em segundos)</Portuguese>
             <French>Fréquence de rafraîchissement des marqueurs (en secondes).</French>
             <Hungarian>Milyen gyakran frissüljenek a jelölők (másodpercben)</Hungarian>
-            <Russian>Как часто должны обновляться маркеры (в секундах)</Russian>
+            <Russian>Частота оновлювання маркерів BFT (в секундах)</Russian>
             <Italian>Quanto spesso vengono aggiornati i marker (in secondi)</Italian>
             <Japanese>マーカが再描画される間隔を設定できます (秒)</Japanese>
             <Korean>몇 초마다 마커를 새로 갱신합니까?</Korean>
@@ -282,7 +282,7 @@
             <Portuguese>Esconder grupos de IA</Portuguese>
             <French>Cacher les groupes IA</French>
             <Hungarian>AI csoportok elrejtése</Hungarian>
-            <Russian>Скрыть группы ботов</Russian>
+            <Russian>Приховати групи ботів</Russian>
             <Italian>Nascondere gruppi IA</Italian>
             <Japanese>AI グループを非表示にしますか</Japanese>
             <Korean>인공지능 그룹을 숨깁니까</Korean>
@@ -298,7 +298,7 @@
             <Portuguese>Esconder marcadores que pertencem ao grupo de IA?</Portuguese>
             <French>Cache les marqueurs pour les groupes composés exclusivement d'unités IA.</French>
             <Hungarian>Jelölők elrejtése "csak AI" csoportoknál?</Hungarian>
-            <Russian>Скрыть маркеры групп, которые состоят полностью из ботов?</Russian>
+            <Russian>Приховати маркери груп, що складаються повністю з ботів?</Russian>
             <Italian>Nascondi markers per gruppi di sole IA?</Italian>
             <Japanese>'AI のみ'グループのマーカを隠しますか?</Japanese>
             <Korean>인공지능만 있는 그룹의 마커를 숨깁니까?</Korean>
@@ -314,7 +314,7 @@
             <Portuguese>Mostrar os nomes dos jogadores</Portuguese>
             <French>Afficher les noms des joueurs</French>
             <Hungarian>Itt található az a játékos nevét</Hungarian>
-            <Russian>Показать имена игроков</Russian>
+            <Russian>Показати імена гравців</Russian>
             <Italian>Mostra i nomi dei giocatori</Italian>
             <Japanese>プレイヤ名を表示しますか</Japanese>
             <Korean>플레이어 이름을 표시합니까</Korean>
@@ -330,7 +330,7 @@
             <Portuguese>Mostrar nomes individuais dos jogadores?</Portuguese>
             <French>Affiche les noms de tous les joueurs individuellement.</French>
             <Hungarian>Itt található az adott játékos neveket?</Hungarian>
-            <Russian>Показать отдельные имена игроков?</Russian>
+            <Russian>Показувати імена гравців?</Russian>
             <Italian>Mostra i nomi dei giocatori singoli?</Italian>
             <Japanese>プレイヤの名前を表示しますか?</Japanese>
             <Korean>각 플레이어의 이름을 표시합니까?</Korean>
@@ -345,7 +345,7 @@
             <Portuguese>Permite que você acompanhe as posições no mapa das unidades aliadas com marcadores RFA.</Portuguese>
             <French>Ce module permet de suivre les unités alliées avec des marqueurs sur la carte.</French>
             <Hungarian>Ez a modul lehetővé teszi a szövetséges egységek követését BFT térképjelzőjkkel.</Hungarian>
-            <Russian>Этот модуль позволяет отслеживать перемещение союзных войск по карте при помощи маркеров BFT.</Russian>
+            <Russian>Цей модуль дозволяє відстежувати переміщення союзників на мапі за допомогою маркерів BFT</Russian>
             <Spanish>Este módulo permite el seguimiento de las unidades aliadas con marcadores de mapa BFT.</Spanish>
             <Italian>Questo modulo permette il tracciamento di unità alleate con i marker BFT in mappa</Italian>
             <Japanese>モジュールは BFT マップ マーカとともに、同勢力ユニットの追跡を許可します。</Japanese>
@@ -359,7 +359,7 @@
             <Polish>Latarki</Polish>
             <French>Lampes de poche</French>
             <Portuguese>Lanternas</Portuguese>
-            <Russian>Фонари</Russian>
+            <Russian>Ліхтарі</Russian>
             <Czech>Svítilny</Czech>
             <Spanish>Linternas</Spanish>
             <Italian>Torcia</Italian>
@@ -375,7 +375,7 @@
             <Polish>Noktowizja</Polish>
             <Portuguese>Óculos de Visão Noturna</Portuguese>
             <French>JVN</French>
-            <Russian>ПНВ</Russian>
+            <Russian>ПНБ</Russian>
             <Czech>NVG</Czech>
             <Spanish>NVG</Spanish>
             <Italian>NVG</Italian>
@@ -391,7 +391,7 @@
             <Polish>Włącz</Polish>
             <Portuguese>Ligado</Portuguese>
             <French>Allumée</French>
-            <Russian>Вкл.</Russian>
+            <Russian>Увімкн.</Russian>
             <Czech>Zapnout</Czech>
             <Spanish>Encendido</Spanish>
             <Italian>Acceso</Italian>
@@ -407,7 +407,7 @@
             <Polish>Wyłącz</Polish>
             <Portuguese>Desligado</Portuguese>
             <French>Éteinte</French>
-            <Russian>Выкл.</Russian>
+            <Russian>Вимкн.</Russian>
             <Czech>Vypnout</Czech>
             <Spanish>Apagado</Spanish>
             <Italian>Spento</Italian>
@@ -423,7 +423,7 @@
             <Polish>Zwiększ czułość</Polish>
             <Portuguese>Aumentar brilho</Portuguese>
             <French>Augmenter la luminosité</French>
-            <Russian>Увеличить яркость</Russian>
+            <Russian>Збільшити яскравість</Russian>
             <Czech>Zvýšit jas</Czech>
             <Spanish>Aumentar brillo</Spanish>
             <Italian>Aumenta Luminosità</Italian>
@@ -438,7 +438,7 @@
             <Polish>Zmniejsz czułość</Polish>
             <Portuguese>Diminuir brilho</Portuguese>
             <French>Diminuer la luminosité</French>
-            <Russian>Уменьшить яркость</Russian>
+            <Russian>Зменшити яскравість</Russian>
             <Czech>Snížit jas</Czech>
             <Spanish>Reducir brillo</Spanish>
             <Italian>Diminuisci Luminosità</Italian>
@@ -457,7 +457,7 @@
             <Italian>Accendi %1</Italian>
             <Hungarian>%1 Bekapcsolása</Hungarian>
             <Portuguese>Ativar %1</Portuguese>
-            <Russian>Активировать %1</Russian>
+            <Russian>Увімкнути %1</Russian>
             <Japanese>%1 を点ける</Japanese>
             <Korean>%1 켜기</Korean>
             <Chinesesimp>开启%1</Chinesesimp>
@@ -474,7 +474,7 @@
             <Italian>Spegni %1</Italian>
             <Hungarian>%1 Kikapcsolása</Hungarian>
             <Portuguese>Desativar %1</Portuguese>
-            <Russian>Деактивировать %1</Russian>
+            <Russian>Вимкнути %1</Russian>
             <Japanese>%1 を消す</Japanese>
             <Korean>%1 끄기</Korean>
             <Chinesesimp>关闭%1</Chinesesimp>
@@ -486,7 +486,7 @@
             <German>Setzt Kanal am Spielstart</German>
             <Polish>Ust. domyślny kanał</Polish>
             <Portuguese>Definir canal no início</Portuguese>
-            <Russian>Установить канал на старте</Russian>
+            <Russian>Встановити канал на старті</Russian>
             <Czech>Zvolit kanál po startu</Czech>
             <Italian>Imposta Canale all'Avvio</Italian>
             <Spanish>Setear canal al comenzar</Spanish>
@@ -501,7 +501,7 @@
             <German>Setzt den Chat/Markierungskanal am Missionsstart</German>
             <Polish>Ustaw domyślny kanał dla markerów przy starcie misji</Polish>
             <Portuguese>Muda o canal do marcador no início da missão</Portuguese>
-            <Russian>Изменить начальный канал для установки маркеров при запуске миссии</Russian>
+            <Russian>Змінити початковий канал для установки маркерів при старті місії</Russian>
             <Czech>Nastavit kanál po startu mise</Czech>
             <Italian>Cambia il canale marker iniziale all'avvio di missione</Italian>
             <Spanish>Cambiar el canal de marcadores inicial al comenzar la misión</Spanish>
@@ -521,7 +521,7 @@
             <Italian>Disablita BFT</Italian>
             <Chinesesimp>关闭友军踪迹</Chinesesimp>
             <Chinese>關閉友軍蹤跡</Chinese>
-            <Russian>Отключить BFT</Russian>
+            <Russian>Відключити BFT</Russian>
             <Portuguese>Desativar BFT</Portuguese>
             <Czech>Vypnout sledování přátelských jednotek (BFT).</Czech>
         </Key>
@@ -535,7 +535,7 @@
             <Italian>Disabilita sempre il Blue Force Tracking per questo gruppo.</Italian>
             <Chinesesimp>对此小队永远关闭友军踪迹显示</Chinesesimp>
             <Chinese>對此小隊永遠關閉友軍蹤跡顯示</Chinese>
-            <Russian>Всегда отключать Blue Force Tracking для этой группы</Russian>
+            <Russian>Завжди відключати Blue Force Tracking для цієї групи</Russian>
             <Portuguese>Sempre desativar Rastreio Blue Force (BFT) para esse grupo.</Portuguese>
             <Czech>Vždy vypne sledování přátelských jednotek (BFT) pro tuto skupinu.</Czech>
         </Key>

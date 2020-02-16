@@ -5,7 +5,7 @@
             <English>Check ammo on weapon reload</English>
             <German>Prüfe Munition beim Nachladen</German>
             <Spanish>Comprobar munición al recargar el arma</Spanish>
-            <Russian>Проверять боезапас при перезарядке</Russian>
+            <Russian>Показувати боєзапас при перезарядці</Russian>
             <Czech>Zkontrolovat munici při nabití</Czech>
             <Polish>Sprawdź stan amunicji przy przeładowaniu broni</Polish>
             <French>Vérifier les munitions au rechargement</French>
@@ -21,7 +21,7 @@
             <English>Check the ammo in your new magazine on magazine reload.</English>
             <German>Prüfe nachgeladenes Magazin</German>
             <Spanish>Comprueba la munición del nuevo cargador al recargar.</Spanish>
-            <Russian>Проверяет количество патронов в новом магазине при перезарядке.</Russian>
+            <Russian>Перевіряє кількість патронів в новому магазині при перезарядці</Russian>
             <Czech>Kontroluje munice při nabití nového zásobníku.</Czech>
             <Polish>Pokaż stan amunicji w nowym magazynku przy przeładowaniu broni</Polish>
             <French>Vérifie les munitions du nouveau chargeur lors du rechargement d'une arme.</French>
@@ -35,6 +35,7 @@
         </Key>
         <Key ID="STR_ACE_Reload_SettingShowCheckAmmoSelf">
             <English>Always show check ammo self interaction</English>
+            <Russian>Перевірка боєприпасів в меню взаємодії</Russian>
             <Polish>Zawsze pokazuj interakcję od sprawdzania amunicji</Polish>
             <Italian>Mostra sempre l'interazione di autocontrollo delle munizioni</Italian>
             <Czech>Vždy zobrazit kontrolu munice v menu vlastní interakce</Czech>
@@ -45,6 +46,7 @@
         </Key>
         <Key ID="STR_ACE_Reload_SettingShowCheckAmmoSelfDesc">
             <English>Shows check ammo self interaction even when not in static weapons.</English>
+            <Russian>Відображає дію перевірки боєприпасів в меню взаємодії для всієї зброї, не тільки стаціонарів</Russian>
             <Polish>Pokazuje interakcję od sprawdzania amunicji poza bronią statyczną.</Polish>
             <Italian>Mostra il controllo dell'interazione tra le munizioni anche quando non sono in armi statiche.</Italian>
             <Czech>Zobrazuje kontrolu munice v menu vlastní interakce i pokud hráč nepoužívá statickou zbraň.</Czech>
@@ -63,7 +65,7 @@
             <Czech>Zkontrolovat Munici</Czech>
             <Italian>Controlla le munizioni</Italian>
             <Portuguese>Conferir munições</Portuguese>
-            <Russian>Проверить боеприпасы</Russian>
+            <Russian>Перевірити БК</Russian>
             <Japanese>弾薬を確認</Japanese>
             <Korean>장탄수 확인</Korean>
             <Chinesesimp>检查弹药</Chinesesimp>
@@ -80,7 +82,7 @@
             <Czech>Munice</Czech>
             <Italian>Munizioni</Italian>
             <Portuguese>Munições</Portuguese>
-            <Russian>Боеприпасы</Russian>
+            <Russian>Боєприпаси</Russian>
             <Japanese>弾薬</Japanese>
             <Korean>장탄수</Korean>
             <Chinesesimp>弹药</Chinesesimp>
@@ -91,7 +93,7 @@
             <English>Link belt</English>
             <French>Attacher bande</French>
             <Spanish>Enlazar cinta</Spanish>
-            <Russian>Сцепить ленты</Russian>
+            <Russian>Зчепити стрічки</Russian>
             <Czech>Spojit pás munice</Czech>
             <Polish>Podłącz taśmę</Polish>
             <German>Gurt anhängen</German>
@@ -107,7 +109,7 @@
             <English>Linking belt...</English>
             <French>Attachage d'une bande...</French>
             <Spanish>Enlazando cinta...</Spanish>
-            <Russian>Сцепка лент...</Russian>
+            <Russian>Зчеплення лент...</Russian>
             <Czech>Spojuji pás...</Czech>
             <Polish>Podłączanie taśmy...</Polish>
             <German>Gurt anhängen...</German>

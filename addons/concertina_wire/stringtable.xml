@@ -4,7 +4,7 @@
         <Key ID="STR_ACE_Concertina_Wire_DisplayName">
             <English>Concertina Wire</English>
             <German>NATO-Draht</German>
-            <Russian>Колючая проволока</Russian>
+            <Russian>Колючий дріт</Russian>
             <Polish>Koncentrina</Polish>
             <Spanish>Alambre de espino</Spanish>
             <French>Fil barbelé</French>
@@ -20,7 +20,7 @@
         <Key ID="STR_ACE_Concertina_Wire_Coil_DisplayName">
             <English>Concertina Wire Coil</English>
             <German>NATO-Draht Rolle</German>
-            <Russian>Колючая проволока (моток)</Russian>
+            <Russian>Колючий дріт (моток)</Russian>
             <Polish>Zwój koncentriny</Polish>
             <Spanish>Bobina de alambre de espino</Spanish>
             <French>Bobine de fil barbelé</French>
@@ -36,7 +36,7 @@
         <Key ID="STR_ACE_Concertina_Wire_UnrollWire">
             <English>Dismount Concertina Wire</English>
             <German>NATO-Draht abbauen</German>
-            <Russian>Демонтировать колючую проволоку</Russian>
+            <Russian>Демонтувати колючий дріт</Russian>
             <Polish>Zwiń koncentrinę</Polish>
             <Spanish>Desmontar alambre de espino</Spanish>
             <French>Démontage du fil barbelé...</French>
@@ -52,7 +52,7 @@
         <Key ID="STR_ACE_Concertina_Wire_RollWire">
             <English>Deploy Concertina Wire</English>
             <German>NATO-Draht verlegen</German>
-            <Russian>Монтировать колючую проволоку</Russian>
+            <Russian>Розгорнути колючий дріт</Russian>
             <Polish>Rozwiń koncentrinę</Polish>
             <Spanish>Desplegar alambre de espino</Spanish>
             <French>Mettre en place le fil barbelé</French>

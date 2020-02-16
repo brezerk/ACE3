@@ -8,7 +8,7 @@
             <Czech>Směr: %1°</Czech>
             <Polish>Kierunek: %1°</Polish>
             <Spanish>Dirección: %1°</Spanish>
-            <Russian>Направление: %1°</Russian>
+            <Russian>Напрямок: %1°</Russian>
             <Hungarian>Irány: %1°</Hungarian>
             <Italian>Direzione: %1°</Italian>
             <Portuguese>Direção %1</Portuguese>
@@ -27,7 +27,7 @@
             <Chinesesimp>标志</Chinesesimp>
             <Korean>맵마커</Korean>
             <Polish>Znaczniki</Polish>
-            <Russian>Маркеры</Russian>
+            <Russian>Маркери</Russian>
             <Portuguese>Marcadores</Portuguese>
             <French>Marqueurs</French>
             <Czech>Značky</Czech>
@@ -42,7 +42,7 @@
             <Chinesesimp>谁可以移动标志</Chinesesimp>
             <Italian>Permetti di spostare i marcatori a:</Italian>
             <Polish>Zezwól na poruszanie znaczników dla</Polish>
-            <Russian>Разрешить перемещение маркеров для</Russian>
+            <Russian>Дозволити переміщення маркерів</Russian>
             <Portuguese>Permitir que movam marcadores</Portuguese>
             <French>Permettre le déplacement des marqueurs pour</French>
             <Czech>Povolit pohyb se značkami pro</Czech>
@@ -56,7 +56,7 @@
             <Chinesesimp>设定谁可以透过按住Alt键来移动标志。</Chinesesimp>
             <Italian>Limita quali giocatori possono spostare i marcatori mentre premono il tasto Alt.</Italian>
             <Polish>Ogranicz którzy gracze mogą poruszać znacznikami podczas trzymania przycisku Alt.</Polish>
-            <Russian>Устанавливает ограничение на перемещения маркеров игроками при помощи клавиши Alt</Russian>
+            <Russian>Встановлює обмеження на переміщення маркерів за допомогою клавіші Alt</Russian>
             <Portuguese>Restringe quais jogadores podem mover os marcadores do mapa enquanto seguram a tecla ALT.</Portuguese>
             <French>Définit quels joueurs peuvent déplacer des marqueurs en maintenant la touche Alt enfoncée.</French>
             <Czech>Omezuje kdo může pohybovat se značkami při podržení klávesy Alt.</Czech>
@@ -70,7 +70,7 @@
             <Chinesesimp>没有人</Chinesesimp>
             <Italian>Nessuno</Italian>
             <Polish>Nikt</Polish>
-            <Russian>Никого</Russian>
+            <Russian>Нікому</Russian>
             <Portuguese>Ninguém</Portuguese>
             <French>Personne</French>
             <Czech>Nikdo</Czech>
@@ -85,7 +85,7 @@
             <Chinesesimp>所有玩家</Chinesesimp>
             <Korean>모든 플레이어</Korean>
             <Polish>Wszyscy gracze</Polish>
-            <Russian>Всех игроков</Russian>
+            <Russian>Всім гравцям</Russian>
             <Portuguese>Todos jogadores</Portuguese>
             <French>Tous les joueurs</French>
             <Czech>Všichni hráči</Czech>
@@ -100,7 +100,7 @@
             <Chinesesimp>管理员</Chinesesimp>
             <Korean>관리자</Korean>
             <Polish>Administratorzy</Polish>
-            <Russian>Админов</Russian>
+            <Russian>Адмінам</Russian>
             <Portuguese>Admins</Portuguese>
             <French>Admins</French>
             <Czech>Administrátoři</Czech>
@@ -115,7 +115,7 @@
             <Chinesesimp>小队长</Chinesesimp>
             <Korean>분대장</Korean>
             <Polish>Przywódcy grup</Polish>
-            <Russian>Лидеров групп</Russian>
+            <Russian>Лідерам груп</Russian>
             <Portuguese>Líderes de grupo</Portuguese>
             <French>Chefs de groupe</French>
             <Czech>Velitelé jednotek</Czech>
@@ -130,7 +130,7 @@
             <Chinesesimp>小队长与管理员</Chinesesimp>
             <Korean>분대장과 관리자</Korean>
             <Polish>Przywódcy grup i Administratorzy</Polish>
-            <Russian>Лидеров групп и Админов</Russian>
+            <Russian>Лідерам груп та Адмінам</Russian>
             <Portuguese>Líderes de grupo e Admins</Portuguese>
             <French>Chefs de groupe et Admins</French>
             <Czech>Velitelé jednotek a Administrátoři</Czech>
@@ -141,7 +141,7 @@
             <German>Ersteller</German>
             <Japanese>設置者</Japanese>
             <Polish>Twórca</Polish>
-            <Russian>Создателя</Russian>
+            <Russian>Творцю</Russian>
             <Portuguese>Criador</Portuguese>
             <Chinese>放置者</Chinese>
             <French>Créateur</French>

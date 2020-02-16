@@ -5,7 +5,7 @@
             <English>Feedback</English>
             <German>Feedback</German>
             <Japanese>感触</Japanese>
-            <Russian>Реакция на ранения</Russian>
+            <Russian>Реакція на поранення</Russian>
             <French>Réaction aux blessures</French>
             <Portuguese>Reação a Lesões</Portuguese>
             <Chinese>視覺回饋</Chinese>
@@ -19,7 +19,7 @@
             <English>Pain Effect Type</English>
             <German>Schmerzeffekt-Typ</German>
             <Polish>Rodzaj efektu bólu</Polish>
-            <Russian>Визуальный эффект боли</Russian>
+            <Russian>Візуальний ефект болю</Russian>
             <Italian>Effetto del dolore</Italian>
             <Spanish>Tipo de efecto de dolor</Spanish>
             <French>Effet de douleur</French>
@@ -35,7 +35,7 @@
             <English>Selects the used pain effect type.</English>
             <Japanese>痛みの効果の種類を選択できます。</Japanese>
             <French>Permet de choisir quel effet provoque la douleur.</French>
-            <Russian>Выбирает тип визуализации болевого эффекта.</Russian>
+            <Russian>Вибирає тип візуалізації больового ефекту</Russian>
             <Portuguese>Selecione o tipo de efeito de dor.</Portuguese>
             <Chinese>選擇哪一個視覺效果用於回饋疼痛</Chinese>
             <Italian>Seleziona il tipo di effetto del dolore usato.</Italian>
@@ -49,7 +49,7 @@
             <English>White Flashing</English>
             <German>Weißes blinken</German>
             <Japanese>白く点滅</Japanese>
-            <Russian>Белые вспышки</Russian>
+            <Russian>Білі спалахи</Russian>
             <French>Flash blancs</French>
             <Portuguese>Flashes Brancos</Portuguese>
             <Chinese>白光閃爍</Chinese>
@@ -63,7 +63,7 @@
             <English>Pulsing Blur</English>
             <German>Wiederkehrende Unschärfe</German>
             <Japanese>ボケの強弱</Japanese>
-            <Russian>Пульсирующее размытие</Russian>
+            <Russian>Пульсуюче розмиття</Russian>
             <French>Pulsations floues</French>
             <Portuguese>Borrão Pulsante</Portuguese>
             <Chinese>脈動模糊</Chinese>
@@ -77,7 +77,7 @@
             <English>Chromatic Aberration</English>
             <German>Chromatische Aberration</German>
             <Polish>Aberracja chromatyczna</Polish>
-            <Russian>Хроматическая аберрация</Russian>
+            <Russian>Хроматична аберація</Russian>
             <Italian>Aberrazione cromatica</Italian>
             <Spanish>Aberración cromática</Spanish>
             <French>Aberration chromatique</French>
@@ -92,6 +92,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Feedback_PainEffectType_OnlyBase">
             <English>Only high pain effect</English>
+            <Russian>Лише при сильних болях</Russian>
             <Japanese>強い痛みの時のみ</Japanese>
             <Chinese>只有在強烈疼痛時使用</Chinese>
             <French>Juste un fort effet douloureux</French>
@@ -106,7 +107,7 @@
         <Container name="Settings">
             <Key ID="STR_ACE_Medical_Feedback_enableScreams_DisplayName">
                 <English>Enable Screams</English>
-                <Russian>Включить крики</Russian>
+                <Russian>Увімкнути крики</Russian>
                 <Polish>Aktywuj wrzaski</Polish>
                 <Spanish>Activar gritos</Spanish>
                 <German>Schreie aktivieren</German>
@@ -123,7 +124,7 @@
             </Key>
             <Key ID="STR_ACE_Medical_Feedback_enableScreams_Description">
                 <English>Enable screaming by injured units</English>
-                <Russian>Включить крики раненных бойцов</Russian>
+                <Russian>Увімкнути крики поранених бійців</Russian>
                 <Polish>Aktywuj wrzeszczenie z bólu przez ranne jednostki</Polish>
                 <Spanish>Activar gritos para unidades heridas</Spanish>
                 <German>Aktiviere Schreie bei verletzten Einheiten</German>

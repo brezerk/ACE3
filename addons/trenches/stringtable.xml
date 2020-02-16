@@ -10,7 +10,7 @@
             <French>Outil de tranchée</French>
             <Czech>Polní lopatka</Czech>
             <Portuguese>Ferramenta de trincheira</Portuguese>
-            <Russian>Саперная лопата</Russian>
+            <Russian>Саперна лопата</Russian>
             <Japanese>シャベル</Japanese>
             <Korean>야전삽</Korean>
             <Chinesesimp>战备锹</Chinesesimp>
@@ -26,7 +26,7 @@
             <French>Outil de tranchée</French>
             <Czech>Polní lopatky se používají k zákopovým a jiným pracem.</Czech>
             <Portuguese>Ferramenta de trincheira</Portuguese>
-            <Russian>Саперная лопата</Russian>
+            <Russian>Саперна лопата</Russian>
             <Japanese>シャベル</Japanese>
             <Korean>야전용 삽. 군인들의 영원한 친구</Korean>
             <Chinesesimp>战备锹</Chinesesimp>
@@ -41,7 +41,7 @@
             <Spanish>Trinchera pequeña</Spanish>
             <French>Enveloppe - Petite</French>
             <Portuguese>Trincheira - Pequena</Portuguese>
-            <Russian>Окоп - Малый</Russian>
+            <Russian>Малий окоп</Russian>
             <Japanese>塹壕 - 小型</Japanese>
             <Korean>참호 - 소형</Korean>
             <Chinesesimp>掩体 - 小</Chinesesimp>
@@ -58,7 +58,7 @@
             <French>Petite tranchée personnelle</French>
             <Czech>Malý zákop pro jednoho</Czech>
             <Portuguese>Trincheira pessoal pequena</Portuguese>
-            <Russian>Малый персональный окоп</Russian>
+            <Russian>Малий персональний окоп</Russian>
             <Japanese>小型の個人用塹壕</Japanese>
             <Korean>소형 개인참호</Korean>
             <Chinesesimp>小型个人掩体</Chinesesimp>
@@ -74,7 +74,7 @@
             <French>Creuser une petite tranchée</French>
             <Czech>Vykopat malý zákop</Czech>
             <Portuguese>Cavar trincheira pequena</Portuguese>
-            <Russian>Вырыть малый окоп</Russian>
+            <Russian>Вирити малий окоп</Russian>
             <Japanese>小型塹壕を掘る</Japanese>
             <Korean>소형참호 파기</Korean>
             <Chinesesimp>盖小掩体</Chinesesimp>
@@ -89,7 +89,7 @@
             <Spanish>Trinchera grande</Spanish>
             <French>Enveloppe - Grande</French>
             <Portuguese>Trincheira - Grande</Portuguese>
-            <Russian>Окоп - Большой</Russian>
+            <Russian>Великий окоп</Russian>
             <Japanese>塹壕 - 大型</Japanese>
             <Korean>참호 -  대형</Korean>
             <Chinesesimp>掩体 - 大</Chinesesimp>
@@ -106,7 +106,7 @@
             <French>Grande tranchée personnelle</French>
             <Czech>Velký zákop pro jednoho</Czech>
             <Portuguese>Trincheira pessoal grande</Portuguese>
-            <Russian>Большой персональный окоп</Russian>
+            <Russian>Великий персональний окоп</Russian>
             <Japanese>大型の塹壕を掘る</Japanese>
             <Korean>대형 참호</Korean>
             <Chinesesimp>大型个人掩体</Chinesesimp>
@@ -122,7 +122,7 @@
             <French>Creuser une grande tranchée</French>
             <Czech>Vykopat velký zákop</Czech>
             <Portuguese>Cavar trincheira grande</Portuguese>
-            <Russian>Вырыть большой окоп</Russian>
+            <Russian>Вирити великий окоп</Russian>
             <Japanese>大型の塹壕を掘る</Japanese>
             <Korean>대형참호 파기</Korean>
             <Chinesesimp>盖大掩体</Chinesesimp>
@@ -138,7 +138,7 @@
             <French>Confirmer l'excavation</French>
             <Czech>Potvrdit kopání</Czech>
             <Portuguese>Confirmar excavação</Portuguese>
-            <Russian>Копать</Russian>
+            <Russian>Копати</Russian>
             <Japanese>ここに掘る</Japanese>
             <Korean>여기에 파기</Korean>
             <Chinesesimp>确认开工</Chinesesimp>
@@ -154,7 +154,7 @@
             <French>Annuler l'excavation</French>
             <Czech>Zrušit kopání</Czech>
             <Portuguese>Cancelar excavação</Portuguese>
-            <Russian>Отменить копание</Russian>
+            <Russian>Скасувати копання</Russian>
             <Japanese>掘るのを中止</Japanese>
             <Korean>취소하기</Korean>
             <Chinesesimp>取消动作</Chinesesimp>
@@ -171,7 +171,7 @@
             <Hungarian>Forgatás</Hungarian>
             <Polish>Obrót</Polish>
             <Portuguese>Rotaciona</Portuguese>
-            <Russian>Bращать</Russian>
+            <Russian>Обертати</Russian>
             <Japanese>回転</Japanese>
             <Korean>돌리기</Korean>
             <Chinesesimp>旋转</Chinesesimp>
@@ -187,7 +187,7 @@
             <French>Excavation de la tranchée</French>
             <Czech>Vykopat zákop</Czech>
             <Portuguese>Cavando trincheira</Portuguese>
-            <Russian>Копание окопа</Russian>
+            <Russian>Копання окопу</Russian>
             <Japanese>塹壕を掘っている</Japanese>
             <Korean>참호 파는중</Korean>
             <Chinesesimp>正在盖掩体中</Chinesesimp>
@@ -199,7 +199,7 @@
             <Polish>Wzów kopanie wnęki</Polish>
             <Portuguese>Continuar cavando trincheira</Portuguese>
             <French>Continuer de creuser la tranchée</French>
-            <Russian>Продолжить копание окопа</Russian>
+            <Russian>Продовжити копання окопа</Russian>
             <Czech>Pokračovat v kopání</Czech>
             <Japanese>塹壕を掘りつづける</Japanese>
             <German>Graben fortsetzen</German>
@@ -214,7 +214,7 @@
             <Polish>Usuń wnękę</Polish>
             <Portuguese>Remover trincheira</Portuguese>
             <French>Retirer la tranchée</French>
-            <Russian>Убрать окоп</Russian>
+            <Russian>Прибрати окоп</Russian>
             <Czech>Odstranit zákop</Czech>
             <Japanese>塹壕を消す</Japanese>
             <German>Schützengraben entfernen</German>
@@ -229,7 +229,7 @@
             <Polish>Usuwanie wnęki</Polish>
             <Portuguese>Removendo tricnheira</Portuguese>
             <French>Retrait de la tranchée</French>
-            <Russian>Убирание окопа</Russian>
+            <Russian>Прибирання окопа</Russian>
             <Czech>Odstraňuji zákop</Czech>
             <Japanese>塹壕を消しています</Japanese>
             <German>Entferne Schützengraben</German>

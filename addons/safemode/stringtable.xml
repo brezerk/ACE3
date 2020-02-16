@@ -8,7 +8,7 @@
             <Polish>Bezpiecznik</Polish>
             <Czech>Pojistka</Czech>
             <Hungarian>Biztonságos mód</Hungarian>
-            <Russian>Предохранитель</Russian>
+            <Russian>Запобіжник</Russian>
             <French>Sécurité</French>
             <Italian>Modalità Sicura</Italian>
             <Portuguese>Modo de segurança</Portuguese>
@@ -25,7 +25,7 @@
             <Polish>Zwolnij bezpiecznik</Polish>
             <Czech>Uvolnit pojistku</Czech>
             <Hungarian>Biztonsági kapcsoló eltolása</Hungarian>
-            <Russian>Снять с предохранителя</Russian>
+            <Russian>Зняти із запобіжника</Russian>
             <French>Enlever la sécurité</French>
             <Italian>Togli la sicura</Italian>
             <Portuguese>Tirar segurança</Portuguese>
@@ -41,7 +41,7 @@
             <Polish>Zabezpieczono broń</Polish>
             <Czech>Zbraň zajistěna</Czech>
             <Hungarian>Biztonsági kapcsoló helyretolása</Hungarian>
-            <Russian>Поставлено на предохранитель</Russian>
+            <Russian>На запобіжнику</Russian>
             <French>Sécurité mise</French>
             <Italian>Sicura inserita</Italian>
             <Portuguese>Colocar Segurança</Portuguese>
@@ -58,7 +58,7 @@
             <Polish>Odbezpieczono broń</Polish>
             <Czech>Zbraň odjištěna</Czech>
             <Hungarian>Biztonságos mód megszüntetve</Hungarian>
-            <Russian>Снято с предохранителя</Russian>
+            <Russian>Знято з запобіжника</Russian>
             <French>Sécurité enlevée</French>
             <Italian>Sicura tolta</Italian>
             <Portuguese>Tirou Segurança</Portuguese>

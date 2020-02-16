@@ -10,7 +10,7 @@
             <Portuguese>ACE Módulo de missões</Portuguese>
             <French>ACE modules de mission</French>
             <Hungarian>ACE küldetési modulok</Hungarian>
-            <Russian>Модули миссий ACE</Russian>
+            <Russian>ACE Модулі місій</Russian>
             <Italian>Moduli Missione ACE</Italian>
             <Japanese>ACE ミッション モジュール</Japanese>
             <Korean>ACE 미션 모듈</Korean>
@@ -27,7 +27,7 @@
             <Portuguese>Sons ambientes</Portuguese>
             <French>Sons d'ambiance</French>
             <Hungarian>Ambiens hangok</Hungarian>
-            <Russian>Звук окружения</Russian>
+            <Russian>Звуки оточення</Russian>
             <Italian>Souni Ambientali</Italian>
             <Japanese>環境音</Japanese>
             <Korean>환경 효과음</Korean>
@@ -59,7 +59,7 @@
             <German>Klassennamen der Umgebungsgeräusche, die abgespielt werden sollen. Getrennt durch ","</German>
             <Czech>Class names zvuků prostředí, které budou přehrány. Oddělené ',' </Czech>
             <Portuguese>Nomes de classe dos sons de ambiente para serem reproduzidos. Separados por ","</Portuguese>
-            <Russian>Имена классов звуков окружения, которые должны проигрываться. Разделенные ','</Russian>
+            <Russian>Назви класів звуків оточення, які повинні відтворюватись. Розділені ','</Russian>
             <French>ClassNames des sons d'ambiance, séparées par une virgule.</French>
             <Italian>Nomi classi dei suoni ambientali da eseguire. Separati da ','</Italian>
             <Japanese>再生する環境音のクラスネームを記載。','で複数指定できます。</Japanese>
@@ -76,7 +76,7 @@
             <Portuguese>Distância mínima</Portuguese>
             <French>Distance minimale</French>
             <Hungarian>Minimális távolság</Hungarian>
-            <Russian>Минимальная дистанция</Russian>
+            <Russian>Мінімальна дистанція</Russian>
             <Italian>Distanza Minimale</Italian>
             <Japanese>最低距離</Japanese>
             <Korean>최소 거리</Korean>
@@ -93,7 +93,7 @@
             <Portuguese>Usada para calcular uma posição aleatória e definir a distância mínima entre os jogadores e os arquivos de sons que estão sendo reproduzidos.</Portuguese>
             <French>Valeur utilisée pour calculer une position aléatoire et définir la distance minimale entre les joueurs et les sons joués.</French>
             <Hungarian>Egy véletlenszerű pozíció számításához használt érték, amihez megadja a minimum távolságot a játékosok és a lejátszott hangfájl(ok) között</Hungarian>
-            <Russian>Используется для расчета случайной позиции и указывает минимальное расстояние между игроками и источниками звука</Russian>
+            <Russian>Використовується для розрахунку випадкової позиції і вказує мінімальну відстань між гравцями та джерелами звуку</Russian>
             <Italian>Usati per calcolare una posizione casuale ed impostare la distanza minima tra i giocatori ed il file suono eseguito</Italian>
             <Japanese>無作為な位置への計算や、プレイヤーと再生されるファイルの間へ最低距離を設定します</Japanese>
             <Korean>무작위 위치 계산에 사용되며 플레이어와 재생 된 사운드 파일 간의 최소 거리를 설정합니다.</Korean>
@@ -109,7 +109,7 @@
             <Portuguese>Distância máxima</Portuguese>
             <French>Distance maximale</French>
             <Hungarian>Maximális távolság</Hungarian>
-            <Russian>Максимальная дистанция</Russian>
+            <Russian>Максимальна дистанція</Russian>
             <Italian>Distanza Massima</Italian>
             <Japanese>最大距離</Japanese>
             <Korean>최대 거리</Korean>
@@ -126,7 +126,7 @@
             <Portuguese>Usado para calcular uma posição aleatória e definir uma distância máxima entre os jogadores e os arquivos de sons que estão sendo reproduzidos.</Portuguese>
             <French>Valeur utilisée pour calculer une position aléatoire et définir la distance maximale entre les joueurs et les sons joués.</French>
             <Hungarian>Egy véletlenszerű pozíció számításához használt érték, amihez megadja a maximum távolságot a játékosok és a lejátszott hangfájl(ok) között</Hungarian>
-            <Russian>Используется для расчета случайной позиции и указывает максимальное расстояние между игроками и источниками звука</Russian>
+            <Russian>Використовується для розрахунку випадкової позиції і вказує максимальну відстань між гравцями та джерелами звуку</Russian>
             <Italian>Usato per calcolare una posizione casuale ed impostare la distanza massima tra giocatori e il file suono eseguito</Italian>
             <Japanese>無作為な位置への計算や、プレイヤーと再生されるファイルの間へ最大距離を設定します</Japanese>
             <Korean>무작위 위치 계산에 사용되며 플레이어와 재생 된 사운드 파일 간의 최대 거리를 설정합니다.</Korean>
@@ -142,7 +142,7 @@
             <Portuguese>Atraso mínimo</Portuguese>
             <French>Délai minimal</French>
             <Hungarian>Minimum késleltetés</Hungarian>
-            <Russian>Минимальная задержка</Russian>
+            <Russian>Мінімальна затримка</Russian>
             <Italian>Pausa Minima</Italian>
             <Japanese>最低遅延</Japanese>
             <Korean>최소 지연</Korean>
@@ -159,7 +159,7 @@
             <Portuguese>Atraso mínimo entre os sons reproduzidos</Portuguese>
             <French>Délai minimal entre deux sons consécutifs.</French>
             <Hungarian>Minimum késleltetés a lejátszott hangok között</Hungarian>
-            <Russian>Минимальная задержка между воспроизведением звуков</Russian>
+            <Russian>Мінімальна затримка між відтворенням звуків</Russian>
             <Italian>Pausa Minima tra suoni eseguiti</Italian>
             <Japanese>再生されるまでの最低遅延</Japanese>
             <Korean>재생된 소리간 최소 지연시간</Korean>
@@ -175,7 +175,7 @@
             <Portuguese>Atraso máximo</Portuguese>
             <French>Délai maximal</French>
             <Hungarian>Maximum késleltetés</Hungarian>
-            <Russian>Максимальная задержка</Russian>
+            <Russian>Максимальна затримка</Russian>
             <Italian>Pausa Massima</Italian>
             <Japanese>最大遅延</Japanese>
             <Korean>최대 지연</Korean>
@@ -192,7 +192,7 @@
             <Portuguese>Atraso máximo entre os sons reproduzidos</Portuguese>
             <French>Délai maximal entre deux sons consécutifs.</French>
             <Hungarian>Maximum késleltetés a lejátszott hangok között</Hungarian>
-            <Russian>Максимальная задержка между воспроизведением звуков</Russian>
+            <Russian>Максимальна затримка між відтворенням звуків</Russian>
             <Italian>Pausa Massima tra suoni eseguiti</Italian>
             <Japanese>再生されるまでの最大遅延</Japanese>
             <Korean>재생된 소리간 최대 지연시간</Korean>
@@ -208,7 +208,7 @@
             <Portuguese>Seguir jogadores</Portuguese>
             <French>Suivre les joueurs</French>
             <Hungarian>Játékosok követése</Hungarian>
-            <Russian>Следовать за игроками</Russian>
+            <Russian>Слідувати за гравцями</Russian>
             <Italian>Segui Giocatori</Italian>
             <Japanese>プレイヤーを追随</Japanese>
             <Korean>플레이어 따라가기</Korean>
@@ -225,7 +225,7 @@
             <Portuguese>Segue os jogadores. Se esta desabilitado (falso), o loop reproduzirá os sons somente perto de sua posição lógica.</Portuguese>
             <French>Suivre les joueurs. Si défini sur false, les sons ne seront joués qu'autour de la position du module.</French>
             <Hungarian>Játékosok követése. Ha le van tiltva, az ismétlés csak a legközelebbi logikai ponton játszik le hangokat.</Hungarian>
-            <Russian>Следовать за игроками. Если установить в Ложь, звуки будут циклически проигрываться только около позиции Логики.</Russian>
+            <Russian>Слідувати за гравцями. Якщо встановити False, звуки будуть циклічно програватися тільки поруч з позицією логіки</Russian>
             <Italian>Segui Giocatori. Se impostato su falso, il ciclo eseguirà i suoni solo vicino ad una posizione logica.</Italian>
             <Japanese>プレイヤーを追随します。False に設定するとロジックの近くで延々と再生します。</Japanese>
             <Korean>플레이어를 따라갑니다. 거짓으로 설정될경우 오직 한 자리에서만 반복해서 소리를 재생합니다.</Korean>
@@ -241,7 +241,7 @@
             <Portuguese>Volume</Portuguese>
             <French>Volume</French>
             <Hungarian>Hangerő</Hungarian>
-            <Russian>Громкость</Russian>
+            <Russian>Гучність</Russian>
             <Italian>Volume</Italian>
             <Japanese>音量</Japanese>
             <Korean>볼륨</Korean>
@@ -257,7 +257,7 @@
             <Portuguese>O volume em que os sons serão reproduzidos</Portuguese>
             <French>Définit le volume des sons.</French>
             <Hungarian>A lejátszott hangok hangereje</Hungarian>
-            <Russian>Громкость воспроизводимых звуков</Russian>
+            <Russian>Гучність відтворюваних звуків</Russian>
             <Italian>Il volume dei suoni eseguiti</Italian>
             <Japanese>再生される音の大きさ</Japanese>
             <Korean>재생되는 소리의 볼륨</Korean>
@@ -273,7 +273,7 @@
             <Portuguese>Loop de sons ambientes (sincronizados através do MP)</Portuguese>
             <French>Boucle de sons d'ambiance. (Synchronisée en MP)</French>
             <Hungarian>Ambiens hangok folyamatossága (MP alatt szinkronizálva)</Hungarian>
-            <Russian>Циклически воспроизводимые звуки окружения (синх. между игроками)</Russian>
+            <Russian>Циклічне відтворювання звуків оточення (синхронізовано між гравцями)</Russian>
             <Italian>Ciclo Suoni Ambientali (sincronizzato in MP)</Italian>
             <Japanese>環境音の繰り返し (MP 間で同期させます)</Japanese>
             <Korean>환경 효과음 반복 (멀티플레이 전반적으로 동기화됨)</Korean>

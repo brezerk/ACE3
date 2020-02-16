@@ -11,7 +11,7 @@
             <Chinesesimp>提供的位置无效。</Chinesesimp>
             <Korean>위치가 잘못되었습니다.</Korean>
             <Polish>Podano błędną pozycję.</Polish>
-            <Russian>Указана неверная позиция</Russian>
+            <Russian>Вказана невірна позиція</Russian>
             <Portuguese>Posição inválida fornecida.</Portuguese>
             <Spanish>Posición inválida proporcionada</Spanish>
             <Czech>Pozice není validní.</Czech>
@@ -27,7 +27,7 @@
             <Chinesesimp>找不到可用的单位。</Chinesesimp>
             <Korean>병력이 없습니다.</Korean>
             <Polish>Nie podano żadnych jednostek.</Polish>
-            <Russian>Не указаны юниты</Russian>
+            <Russian>Не вказані юніти</Russian>
             <Portuguese>Nenhuma unidade fornecida.</Portuguese>
             <Spanish>No hay unidades proporcionadas.</Spanish>
             <Czech>Nejsou k dispozici žádné jednotky.</Czech>
@@ -43,7 +43,7 @@
             <Chinesesimp>没有足够的位置能摆放所有单位。</Chinesesimp>
             <Korean>모든 병력을 배치 할 공간이 없습니다.</Korean>
             <Polish>Nie ma wystarczającej ilości pozycji, aby umieścić wszystkie jednostki.</Polish>
-            <Russian>Недостаточно позиций для размещения всех юнитов</Russian>
+            <Russian>Недостатньо позицій для розміщення всіх юнітів</Russian>
             <Portuguese>Não há posições suficientes para colocar todas as unidades.</Portuguese>
             <Spanish>No hay suficientes posiciones para colocar todas las unidades.</Spanish>
             <Czech>Není dostatek pozic pro všechny jednotky.</Czech>
@@ -58,7 +58,7 @@
             <Chinesesimp>没找到建筑物。</Chinesesimp>
             <Korean>건물이 없습니다.</Korean>
             <Polish>Nie znaleziono budynku.</Polish>
-            <Russian>Здание не найдено</Russian>
+            <Russian>Будівлі не знайдено</Russian>
             <Portuguese>Nenhuma construção encontrada.</Portuguese>
             <Spanish>No se ha encontrado ningún edificio.</Spanish>
             <Czech>Nenalezena žádná budova.</Czech>

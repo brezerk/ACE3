@@ -6,7 +6,7 @@
             <German>Beladen</German>
             <Polish>Załaduj</Polish>
             <Portuguese>Carregar</Portuguese>
-            <Russian>Загрузить</Russian>
+            <Russian>Завантажити</Russian>
             <Czech>Naložit</Czech>
             <Spanish>Cargar</Spanish>
             <Italian>Carica</Italian>
@@ -22,7 +22,7 @@
             <German>Entladen</German>
             <Polish>Wyładuj</Polish>
             <Portuguese>Descarregar</Portuguese>
-            <Russian>Выгрузить</Russian>
+            <Russian>Вивантажити</Russian>
             <Czech>Vyložit</Czech>
             <Spanish>Descargar</Spanish>
             <Italian>Scarica</Italian>
@@ -38,7 +38,7 @@
             <German>Fracht</German>
             <Polish>Ładunek</Polish>
             <Portuguese>Carga</Portuguese>
-            <Russian>Грузовой отсек</Russian>
+            <Russian>Вантажний відсік</Russian>
             <Czech>Náklad</Czech>
             <Spanish>Carga</Spanish>
             <Italian>Cargo</Italian>
@@ -54,7 +54,7 @@
             <German>Frachtmenü</German>
             <Polish>Menu ładunku</Polish>
             <Portuguese>Menu de carga</Portuguese>
-            <Russian>Грузовой отсек</Russian>
+            <Russian>Вантажне меню</Russian>
             <Czech>Menu nákladu</Czech>
             <Spanish>Menu de carga</Spanish>
             <Italian>Menù Cargo</Italian>
@@ -70,7 +70,7 @@
             <German>Frachtplätze frei: %1</German>
             <Polish>Pozostałe miejsce: %1</Polish>
             <Portuguese>Espaço de carga restante: %1</Portuguese>
-            <Russian>Осталось мест: %1</Russian>
+            <Russian>Залишилося місця: %1</Russian>
             <Czech>Zbývající prostor: %1</Czech>
             <Spanish>Espacio de carga restante: %1</Spanish>
             <Italian>Spazio cargo rimanente: %1</Italian>
@@ -86,7 +86,7 @@
             <German>Aktiviere Fracht</German>
             <Polish>Aktywuj cargo</Polish>
             <Portuguese>Ativar carga</Portuguese>
-            <Russian>Включить модуль перевозки грузов</Russian>
+            <Russian>Модуль перевезення вантажів</Russian>
             <Czech>Povolit náklad</Czech>
             <Spanish>Habilitar carga</Spanish>
             <Italian>Abilita Cargo</Italian>
@@ -102,7 +102,7 @@
             <German>Aktiviere das Frachtmodul</German>
             <Polish>Aktywuj możliwość załadunku skrzyń i przedmiotów do pojazdów.</Polish>
             <Portuguese>Ativar o módulo de carregamento de carga</Portuguese>
-            <Russian>Включает модуль погрузки и перевозки грузов</Russian>
+            <Russian>Використовувати вантажний відсік</Russian>
             <Spanish>Habilitar la carga en el módulo de carga</Spanish>
             <Czech>Umožňuje naložit předměty do nákladového prostoru vozidla</Czech>
             <Italian>Abilita il modulo di caricamento in cargo</Italian>
@@ -117,7 +117,7 @@
             <German>Frachteinstellungen</German>
             <Polish>Ustawienia cargo</Polish>
             <Portuguese>Preferências de carregamento</Portuguese>
-            <Russian>Перевозка грузов</Russian>
+            <Russian>Налаштування вантажів</Russian>
             <Czech>Nastavení nákladu</Czech>
             <Spanish>Ajustes de carga</Spanish>
             <Italian>Impostazioni Cargo</Italian>
@@ -133,7 +133,7 @@
             <German>Konfiguriere das Frachtmodul</German>
             <Polish>Skonfiguruj ustawienia modułu cargo.</Polish>
             <Portuguese>Configura as preferências do módulo de carga</Portuguese>
-            <Russian>Конфигурирует настройки модуля перевозки грузов</Russian>
+            <Russian>Налаштовує модуль перевезення вантажів</Russian>
             <Spanish>Configure los ajustes del módulo de carga</Spanish>
             <Czech>Konfigurace nákladního modulu</Czech>
             <Italian>Configura le impostazioni del modulo cargo</Italian>
@@ -153,7 +153,7 @@
             <Portuguese>%1&lt;br/&gt;carregado em&lt;br/&gt;%2</Portuguese>
             <Italian>%1&lt;br/&gt;caricato su&lt;br/&gt;%2</Italian>
             <Hungarian>%1&lt;br/&gt;berakodva ide:&lt;br/&gt;%2</Hungarian>
-            <Russian>%1&lt;br/&gt;загружен в&lt;br/&gt;%2</Russian>
+            <Russian>%1&lt;br/&gt;завантажено в&lt;br/&gt;%2</Russian>
             <Japanese>%1&lt;br/&gt;は&lt;br/&gt;%2へ積み込まれました</Japanese>
             <Korean>%1&lt;br/&gt;는&lt;br/&gt;%2 에 실림</Korean>
             <Chinese>%1&lt;br/&gt;裝載至&lt;br/&gt;%2</Chinese>
@@ -169,7 +169,7 @@
             <Portuguese>%1&lt;br/&gt;descarregado de&lt;br/&gt;%2</Portuguese>
             <Italian>Hai scaricato&lt;br/&gt;%1 da&lt;br/&gt;%2</Italian>
             <Hungarian>1%&lt;br/&gt;kirakodva ebből:&lt;br/&gt;%2</Hungarian>
-            <Russian>%1&lt;br/&gt;разгружен из&lt;br/&gt;%2</Russian>
+            <Russian>%1&lt;br/&gt;вивантажено з&lt;br/&gt;%2</Russian>
             <Japanese>&lt;br/&gt;%1が&lt;br/&gt;%2から降ろされました</Japanese>
             <Korean>%1&lt;br/&gt;는&lt;br/&gt;%2 에서 내려짐</Korean>
             <Chinese>從&lt;br/&gt;%2卸載&lt;br/&gt;%1</Chinese>
@@ -181,7 +181,7 @@
             <Portuguese>Carregando carga</Portuguese>
             <Polish>Ładowanie cargo</Polish>
             <Czech>Nakládám</Czech>
-            <Russian>Погрузка</Russian>
+            <Russian>Завантажується</Russian>
             <Italian>Caricando</Italian>
             <Spanish>Cargando</Spanish>
             <French>Chargement de la cargaison</French>
@@ -197,7 +197,7 @@
             <Portuguese>Descarregando carga</Portuguese>
             <Polish>Rozładowywanie cargo</Polish>
             <Czech>Vykládám</Czech>
-            <Russian>Выгрузка</Russian>
+            <Russian>Вивантажується</Russian>
             <Italian>Scaricando</Italian>
             <Spanish>Descargando</Spanish>
             <French>Déchargement de la cargaison</French>
@@ -213,7 +213,7 @@
             <Portuguese>%1&lt;br/&gt;não pode ser carregado</Portuguese>
             <Polish>%1&lt;br/&gt;nie mógł zostać załadowany</Polish>
             <Czech>%1&lt;br/&gt;nemůže být naloženo</Czech>
-            <Russian>%1&lt;br/&gt;не может быть погружен</Russian>
+            <Russian>%1&lt;br/&gt;не можна завантажити</Russian>
             <Italian>%1&lt;br/&gt;non può essere caricato</Italian>
             <Spanish>%1&lt;br/&gt;no pudo ser cargado</Spanish>
             <French>%1&lt;br /&gt;n'a pas pu être chargé</French>
@@ -228,7 +228,7 @@
             <Portuguese>%1&lt;br/&gt;não pode ser descarregado</Portuguese>
             <Polish>%1&lt;br/&gt;nie mógł zostać rozładowany</Polish>
             <Czech>%1&lt;br/&gt;nemůže být vyloženo</Czech>
-            <Russian>%1&lt;br/&gt;не может быть выгружен</Russian>
+            <Russian>%1&lt;br/&gt;не можна вивантажити</Russian>
             <Italian>%1&lt;br/&gt;non può essere scaricato</Italian>
             <Spanish>%1&lt;br/&gt;no pudo ser descargado</Spanish>
             <French>%1&lt;br /&gt;n'a pas pu être déchargé</French>
@@ -246,7 +246,7 @@
             <Chinesesimp>货物空间</Chinesesimp>
             <Polish>Przestrzeń ładunkowa</Polish>
             <Korean>화물 공간</Korean>
-            <Russian>Грузовое пространство</Russian>
+            <Russian>Вантажний відсік</Russian>
             <Portuguese>Espaço de Carga</Portuguese>
             <French>Espace de stockage</French>
             <Czech>Nákladový prostor</Czech>
@@ -262,7 +262,7 @@
             <Chinesesimp>设定此载具/集装箱可装载多少货物</Chinesesimp>
             <Polish>Dostępna przestrzeń ładunkowa w tym pojeździe/kontenerze</Polish>
             <Korean>이 차량/컨테이너에서 사용가능한 화물 공간</Korean>
-            <Russian>Грузовое пространство, доступное в этом транспортном средстве / контейнере</Russian>
+            <Russian>Вантажний простір, доступний в цьому транспортному засобі/контейнері</Russian>
             <Portuguese>O espaço de carga disponível nesse veículo/contâiner</Portuguese>
             <French>L'espace de stockage disponible dans ce véhicule/container.</French>
             <Czech>Nákladový prostor dostupný v tomto vozidle/kontejneru</Czech>
@@ -277,7 +277,7 @@
             <Chinesesimp>货物的大小</Chinesesimp>
             <Polish>Wielkość ładunku</Polish>
             <Korean>화물 크기</Korean>
-            <Russian>Размер груза</Russian>
+            <Russian>Вантажний розмір</Russian>
             <Portuguese>Tamanho da Carga</Portuguese>
             <French>Encombrement fret</French>
             <Czech>Velikost nákladu</Czech>
@@ -293,7 +293,7 @@
             <Chinesesimp>此货物会占掉多少空间(设定-1的话此货物就不能被装载)</Chinesesimp>
             <Polish>Wymagana przestrzeń ładunkowa dla tego obiektu (-1 dla niemożliwych do załadowania)</Polish>
             <Korean>이 화물을 적재하는데 필요한 공간 (-1=무조건 적재가능)</Korean>
-            <Russian>Грузовое пространство, необходимое для размещения этого объекта (-1 для незагружаемого)</Russian>
+            <Russian>Вантажне простір, необхідний для розміщення цього об'єкта в вантажі (-1 для незавантажуємого)</Russian>
             <Portuguese>O Espaço de carga necessário para carregar esse objeto (-1 para que não seja carregável)</Portuguese>
             <French>Définit l'espace de stockage nécessaire à l'embarquement de cet objet (-1 pour le rendre non transportable).</French>
             <Czech>Nákladový prostor požadovný pro naložení tohoto objektu (-1 pro nenaložitelné)</Czech>
@@ -309,7 +309,7 @@
             <Italian>Lancio Aereo</Italian>
             <Chinese>空投</Chinese>
             <Chinesesimp>空投</Chinesesimp>
-            <Russian>Десантирование груза</Russian>
+            <Russian>Десантування вантажу</Russian>
             <Portuguese>Lançamento Aéreo</Portuguese>
             <Czech>Výsadek</Czech>
             <Spanish>Lanzamiento aéreo</Spanish>
@@ -324,7 +324,7 @@
             <Italian>Volo non Livellato</Italian>
             <Chinese>此架飛機並無保持水平飛行</Chinese>
             <Chinesesimp>此架飞机并无保持水平飞行</Chinesesimp>
-            <Russian>Неподходящее положение</Russian>
+            <Russian>Не вирівняно фюзеляж в польоті</Russian>
             <Portuguese>Desnivelar Vôo</Portuguese>
             <Czech>Let není vyrovnaný</Czech>
             <Spanish>Vuelo no nivelado</Spanish>
@@ -339,7 +339,7 @@
             <Chinesesimp>空投时间系数</Chinesesimp>
             <Polish>Współczynnik czasu zrzutu</Polish>
             <Korean>공중 투하 시간 계수</Korean>
-            <Russian>Коэффициент времени десантирования</Russian>
+            <Russian>Коефіцієнт тривалості десантування</Russian>
             <Portuguese>Fator de Tempo para soltar a carga</Portuguese>
             <Czech>Koeficient času nákladního výsadku</Czech>
             <Spanish>Coeficiente de tiempo para lanzamiento</Spanish>
@@ -354,7 +354,7 @@
             <Chinesesimp>设定空投所需消耗的时间.</Chinesesimp>
             <Polish>Modyfikator wskazujący jak dużo czasu potrzeba by zrzucić przedmiot na spadochronie.</Polish>
             <Korean>화물을 공중 투하 하는데 얼마나 걸리는 시간 설정</Korean>
-            <Russian>Модификатор времени, необходимого для десантирования груза</Russian>
+            <Russian>Модифікатор часу, необхідного для десантування вантажу</Russian>
             <Portuguese>Coeficiente de quanto tempo leva para soltar uma carga de paraquedas</Portuguese>
             <Czech>Upravuje jak dlouho výsadek trvá pro náklad.</Czech>
             <Spanish>Modificador de tiempo de lanzamiento en paracaídas de un objeto cargado</Spanish>
@@ -365,7 +365,7 @@
             <Japanese>積載時間の係数</Japanese>
             <Polish>Współczynnik czasu załadowania</Polish>
             <Italian>Coefficente Tempo Caricamento</Italian>
-            <Russian>Коэффициент времени погрузки</Russian>
+            <Russian>Коефіцієнт тривалості завантаження</Russian>
             <Portuguese>Fator de tempo para carregar</Portuguese>
             <French>Coefficient du temps de chargement</French>
             <Chinese>裝載時間係數</Chinese>
@@ -378,7 +378,7 @@
             <Japanese>アイテムの積み下ろし作業にかかる時間を編集できます。\nアイテムの大きさにこの値が乗法され、時間 (秒) を変更できます。</Japanese>
             <Polish>Modyfikuje, jak długo zajmuje załadowywanie/wyładowywanie przedmiotów. \nCzasem, w sekundach, jest wielkość przedmiotu razy jego wartość.</Polish>
             <Italian>Modifica quanto tempo ci impiega a caricare o scaricare gli oggetti.\n Tempo, in secondi, è la dimensione dell'oggetto moltiplicata per questo valore</Italian>
-            <Russian>Изменяет время для загрузки/выгрузки предметов. \n Время (сек) - это размер предмета, умноженный на это значение.</Russian>
+            <Russian>Змінює час для завантаження / розвантаження предметів.\nЧас (сек) - це розмір вантажу, помножений на це значення.</Russian>
             <Portuguese>Coeficiente de quanto tempo leva para carregar/descarregar itens.\nTempo, em segundos, é o tamanho do objeto multiplicado por esse valor.</Portuguese>
             <French>Modifie le temps nécessaire pour charger/décharger des objets.\nLe temps, en secondes, est calculé en multipliant la taille de l'élément par ce coefficient.</French>
             <Chinese>修改要花多長時間來裝載/卸載物品。\n時間，以秒為單位，而物品的大小數值與這個係數成比。</Chinese>

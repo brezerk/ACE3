@@ -3,7 +3,7 @@
     <Package name="Tagging">
         <Key ID="STR_ACE_Tagging_Tagging">
             <English>Tagging</English>
-            <Russian>Маркировка</Russian>
+            <Russian>Маркування</Russian>
             <Japanese>タグ付け</Japanese>
             <Polish>Tagowanie</Polish>
             <German>Markierungssystem (Spraydose)</German>
@@ -18,7 +18,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_ModuleDesc">
             <English>Configure how the tagging system will operate by default.</English>
-            <Russian>Настройка работы системы спрей-маркеров по-умолчанию.</Russian>
+            <Russian>Налаштовує роботу системи спрей-маркерів за замовчуванням</Russian>
             <Japanese>標準で開くタグ付けシステムの設定を行います。</Japanese>
             <Polish>Skonfiguruj zachowanie systemu tagowania.</Polish>
             <German>Konfiguriert, wie das Markierungssystem standardmäßig funktioniert.</German>
@@ -32,7 +32,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_QuickTag">
             <English>Spray Paint - Quick Tag</English>
-            <Russian>Быстрый маркер</Russian>
+            <Russian>Швидке маркування</Russian>
             <Japanese>クイック タグ</Japanese>
             <Polish>Szybkie tagowanie</Polish>
             <German>Schnelle Markierung (Spraydose)</German>
@@ -47,7 +47,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_QuickTagDesc">
             <English>Action performed on main tag interaction point.</English>
-            <Russian>Действие, выполняемое при выборе главного пункта меню маркировки.</Russian>
+            <Russian>Дія, що виконується при виборі головного пункту меню маркування</Russian>
             <Japanese>インタラクション ポイントにむけてタグ付けをします。</Japanese>
             <Polish>Akcja wykonywana na głównym punkcie interakcji tagu.</Polish>
             <German>Aktion, die am Haupt-Interaktionspunkt ausgeführt werden soll.</German>
@@ -61,7 +61,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_LastUsed">
             <English>Last Used</English>
-            <Russian>Повторить последний</Russian>
+            <Russian>Повторити останній</Russian>
             <Japanese>前回と同じ</Japanese>
             <Polish>Ostatnio użyte</Polish>
             <German>Zuletzt benutzt</German>
@@ -76,7 +76,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_RandomX">
             <English>Random X</English>
-            <Russian>Случайный Х</Russian>
+            <Russian>Випадковий Х</Russian>
             <Japanese>無作為なX印</Japanese>
             <Polish>Losowy X</Polish>
             <German>Zufällig X</German>
@@ -91,7 +91,7 @@
         </Key>
         <Key ID="STR_ACE_Tagging_Random">
             <English>Random</English>
-            <Russian>Случайный</Russian>
+            <Russian>Випадковий</Russian>
             <Japanese>無作為</Japanese>
             <Polish>Losowy</Polish>
             <German>Zufällig</German>
@@ -112,7 +112,7 @@
             <Italian>Marca</Italian>
             <Czech>Označit</Czech>
             <Portuguese>Marcar</Portuguese>
-            <Russian>Маркер</Russian>
+            <Russian>Маркувати</Russian>
             <Japanese>タグ</Japanese>
             <Korean>뿌리기</Korean>
             <French>Tag</French>
@@ -129,7 +129,7 @@
             <Italian>X nero</Italian>
             <Czech>X černě</Czech>
             <Portuguese>X em preto</Portuguese>
-            <Russian>Черный Х</Russian>
+            <Russian>Чорний Х</Russian>
             <Japanese>黒のX印</Japanese>
             <Korean>검정 X</Korean>
             <Chinesesimp>黑色X标记</Chinesesimp>
@@ -145,7 +145,7 @@
             <Italian>X rosso</Italian>
             <Czech>X červeně</Czech>
             <Portuguese>X em vermelho</Portuguese>
-            <Russian>Красный Х</Russian>
+            <Russian>Червоний Х</Russian>
             <Japanese>赤のX印</Japanese>
             <Korean>빨간 X</Korean>
             <Chinesesimp>红色X标记</Chinesesimp>
@@ -161,7 +161,7 @@
             <Italian>X verde</Italian>
             <Czech>X zeleně</Czech>
             <Portuguese>X em verde</Portuguese>
-            <Russian>Зеленый Х</Russian>
+            <Russian>Зелений Х</Russian>
             <Japanese>緑のX印</Japanese>
             <Korean>초록 X</Korean>
             <Chinesesimp>绿色X标记</Chinesesimp>
@@ -177,7 +177,7 @@
             <Italian>X blu</Italian>
             <Czech>X modře</Czech>
             <Portuguese>X em azul</Portuguese>
-            <Russian>Синий Х</Russian>
+            <Russian>Синій Х</Russian>
             <Japanese>青のX印</Japanese>
             <Korean>파랑 X</Korean>
             <Chinesesimp>蓝色X标记</Chinesesimp>
@@ -193,7 +193,7 @@
             <Italian>Bomboletta spray nera</Italian>
             <Czech>Černý sprej</Czech>
             <Portuguese>Spray de tinta preta</Portuguese>
-            <Russian>Черный спрей</Russian>
+            <Russian>Чорний спрей</Russian>
             <Japanese>黒のスプレー缶</Japanese>
             <Korean>검정 스프레이</Korean>
             <Chinesesimp>黑色喷漆</Chinesesimp>
@@ -209,7 +209,7 @@
             <Italian>Bomboletta spray rossa</Italian>
             <Czech>Červený sprej</Czech>
             <Portuguese>Spray de tinta vermelha</Portuguese>
-            <Russian>Красный спрей</Russian>
+            <Russian>Червоний спрей</Russian>
             <Japanese>赤のスプレー缶</Japanese>
             <Korean>빨강 스프레이</Korean>
             <Chinesesimp>红色喷漆</Chinesesimp>
@@ -225,7 +225,7 @@
             <Italian>Bomboletta spray verde</Italian>
             <Czech>Zelený sprej</Czech>
             <Portuguese>Spray de tinta verde</Portuguese>
-            <Russian>Зеленый спрей</Russian>
+            <Russian>Зелений спрей</Russian>
             <Japanese>緑のスプレー缶</Japanese>
             <Korean>초록 스프레이</Korean>
             <Chinesesimp>绿色喷漆</Chinesesimp>
@@ -241,7 +241,7 @@
             <Italian>Bomboletta spray blu</Italian>
             <Czech>Modrý sprej</Czech>
             <Portuguese>Spray de tinta azul</Portuguese>
-            <Russian>Синий спрей</Russian>
+            <Russian>Синій спрей</Russian>
             <Japanese>青のスプレー缶</Japanese>
             <Korean>파랑 스프레이</Korean>
             <Chinesesimp>蓝色喷漆</Chinesesimp>
@@ -257,7 +257,7 @@
             <Italian>Una bomboletta di spay per contrassegnare i muri.</Italian>
             <Czech>Plechovka se sprejem k vytváření značek.</Czech>
             <Portuguese>Uma lata de tinta spray para marcar paredes.</Portuguese>
-            <Russian>Балончик спрея для рисования маркеров на стенах.</Russian>
+            <Russian>Балончик спрею для малювання маркерів на поверхнях</Russian>
             <Japanese>スプレー缶は壁にタグ付できます。</Japanese>
             <Korean>벽에 뿌릴 수 있는 스프레이캔 입니다.</Korean>
             <Chinesesimp>喷漆可喷涂在墙壁上</Chinesesimp>
