@@ -171,7 +171,7 @@
             <Polish>Zapas amunicji zależny od kalibru</Polish>
             <Korean>구경에 따라 제한된 탄약</Korean>
             <French>En fonction du calibre</French>
-            <Russian>Обмежений боєзапас, в залежності від калібру</Russian>
+            <Russian>Обмежений, в залежності від калібру</Russian>
             <Portuguese>Munição Limitada ao Calibre</Portuguese>
             <Czech>Konečná zásoba v závislosti na kalibru</Czech>
         </Key>
@@ -625,7 +625,7 @@
             <Japanese>再武装用カーゴ</Japanese>
             <Polish>Ładunek Dozbrajający</Polish>
             <Italian>Rifornimento Munizioni</Italian>
-            <Russian>Боєприпаси для поповнення</Russian>
+            <Russian>Обсяг боєприпасів</Russian>
             <Portuguese>Carga de Rearme</Portuguese>
             <Chinese>整裝用貨物</Chinese>
             <French>Stock de munitions</French>

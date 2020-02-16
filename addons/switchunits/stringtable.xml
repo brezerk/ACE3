@@ -84,7 +84,7 @@
             <Portuguese>Trocar para Oeste?</Portuguese>
             <French>Passage en BLUFOR</French>
             <Hungarian>Átváltás BLUFOR-ra?</Hungarian>
-            <Russian>Переключити на СИНІХ?</Russian>
+            <Russian>Переключати на Синіх?</Russian>
             <Italian>Cambia per BLUFOR?</Italian>
             <Japanese>同盟軍へ切り替えますか?</Japanese>
             <Chinesesimp>切换至蓝方?</Chinesesimp>
@@ -101,7 +101,7 @@
             <Portuguese>Permitir troca de unidades para o Oeste?</Portuguese>
             <French>Autorise le passage en unité BLUFOR.</French>
             <Hungarian>Nyugat-fakciós egységekre való váltás engedélyezése?</Hungarian>
-            <Russian>Дозволити переключити юнітів на сторону СИНІХ?</Russian>
+            <Russian>Дозволити переключати юнітів на сторону Синіх?</Russian>
             <Italian>Consenti passaggio ad unità BLUFOR?</Italian>
             <Japanese>同盟軍側ユニットへ切り替えられるようにしますか?</Japanese>
             <Chinesesimp>允许切换至蓝方?</Chinesesimp>
@@ -117,7 +117,7 @@
             <Portuguese>Trocar para Leste?</Portuguese>
             <French>Passage en OPFOR</French>
             <Hungarian>Átváltás OPFOR-ra?</Hungarian>
-            <Russian>Переключити на ЧЕРВОНИХ?</Russian>
+            <Russian>Переключати на Червоних?</Russian>
             <Italian>Cambia per OPFOR?</Italian>
             <Japanese>OPFOR軍側へ切り替えますか?</Japanese>
             <Chinesesimp>切换至红方?</Chinesesimp>
@@ -134,7 +134,7 @@
             <Portuguese>Permitir troca de unidades para o Leste?</Portuguese>
             <French>Autorise le passage en unité OPFOR.</French>
             <Hungarian>Kelet-fakciós egységekre való váltás engedélyezése?</Hungarian>
-            <Russian>Дозволити переключити юнітів на сторону ЧЕРВОНИХ?</Russian>
+            <Russian>Дозволити переключати юнітів на сторону Червоних?</Russian>
             <Italian>Consenti passaggio ad unità OPFOR?</Italian>
             <Japanese>OPFOR軍側ユニットへ切り替えられるようにしますか?</Japanese>
             <Chinesesimp>允许切换至红方?</Chinesesimp>
@@ -150,7 +150,7 @@
             <Portuguese>Trocar para Indenpendente</Portuguese>
             <French>Passage en Indépendant</French>
             <Hungarian>Átváltás INDFOR-ra?</Hungarian>
-            <Russian>Переключити на ЗЕЛЕНИХ?</Russian>
+            <Russian>Переключати на Незалежних?</Russian>
             <Italian>Cambia per INDFOR?</Italian>
             <Japanese>独立軍へ切り替えますか?</Japanese>
             <Chinesesimp>切换至独立方?</Chinesesimp>
@@ -167,7 +167,7 @@
             <Portuguese>Permitir troca de unidades para o Indenpendente?</Portuguese>
             <French>Autorise le passage en unité Indépendante.</French>
             <Hungarian>Független egységekre való váltás engedélyezése?</Hungarian>
-            <Russian>Дозволити переключити юнітів на сторону ЗЕЛЕНИХ?</Russian>
+            <Russian>Дозволити переключати юнітів на сторону Незалежних?</Russian>
             <Italian>Consenti passaggio ad unità INDFOR?</Italian>
             <Japanese>独立軍側ユニットへ切り替えられるようにしますか?</Japanese>
             <Chinesesimp>允许切换至独立方?</Chinesesimp>
@@ -183,7 +183,7 @@
             <Portuguese>Trocar para Civis?</Portuguese>
             <French>Passage en Civil</French>
             <Hungarian>Átváltás civilre?</Hungarian>
-            <Russian>Переключити на ЦИВІЛЬНИХ?</Russian>
+            <Russian>Переключати на Цивільних?</Russian>
             <Italian>Cambia per Civili?</Italian>
             <Japanese>市民へ切り替えますか?</Japanese>
             <Korean>민간인으로 전환합니까?</Korean>
@@ -200,7 +200,7 @@
             <Portuguese>Permitir troca de unidades para o Civil?</Portuguese>
             <French>Autorise le passage en unité Civile.</French>
             <Hungarian>Civil egységekre való váltás engedélyezése?</Hungarian>
-            <Russian>Дозволити переключити юнітів на сторону ЦИВІЛЬНИХ?</Russian>
+            <Russian>Дозволити переключати юнітів на сторону Цивільних?</Russian>
             <Italian>Consenti passaggio ad unità civili?</Italian>
             <Japanese>市民側ユニットへ切り替えられるようにしますか?</Japanese>
             <Korean>민간인으로 전환하는걸 허가합니까?</Korean>
@@ -232,7 +232,7 @@
             <Portuguese>Habilitar uma zona segur ao redor das unidades inimigas? Jogadores não conseguirão trocar para unidades dentro dessa zona segura.</Portuguese>
             <French>Active une zone de sécurité autour des unités ennemies. Les joueurs ne peuvent pas changer de camp à l'intérieur de cette zone.</French>
             <Hungarian>Engedélyezve legyen-e egy biztonságos zóna az ellenségek körül? A játékosok nem tudnak a biztonságos zónán belüli egységekre váltani.</Hungarian>
-            <Russian>Включити безпечну зону навколо ворожих юнітів? Гравці не зможуть перемикатися сторону в безпечній зоні</Russian>
+            <Russian>Включити безпечну зону навколо ворожих юнітів? Гравці не зможуть перемикати сторону в безпечній зоні</Russian>
             <Italian>Abilita una zona sicura attorno ad unità nemiche? I giocatori non possono cambiare ad unità dentro la zona sicura.</Italian>
             <Japanese>敵ユニットから逃れる安全地帯を有効にしますか?プレイヤーは安全地帯内のユニットへ切り替えできません。</Japanese>
             <Korean>적 주위로 안전 지대를 활성화합니까? 안전 지대 내에서는 플레이어가 인원 전환을 할 수 없습니다.</Korean>

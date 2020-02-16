@@ -86,7 +86,7 @@
             <German>Aktiviere Fracht</German>
             <Polish>Aktywuj cargo</Polish>
             <Portuguese>Ativar carga</Portuguese>
-            <Russian>Увімкнути модуль перевезення вантажів</Russian>
+            <Russian>Модуль перевезення вантажів</Russian>
             <Czech>Povolit náklad</Czech>
             <Spanish>Habilitar carga</Spanish>
             <Italian>Abilita Cargo</Italian>
@@ -102,7 +102,7 @@
             <German>Aktiviere das Frachtmodul</German>
             <Polish>Aktywuj możliwość załadunku skrzyń i przedmiotów do pojazdów.</Polish>
             <Portuguese>Ativar o módulo de carregamento de carga</Portuguese>
-            <Russian>Вмикає модуль перевезення вантажів</Russian>
+            <Russian>Використовувати вантажний відсік</Russian>
             <Spanish>Habilitar la carga en el módulo de carga</Spanish>
             <Czech>Umožňuje naložit předměty do nákladového prostoru vozidla</Czech>
             <Italian>Abilita il modulo di caricamento in cargo</Italian>
@@ -246,7 +246,7 @@
             <Chinesesimp>货物空间</Chinesesimp>
             <Polish>Przestrzeń ładunkowa</Polish>
             <Korean>화물 공간</Korean>
-            <Russian>Вантажне місце</Russian>
+            <Russian>Вантажний відсік</Russian>
             <Portuguese>Espaço de Carga</Portuguese>
             <French>Espace de stockage</French>
             <Czech>Nákladový prostor</Czech>
@@ -277,7 +277,7 @@
             <Chinesesimp>货物的大小</Chinesesimp>
             <Polish>Wielkość ładunku</Polish>
             <Korean>화물 크기</Korean>
-            <Russian>Розмір вантажу</Russian>
+            <Russian>Вантажний розмір</Russian>
             <Portuguese>Tamanho da Carga</Portuguese>
             <French>Encombrement fret</French>
             <Czech>Velikost nákladu</Czech>
@@ -293,7 +293,7 @@
             <Chinesesimp>此货物会占掉多少空间(设定-1的话此货物就不能被装载)</Chinesesimp>
             <Polish>Wymagana przestrzeń ładunkowa dla tego obiektu (-1 dla niemożliwych do załadowania)</Polish>
             <Korean>이 화물을 적재하는데 필요한 공간 (-1=무조건 적재가능)</Korean>
-            <Russian>Вантажне простір, необхідний для розміщення цього об'єкта (-1 для незавантажуємого)</Russian>
+            <Russian>Вантажне простір, необхідний для розміщення цього об'єкта в вантажі (-1 для незавантажуємого)</Russian>
             <Portuguese>O Espaço de carga necessário para carregar esse objeto (-1 para que não seja carregável)</Portuguese>
             <French>Définit l'espace de stockage nécessaire à l'embarquement de cet objet (-1 pour le rendre non transportable).</French>
             <Czech>Nákladový prostor požadovný pro naložení tohoto objektu (-1 pro nenaložitelné)</Czech>
@@ -339,7 +339,7 @@
             <Chinesesimp>空投时间系数</Chinesesimp>
             <Polish>Współczynnik czasu zrzutu</Polish>
             <Korean>공중 투하 시간 계수</Korean>
-            <Russian>Коефіцієнт часу десантування</Russian>
+            <Russian>Коефіцієнт тривалості десантування</Russian>
             <Portuguese>Fator de Tempo para soltar a carga</Portuguese>
             <Czech>Koeficient času nákladního výsadku</Czech>
             <Spanish>Coeficiente de tiempo para lanzamiento</Spanish>
@@ -365,7 +365,7 @@
             <Japanese>積載時間の係数</Japanese>
             <Polish>Współczynnik czasu załadowania</Polish>
             <Italian>Coefficente Tempo Caricamento</Italian>
-            <Russian>Коефіцієнт часу завантаження</Russian>
+            <Russian>Коефіцієнт тривалості завантаження</Russian>
             <Portuguese>Fator de tempo para carregar</Portuguese>
             <French>Coefficient du temps de chargement</French>
             <Chinese>裝載時間係數</Chinese>
@@ -378,7 +378,7 @@
             <Japanese>アイテムの積み下ろし作業にかかる時間を編集できます。\nアイテムの大きさにこの値が乗法され、時間 (秒) を変更できます。</Japanese>
             <Polish>Modyfikuje, jak długo zajmuje załadowywanie/wyładowywanie przedmiotów. \nCzasem, w sekundach, jest wielkość przedmiotu razy jego wartość.</Polish>
             <Italian>Modifica quanto tempo ci impiega a caricare o scaricare gli oggetti.\n Tempo, in secondi, è la dimensione dell'oggetto moltiplicata per questo valore</Italian>
-            <Russian>Змінює час для завантаження / розвантаження предметів. \nЧас (сек) - це розмір вантажу, помножений на це значення.</Russian>
+            <Russian>Змінює час для завантаження / розвантаження предметів.\nЧас (сек) - це розмір вантажу, помножений на це значення.</Russian>
             <Portuguese>Coeficiente de quanto tempo leva para carregar/descarregar itens.\nTempo, em segundos, é o tamanho do objeto multiplicado por esse valor.</Portuguese>
             <French>Modifie le temps nécessaire pour charger/décharger des objets.\nLe temps, en secondes, est calculé en multipliant la taille de l'élément par ce coefficient.</French>
             <Chinese>修改要花多長時間來裝載/卸載物品。\n時間，以秒為單位，而物品的大小數值與這個係數成比。</Chinese>
