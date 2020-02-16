@@ -221,8 +221,8 @@
         </Key>
         <Key ID="STR_ACE_Map_Gestures_leadColor_description">
             <English>Color value for group leaders of groups synced with this module.</English>
-            <Polish>Kolor dla liderów grup zsynchronizowanych z tym modułem.</Polish>
             <Portuguese>Valor de cor para líderes de grupo sincronizados com este módulo.</Portuguese>
+            <Polish>Kolor dla liderów grup zsynchronizowanych z tym modułem.</Polish>
             <Russian>Колір лідерів груп, що синхронізовані з цим модулем.</Russian>
             <Italian>Colore dei Caposquadra per gruppi sincronizzati con questo modulo.</Italian>
             <German>Farbwert für Gruppenführer, die mit diesem Modul synchronisiert werden.</German>
