@@ -5,7 +5,7 @@
             <English>Check ammo on weapon reload</English>
             <German>Prüfe Munition beim Nachladen</German>
             <Spanish>Comprobar munición al recargar el arma</Spanish>
-            <Russian>Перевіряти боєзапас при перезарядці</Russian>
+            <Russian>Показувати боєзапас при перезарядці</Russian>
             <Czech>Zkontrolovat munici při nabití</Czech>
             <Polish>Sprawdź stan amunicji przy przeładowaniu broni</Polish>
             <French>Vérifier les munitions au rechargement</French>
@@ -35,7 +35,7 @@
         </Key>
         <Key ID="STR_ACE_Reload_SettingShowCheckAmmoSelf">
             <English>Always show check ammo self interaction</English>
-            <Russian>Завжди показувати перевірку боєприпасів в меню взаємодії</Russian>
+            <Russian>Перевірка боєприпасів в меню взаємодії</Russian>
             <Polish>Zawsze pokazuj interakcję od sprawdzania amunicji</Polish>
             <Italian>Mostra sempre l'interazione di autocontrollo delle munizioni</Italian>
             <Czech>Vždy zobrazit kontrolu munice v menu vlastní interakce</Czech>

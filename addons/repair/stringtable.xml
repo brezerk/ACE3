@@ -1151,7 +1151,7 @@
             <German>Jeder</German>
             <Polish>Ktokolwiek</Polish>
             <Portuguese>Qualquer um</Portuguese>
-            <Russian>Будь-хто</Russian>
+            <Russian>Будь-кому</Russian>
             <Czech>Kdokoliv</Czech>
             <Spanish>Cualquiera</Spanish>
             <Italian>Chiunque</Italian>
@@ -1167,7 +1167,7 @@
             <German>Pionier</German>
             <Polish>Tylko mechanicy</Polish>
             <Portuguese>Somente engenheiro</Portuguese>
-            <Russian>Тільки Механік</Russian>
+            <Russian>Тільки Механіку</Russian>
             <Czech>Pouze inženýr</Czech>
             <Spanish>Solo ingeniero</Spanish>
             <Italian>Solo Geniere</Italian>
@@ -1187,7 +1187,7 @@
             <Chinese>只有維修專精兵</Chinese>
             <Polish>Tylko zaawansowani mechanicy</Polish>
             <Korean>고급 정비공만</Korean>
-            <Russian>Тільки Інженер-Механік</Russian>
+            <Russian>Тільки Інженеру-Механіку</Russian>
             <Portuguese>Somente engenheiro avançado</Portuguese>
             <French>Ing. avancés uniquement</French>
             <Czech>Pouze pokročilý inženýr</Czech>
@@ -1229,7 +1229,7 @@
             <German>Erlaube Reperatur</German>
             <Polish>Możliwość naprawy</Polish>
             <Portuguese>Permite reparo</Portuguese>
-            <Russian>Дозволити ремонт</Russian>
+            <Russian>Кому дозволити ремонт</Russian>
             <Czech>Možnost Opravování</Czech>
             <Spanish>Permitir reparación</Spanish>
             <Italian>Consenti Riparazioni</Italian>
@@ -1304,7 +1304,7 @@
             <German>Der maximale Schaden, der von einem Pionier behoben werden kann?</German>
             <Polish>Jaki jest maksymalny poziom uszkodzeń jaki może zostać naprawiony przez mechanika?</Polish>
             <Portuguese>Qual é o dano máximo que pode ser reparado com um engenheiro?</Portuguese>
-            <Russian>Максимальні пошкодження, яке може відремонтувати Механік?</Russian>
+            <Russian>Максимальні пошкодження, як може відремонтувати Механік?</Russian>
             <Spanish>¿Cuál es el daño máximo que puede ser reparado por un ingeniero?</Spanish>
             <Czech>Jaké maximální poškození může být opraveno pomoci inženýra?</Czech>
             <Italian>Qual'è il danno massimo che può essere riparato da un Geniere?</Italian>
@@ -1364,7 +1364,7 @@
             <German>Nur Reperaturfahrzeug</German>
             <Polish>Przy pojazdach naprawczych</Polish>
             <Portuguese>Somente veículos de reparo</Portuguese>
-            <Russian>Тільки у ремонтної техніки</Russian>
+            <Russian>Тільки ремонтна техніка</Russian>
             <Spanish>Reparar solo en vehículo</Spanish>
             <Czech>Pouze opravárenské vozidlo</Czech>
             <Italian>Solo Veicoli Riparazioni</Italian>
@@ -1379,7 +1379,7 @@
             <German>Nur Reperatureinrichtung</German>
             <Polish>Przy budynkach naprawczych</Polish>
             <Portuguese>Somente instalação de reparo</Portuguese>
-            <Russian>Тільки у ремонтних об'єктів</Russian>
+            <Russian>Тільки ремонтна об'єкти</Russian>
             <Spanish>Reparar solo en instalación</Spanish>
             <Czech>Pouze opravárenské zařízení</Czech>
             <Italian>Solo Strutture Riparazioni</Italian>
@@ -1394,7 +1394,7 @@
             <German>Reperatureinrichtung oder Reperaturfahrzeug</German>
             <Polish>Przy budynkach i pojazdach naprawczych</Polish>
             <Portuguese>Instalação e veículo de reparo</Portuguese>
-            <Russian>Тільки у ремонтних об'єктів або техніки</Russian>
+            <Russian>Тільки ремонтні об'єкти або техніка</Russian>
             <Spanish>Reparar en instalación o vehículo</Spanish>
             <Czech>Opravárenské zařízení nebo vozidlo</Czech>
             <Italian>Strutture Riparazioni o Veicoli</Italian>
@@ -1638,7 +1638,7 @@
             <German>Weise Reperatureinrichtung zu</German>
             <Polish>Przydziel budynek naprawczy</Polish>
             <Portuguese>Definir instalação de reparo</Portuguese>
-            <Russian>Призначити ремонтний об'экт</Russian>
+            <Russian>Призначити ремонтним об'єктом</Russian>
             <Spanish>Asignar instalación de reparación</Spanish>
             <Czech>Přiřaďte opravárenské zařízení</Czech>
             <Italian>Assegna Struttura Riparazioni</Italian>
@@ -1698,7 +1698,7 @@
             <German>Ist das Objekt als Reperatureinrichtung zugewiesen?</German>
             <Polish>Czy budynek jest zklasyfikowany jako budynek naprawczy?</Polish>
             <Portuguese>O objeto é classificado como instalação de reparo?</Portuguese>
-            <Russian>Класифікувати цей об'єкт як ремонтний?</Russian>
+            <Russian>Призначити цей об'єкт як ремонтний?</Russian>
             <Spanish>¿Está el objeto clasificado como una instalación de reparación?</Spanish>
             <Czech>Je objekt klasifikován jako opravárenské zařízení?</Czech>
             <Italian>L'oggetto è classificato come struttura riparazioni?</Italian>
@@ -1849,7 +1849,7 @@
             <German>Erfordernisse zur Reifenreperatur</German>
             <Polish>Wym. naprawy kół</Polish>
             <Spanish>Requisitos de reparación de ruedas</Spanish>
-            <Russian>Для ремонту коліс потрібно</Russian>
+            <Russian>Інструмент для ремонту коліс</Russian>
             <Portuguese>Requerimentos para reparo de rodas</Portuguese>
             <Czech>Vyžaduje opravu kol</Czech>
             <Italian>Requisiti riparazione ruote</Italian>
@@ -1876,7 +1876,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_MiscRepairRequiredItems_DisplayName">
             <English>Misc Repair Requirements</English>
-            <Russian>Різні вимоги до ремонту</Russian>
+            <Russian>Інструмент для звичайного ремонту</Russian>
             <Japanese>部分修理条件</Japanese>
             <Chinese>額外修理條件</Chinese>
             <French>Exigences pour réparations diverses</French>
@@ -1900,7 +1900,7 @@
         </Key>
         <Key ID="STR_ACE_Repair_FullRepairRequiredItems_DisplayName">
             <English>Full Repair Requirements</English>
-            <Russian>Вимоги до повного ремонту</Russian>
+            <Russian>Інструмент для повного ремонту</Russian>
             <Japanese>完全修理条件</Japanese>
             <Chinese>完整修復條件</Chinese>
             <French>Exigences pour réparations complètes</French>

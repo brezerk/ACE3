@@ -29,7 +29,7 @@
             <English>Advanced Diagnose</English>
             <German>Erweiterte Diagnose</German>
             <Japanese>アドバンスド診断</Japanese>
-            <Russian>Розширена діагностика</Russian>
+            <Russian>Розширена Діагностика</Russian>
             <French>Diagnostic avancé</French>
             <Portuguese>Diagnóstico Avançado</Portuguese>
             <Chinese>進階診斷</Chinese>
@@ -77,7 +77,7 @@
             <English>Advanced Medication</English>
             <German>Erweiterte Medikamente</German>
             <Japanese>アドバンスド医薬品</Japanese>
-            <Russian>Розширені Ліки</Russian>
+            <Russian>Розширені Медикаменти</Russian>
             <French>Médication avancée</French>
             <Portuguese>Medicação Avançada</Portuguese>
             <Chinese>進階醫療用品</Chinese>
@@ -209,7 +209,7 @@
             <English>Medic's Equipment First</English>
             <Japanese>衛生兵の装備を先に使用</Japanese>
             <French>Matériel du médecin d'abord</French>
-            <Russian>Спочатку медикаменти того, хто лікує</Russian>
+            <Russian>Спочатку медикаменти лікаря</Russian>
             <Portuguese>Usar do Médico Primeiro</Portuguese>
             <Chinese>優先使用醫療兵的醫療物資</Chinese>
             <Italian>Prima le attrezzature mediche</Italian>
@@ -921,7 +921,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_AssignMedicVehicle_enabled_DisplayName">
             <English>Is Medical Vehicle</English>
-            <Russian>Є медичним транспортом</Russian>
+            <Russian>Це медична техніка</Russian>
             <Polish>Jest pojazdem medycznym</Polish>
             <Spanish>Es vehículo médico</Spanish>
             <German>Ist medizinisches Fahrzeug</German>
@@ -937,7 +937,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_AssignMedicalFacility_enabled_DisplayName">
             <English>Is Medical Facility</English>
-            <Russian>Є медичним закладом</Russian>
+            <Russian>Це медичний заклад</Russian>
             <Polish>Jest budynkiem medycznym</Polish>
             <Spanish>Es centro médico</Spanish>
             <German>Ist eine medizinische Einrichtung</German>
@@ -1486,7 +1486,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_Blood_IV">
             <English>Blood IV (1000ml)</English>
-            <Russian>Кровь для інфузії (1000 мл)</Russian>
+            <Russian>Кров для інфузії (1000 мл)</Russian>
             <Spanish>Sangre IV (1000ml)</Spanish>
             <French>Culot sanguin IV (1000 ml)</French>
             <Polish>Krew IV (1000ml)</Polish>
@@ -1534,7 +1534,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_Blood_IV_500">
             <English>Blood IV (500ml)</English>
-            <Russian>Кровь для інфузії (500 мл)</Russian>
+            <Russian>Кров для інфузії (500 мл)</Russian>
             <Spanish>Sangre IV (500ml)</Spanish>
             <French>Culot sanguin IV (500 ml)</French>
             <Polish>Krew IV (500ml)</Polish>
@@ -1550,7 +1550,7 @@
         </Key>
         <Key ID="STR_ACE_Medical_Treatment_Blood_IV_250">
             <English>Blood IV (250ml)</English>
-            <Russian>Кровь для інфузії (250 мл)</Russian>
+            <Russian>Кров для інфузії (250 мл)</Russian>
             <Spanish>Sangre IV (250ml)</Spanish>
             <French>Culot sanguin IV (250 ml)</French>
             <Polish>Krew IV (250ml)</Polish>
@@ -1953,7 +1953,7 @@
             <Spanish>Transfundir sangre</Spanish>
             <Polish>Przetocz krew</Polish>
             <Czech>Transfúze krve</Czech>
-            <Russian>Перелити Кровь</Russian>
+            <Russian>Перелити Кров</Russian>
             <French>Transfuser (sang)</French>
             <Hungarian>Infúzió (vér)</Hungarian>
             <Portuguese>Transfundir Sangue</Portuguese>
@@ -2129,7 +2129,7 @@
             <Spanish>Inyectando Morfina...</Spanish>
             <Polish>Wstrzykiwanie morfiny...</Polish>
             <Czech>Aplikuji morfin...</Czech>
-            <Russian>Введення Морфина...</Russian>
+            <Russian>Вводиться Морфін...</Russian>
             <French>Injection (morphine)...</French>
             <Hungarian>Morfium beadása...</Hungarian>
             <Portuguese>Injetando Morfina...</Portuguese>
@@ -2145,7 +2145,7 @@
             <Spanish>Inyectando Epinefrina...</Spanish>
             <Polish>Wstrzykiwanie adrenaliny...</Polish>
             <Czech>Aplikuji adrenalin...</Czech>
-            <Russian>Введення Адреналіна...</Russian>
+            <Russian>Вводиться Адреналін...</Russian>
             <French>Injection (épinéphrine)...</French>
             <Hungarian>Epinefrin beadása...</Hungarian>
             <Portuguese>Injetando Epinefrina...</Portuguese>
@@ -2164,7 +2164,7 @@
             <Italian>Inietto l'andenosina</Italian>
             <Czech>Aplikuji adenosine...</Czech>
             <Portuguese>Injetando Adenosina...</Portuguese>
-            <Russian>Введення Аденозина...</Russian>
+            <Russian>Вводиться Аденозин...</Russian>
             <Japanese>アドネシンを投与しています・・・</Japanese>
             <Korean>아데노신 주사중...</Korean>
             <Chinesesimp>腺苷注射中...</Chinesesimp>
@@ -2177,7 +2177,7 @@
             <Czech>Aplikuji atropin...</Czech>
             <Polish>Wstrzykiwanie atropiny...</Polish>
             <French>Injection (atropine)...</French>
-            <Russian>Введення Атропіна...</Russian>
+            <Russian>Вводиться Атропін...</Russian>
             <Hungarian>Atropin beadása...</Hungarian>
             <Italian>Inietto l'atropina...</Italian>
             <Portuguese>Injetando Atropina</Portuguese>
@@ -2192,7 +2192,7 @@
             <Spanish>Transfusión de sangre...</Spanish>
             <Polish>Przetaczanie krwi...</Polish>
             <Czech>Probíhá transfúze krve...</Czech>
-            <Russian>Переливання крові...</Russian>
+            <Russian>Переливається кров...</Russian>
             <French>Transfusion (sang)...</French>
             <Hungarian>Infúzió vérrel...</Hungarian>
             <Portuguese>Transfundindo Sangue...</Portuguese>
@@ -2209,7 +2209,7 @@
             <Czech>Probíha transfúze fyziologického roztoku...</Czech>
             <Polish>Przetaczanie soli fizjologicznej...</Polish>
             <French>Transfusion (solution saline)...</French>
-            <Russian>Переливання Фізрозчину...</Russian>
+            <Russian>Переливається Фізрозчин...</Russian>
             <Hungarian>Infúzió sós vizzel...</Hungarian>
             <Italian>Effettuo la rasfusione di soluzione salina</Italian>
             <Portuguese>Transfundindo Soro...</Portuguese>
@@ -2225,7 +2225,7 @@
             <Czech>Probíha transfúze plazmy...</Czech>
             <Polish>Przetaczanie osocza...</Polish>
             <French>Transfusion (plasma)...</French>
-            <Russian>Переливання Плазми...</Russian>
+            <Russian>Переливається Плазма...</Russian>
             <Hungarian>Infúzió vérplazmával...</Hungarian>
             <Italian>Effettu la trasfusione di plasma...</Italian>
             <Portuguese>Transfundindo Plasma...</Portuguese>
@@ -2504,7 +2504,7 @@
             <English>Give Blood IV (1000ml)</English>
             <German>Bluttransfusion IV (1000ml)</German>
             <Spanish>Dar Sangre IV (1000ml)</Spanish>
-            <Russian>Перелити пакет крові (1000 мл)</Russian>
+            <Russian>Перелити кров (1000 мл)</Russian>
             <Polish>Podaj krew IV (1000ml)</Polish>
             <French>Sang en IV (1000 ml)</French>
             <Czech>Podat krev. transfúzi (1000ml)</Czech>
@@ -2520,7 +2520,7 @@
             <English>Give Blood IV (500ml)</English>
             <German>Bluttransfusion IV (500ml)</German>
             <Spanish>Dar Sangre IV (500ml)</Spanish>
-            <Russian>Перелити пакет крові (500 мл)</Russian>
+            <Russian>Перелити кров (500 мл)</Russian>
             <Polish>Podaj krew IV (500ml)</Polish>
             <French>Sang en IV (500 ml)</French>
             <Czech>Podat krev. transfúzi (500ml)</Czech>
@@ -2536,7 +2536,7 @@
             <English>Give Blood IV (250ml)</English>
             <German>Bluttransfusion IV (250ml)</German>
             <Spanish>Dar Sangre IV (250ml)</Spanish>
-            <Russian>Перелити пакет крові (250 мл)</Russian>
+            <Russian>Перелити кров (250 мл)</Russian>
             <Polish>Podaj krew IV (250ml)</Polish>
             <French>Sang en IV (250 ml)</French>
             <Czech>Podat krev. transfúzi (250ml)</Czech>
@@ -2552,7 +2552,7 @@
             <English>Give Plasma IV (1000ml)</English>
             <German>Plasmatransfusion IV (1000ml)</German>
             <Spanish>Dar Plasma IV (1000ml)</Spanish>
-            <Russian>Перелити пакет плазми (1000 мл)</Russian>
+            <Russian>Перелити плазму (1000 мл)</Russian>
             <Polish>Podaj osocze IV (1000ml)</Polish>
             <French>Plasma en IV (1000 ml)</French>
             <Czech>Podat plazmu (1000ml)</Czech>
@@ -2568,7 +2568,7 @@
             <English>Give Plasma IV (500ml)</English>
             <German>Plasmatransfusion IV (500ml)</German>
             <Spanish>Dar Plasma IV (500ml)</Spanish>
-            <Russian>Перелити пакет плазми (500 мл)</Russian>
+            <Russian>Перелити плазму (500 мл)</Russian>
             <Polish>Podaj osocze IV (500ml)</Polish>
             <French>Plasma en IV (500 ml)</French>
             <Czech>Podat plazmu (500ml)</Czech>
@@ -2584,7 +2584,7 @@
             <English>Give Plasma IV (250ml)</English>
             <German>Plasmatransfusion IV (250ml)</German>
             <Spanish>Dar Plasma IV (250ml)</Spanish>
-            <Russian>Перелити пакет плазми (250 мл)</Russian>
+            <Russian>Перелити плазму (250 мл)</Russian>
             <Polish>Podaj osocze IV (250ml)</Polish>
             <French>Plasma en IV (250 ml)</French>
             <Czech>Podat plazmu (250ml)</Czech>
@@ -2600,7 +2600,7 @@
             <English>Give Saline IV (1000ml)</English>
             <German>Kochsalzlösung IV (1000ml)</German>
             <Spanish>Dar Salino IV (1000ml)</Spanish>
-            <Russian>Перелити пакет фізрозчину (1000 мл)</Russian>
+            <Russian>Перелити фізрозчин (1000 мл)</Russian>
             <Polish>Podaj sól fizjologiczną IV (1000ml)</Polish>
             <French>Solution saline en IV (1000 ml)</French>
             <Czech>Podaz fyz. roztok (1000ml)</Czech>
@@ -2616,7 +2616,7 @@
             <English>Give Saline IV (500ml)</English>
             <German>Kochsalzlösung IV (500ml)</German>
             <Spanish>Dar Salino IV (500ml)</Spanish>
-            <Russian>Перелити пакет фізрозчину (500 мл)</Russian>
+            <Russian>Перелити фізрозчин (500 мл)</Russian>
             <Polish>Podaj sól fizjologiczną IV (500ml)</Polish>
             <French>Solution saline en IV (500 ml)</French>
             <Czech>Podaz fyz. roztok (500ml)</Czech>
@@ -2632,7 +2632,7 @@
             <English>Give Saline IV (250ml)</English>
             <German>Kochsalzlösung IV (250ml)</German>
             <Spanish>Dar Salino IV (250ml)</Spanish>
-            <Russian>Перелити пакет фізрозчину (250 мл)</Russian>
+            <Russian>Перелити фізрозчин (250 мл)</Russian>
             <Polish>Podaj sól fizjologiczną IV (250ml)</Polish>
             <French>Solution saline en IV (250 ml)</French>
             <Czech>Podaz fyz. roztok (250ml)</Czech>
@@ -2648,7 +2648,7 @@
             <English>Minimal</English>
             <German>Minimal</German>
             <Japanese>軽処置群</Japanese>
-            <Russian>Мінімально</Russian>
+            <Russian>Мінімальна допомога</Russian>
             <French>Aucune urgence</French>
             <Portuguese>Mínimo</Portuguese>
             <Chinese>輕微</Chinese>
@@ -2660,7 +2660,7 @@
         <Key ID="STR_ACE_Medical_Treatment_Triage_Status_Delayed">
             <English>Delayed</English>
             <Spanish>Retrasado</Spanish>
-            <Russian>Не терміново</Russian>
+            <Russian>Не термінова допомога</Russian>
             <Polish>Pomoc Odroczona</Polish>
             <French>Peut attendre</French>
             <German>Verzögert</German>
@@ -2708,7 +2708,7 @@
         <Key ID="STR_ACE_Medical_Treatment_Triage_Status_None">
             <English>None</English>
             <Spanish>Ninguno</Spanish>
-            <Russian>Відсутній</Russian>
+            <Russian>Без класифікації</Russian>
             <Polish>Brak klasyfikacji</Polish>
             <French>Pas de fiche</French>
             <German>Keine</German>
@@ -3821,7 +3821,7 @@
             <English>%1 used %2</English>
             <Spanish>%1 usó %2</Spanish>
             <German>%1 benutzt %2</German>
-            <Russian>%1 використовував %2</Russian>
+            <Russian>%1 вколов %2</Russian>
             <Polish>%1 użył %2</Polish>
             <French>%1 a utilisé un %2.</French>
             <Hungarian>%1 használta a %2-t</Hungarian>
