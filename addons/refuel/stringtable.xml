@@ -37,7 +37,7 @@
             <English>How fast should a vehicle be refueled?</English>
             <German>Wie schnell soll ein Fahrzeug aufgetankt sein?</German>
             <Polish>Jak szybko pojazd powinien zostać zatankowany?</Polish>
-            <Russian>Як швидко техніка повинна бути заправлена?</Russian>
+            <Russian>Як швидко заправляти техніку?</Russian>
             <Portuguese>Quão rápido deve ser o veículo reabastecido?</Portuguese>
             <Czech>Jak rychle bude vozidlo natankováno?</Czech>
             <Italian>Quanto velocemente dovrebbe essere rifornito un veicolo?</Italian>
@@ -165,7 +165,7 @@
             <English>Check remaining fuel</English>
             <German>Verbleibenden Kraftstoff überprüfen</German>
             <Polish>Sprawdź ilość paliwa</Polish>
-            <Russian>Перевірити залишок палива</Russian>
+            <Russian>Перевірити залишок пального</Russian>
             <Portuguese>Verificar combustível restante</Portuguese>
             <Czech>Zkontrolovat zůstatek paliva</Czech>
             <Italian>Controlla benzina rimanente</Italian>
@@ -181,7 +181,7 @@
             <English>Checking remaining fuel...</English>
             <German>Überprüfe verbleibenden Kraftstoff...</German>
             <Polish>Sprawdzanie ilości paliwa...</Polish>
-            <Russian>Перевіряємо залишок палива...</Russian>
+            <Russian>Перевіряємо залишок пального...</Russian>
             <Portuguese>Verificando combustível restante...</Portuguese>
             <Czech>Kontroluji zůstatek paliva...</Czech>
             <Italian>Controllando la benzina rimanente...</Italian>
@@ -213,7 +213,7 @@
             <English>There is no fuel left.</English>
             <German>Es ist kein Kraftstoff übrig.</German>
             <Polish>W zbiorniku nie ma paliwa.</Polish>
-            <Russian>Паливо закінчилося.</Russian>
+            <Russian>Пальне закінчилося.</Russian>
             <Portuguese>Não há combustível</Portuguese>
             <Czech>Bez paliva.</Czech>
             <Italian>Non è rimasta più benzina.</Italian>
@@ -229,7 +229,7 @@
             <English>Cancel</English>
             <German>Abbrechen</German>
             <Polish>Anuluj</Polish>
-            <Russian>Відмінити</Russian>
+            <Russian>Скасувати</Russian>
             <Portuguese>Cancelar</Portuguese>
             <Czech>Zrušit</Czech>
             <Italian>Cancella</Italian>
@@ -245,7 +245,7 @@
             <English>Failed</English>
             <German>Gescheitert</German>
             <Polish>Porażka</Polish>
-            <Russian>Не вийшло</Russian>
+            <Russian>Не вдалося</Russian>
             <Portuguese>Falhou</Portuguese>
             <Czech>Neúspěšný</Czech>
             <Italian>Fallito</Italian>
@@ -261,7 +261,7 @@
             <English>Stop fueling</English>
             <German>Betankung stoppen</German>
             <Polish>Zatrzymaj tankowanie</Polish>
-            <Russian>Зупинити заправку</Russian>
+            <Russian>Припинити заправку</Russian>
             <Portuguese>Parar reabastecimento</Portuguese>
             <Czech>Zastavit tankování</Czech>
             <Italian>Ferma rifornimento</Italian>
@@ -293,7 +293,7 @@
             <English>Couldn't turn on fuel nozzle</English>
             <German>Kann Zapfpistole nicht anschalten</German>
             <Italian>Impossibile iniziare il rifornimento</Italian>
-			<Russian>Не вдалося увімкнути паливний пістолет</Russian>
+            <Russian>Не вдалося увімкнути паливний пістолет</Russian>
             <Japanese>給油を始められませんでした</Japanese>
             <Chinese>無法開啟燃料噴嘴</Chinese>
             <Chinesesimp>无法开启燃料喷嘴</Chinesesimp>
@@ -339,7 +339,7 @@
             <English>Maximum fuel hose length reached.</English>
             <German>Maximale Schlauchlänge erreicht.</German>
             <Polish>Osiągnięto maksymalną długość przewodu paliwowego.</Polish>
-            <Russian>Досягнута максимальна довжина шланга.</Russian>
+            <Russian>Досягнута максимальна довжина шлангу.</Russian>
             <Portuguese>Distância máxima da mangueira de combustível alcançada.</Portuguese>
             <Czech>Dosažena maximální délka hadice</Czech>
             <Italian>Distanza massima della pompa raggiunta.</Italian>
@@ -435,7 +435,7 @@
             <English>Check fuel counter</English>
             <German>Tankuhr ansehen</German>
             <Polish>Sprawdź wskaźnik paliwa</Polish>
-            <Russian>Перевірити лічильник палива</Russian>
+            <Russian>Перевірити лічильник пального</Russian>
             <Portuguese>Verificar contador de combustível</Portuguese>
             <Czech>Zkonrolovat palivoměr</Czech>
             <Italian>Controlla indicatore livello benzina</Italian>
@@ -497,7 +497,7 @@
         <Key ID="STR_ACE_Refuel_fuelCargo_edenDesc">
             <English>The fuel volume available for refueling (-1 disable, -10 if infinite)</English>
             <German>Das Tankvolumen, welches zum Nachtanken verfügbar ist (-1 deaktiviert, -10 unendlich)</German>
-            <Russian>Об'єм палива, доступний для заправки інших машин (-1 відключити, -10 якщо необщежений)</Russian>
+            <Russian>Об'єм пального, для заправки інших машин (-1 відключити, -10 якщо необмежений)</Russian>
             <Japanese>給油用の貯油量を設定できます (-1で無効、-10で無限)</Japanese>
             <Italian>La capacità del carburante disponibile per il rifornimento (-1 disabilita, -10 se infinito)</Italian>
             <Chinese>設定有多少油料可供載具進行加油(-1時關閉，-10為無限油量)</Chinese>
